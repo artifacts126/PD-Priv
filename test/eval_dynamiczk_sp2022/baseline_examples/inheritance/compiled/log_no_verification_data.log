@@ -1,0 +1,99 @@
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 994309, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_buy"]}
+{"key": "time_transaction_full", "value": 0.0902106761932373, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_buy"]}
+{"key": "gas", "value": 994333, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_sell"]}
+{"key": "time_transaction_full", "value": 0.08690571784973145, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_sell"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_transfer"]}
+{"key": "time_transaction_full", "value": 0.09041523933410645, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_transfer"]}
+{"key": "gas", "value": 994729, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_pledge_inheritance"]}
+{"key": "time_transaction_full", "value": 0.07614779472351074, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_pledge_inheritance"]}
+{"key": "gas", "value": 994741, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_claim_inheritance"]}
+{"key": "time_transaction_full", "value": 0.07341122627258301, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_claim_inheritance"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_consistency_balance"]}
+{"key": "time_transaction_full", "value": 0.0905771255493164, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_consistency_balance"]}
+{"key": "gas", "value": 994513, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_consistency_total_inheritance_pledged"]}
+{"key": "time_transaction_full", "value": 0.09211492538452148, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_consistency_total_inheritance_pledged"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_consistency_inheritance_pledged_recv"]}
+{"key": "time_transaction_full", "value": 0.08802151679992676, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_consistency_inheritance_pledged_recv"]}
+{"key": "gas", "value": 994357, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_consistency_inheritance_pledged_send"]}
+{"key": "time_transaction_full", "value": 0.08927392959594727, "context": ["constructor_0", "constructor", "zk__Verify_Inheritance_consistency_inheritance_pledged_send"]}
+{"key": "gas", "value": 4457050, "context": ["constructor_0", "constructor", "Inheritance"]}
+{"key": "gas", "value": 34599, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 8.087088584899902, "context": ["constructor_0"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 69, "context": []}
+{"key": "time_jsnark_prepare_proof", "value": 1.0851800441741943, "context": ["consistency_balance_0"]}
+{"key": "time_libsnark_gen_proof", "value": 5.009904623031616, "context": ["consistency_balance_0"]}
+{"key": "time_generate_proof", "value": 6.099668741226196, "context": ["consistency_balance_0"]}
+{"key": "gas", "value": 120075, "context": ["consistency_balance_0"]}
+{"key": "time_transaction_full", "value": 7.577548027038574, "context": ["consistency_balance_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0198235511779785, "context": ["consistency_balance_1"]}
+{"key": "time_libsnark_gen_proof", "value": 4.764070510864258, "context": ["consistency_balance_1"]}
+{"key": "time_generate_proof", "value": 5.788046360015869, "context": ["consistency_balance_1"]}
+{"key": "gas", "value": 120063, "context": ["consistency_balance_1"]}
+{"key": "time_transaction_full", "value": 7.284210443496704, "context": ["consistency_balance_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0345768928527832, "context": ["consistency_balance_2"]}
+{"key": "time_libsnark_gen_proof", "value": 4.721586227416992, "context": ["consistency_balance_2"]}
+{"key": "time_generate_proof", "value": 5.760771036148071, "context": ["consistency_balance_2"]}
+{"key": "gas", "value": 120099, "context": ["consistency_balance_2"]}
+{"key": "time_transaction_full", "value": 7.164357662200928, "context": ["consistency_balance_2"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0417635440826416, "context": ["consistency_total_inheritance_pledged_0"]}
+{"key": "time_libsnark_gen_proof", "value": 5.197859287261963, "context": ["consistency_total_inheritance_pledged_0"]}
+{"key": "time_generate_proof", "value": 6.244300603866577, "context": ["consistency_total_inheritance_pledged_0"]}
+{"key": "gas", "value": 120187, "context": ["consistency_total_inheritance_pledged_0"]}
+{"key": "time_transaction_full", "value": 7.657358884811401, "context": ["consistency_total_inheritance_pledged_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0532491207122803, "context": ["consistency_inheritance_pledged_recv_0"]}
+{"key": "time_libsnark_gen_proof", "value": 7.139125347137451, "context": ["consistency_inheritance_pledged_recv_0"]}
+{"key": "time_generate_proof", "value": 8.197383642196655, "context": ["consistency_inheritance_pledged_recv_0"]}
+{"key": "gas", "value": 102175, "context": ["consistency_inheritance_pledged_recv_0"]}
+{"key": "time_transaction_full", "value": 8.949310064315796, "context": ["consistency_inheritance_pledged_recv_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.9488427639007568, "context": ["consistency_inheritance_pledged_recv_1"]}
+{"key": "time_libsnark_gen_proof", "value": 5.990663766860962, "context": ["consistency_inheritance_pledged_recv_1"]}
+{"key": "time_generate_proof", "value": 6.944440841674805, "context": ["consistency_inheritance_pledged_recv_1"]}
+{"key": "gas", "value": 102199, "context": ["consistency_inheritance_pledged_recv_1"]}
+{"key": "time_transaction_full", "value": 7.625304937362671, "context": ["consistency_inheritance_pledged_recv_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.9347505569458008, "context": ["consistency_inheritance_pledged_send_0"]}
+{"key": "time_libsnark_gen_proof", "value": 7.12976336479187, "context": ["consistency_inheritance_pledged_send_0"]}
+{"key": "time_generate_proof", "value": 8.06964921951294, "context": ["consistency_inheritance_pledged_send_0"]}
+{"key": "gas", "value": 102239, "context": ["consistency_inheritance_pledged_send_0"]}
+{"key": "time_transaction_full", "value": 8.678264856338501, "context": ["consistency_inheritance_pledged_send_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.9522202014923096, "context": ["consistency_inheritance_pledged_send_1"]}
+{"key": "time_libsnark_gen_proof", "value": 5.908662557601929, "context": ["consistency_inheritance_pledged_send_1"]}
+{"key": "time_generate_proof", "value": 6.864246606826782, "context": ["consistency_inheritance_pledged_send_1"]}
+{"key": "gas", "value": 102215, "context": ["consistency_inheritance_pledged_send_1"]}
+{"key": "time_transaction_full", "value": 7.453930854797363, "context": ["consistency_inheritance_pledged_send_1"]}
+{"key": "gas", "value": 29864, "context": ["_test_advance_time_0"]}
+{"key": "time_transaction_full", "value": 0.18250346183776855, "context": ["_test_advance_time_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.381099939346313, "context": ["claim_inheritance_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 3.0177674293518066, "context": ["claim_inheritance_0"]}
+{"key": "time_libsnark_gen_proof", "value": 39.24168086051941, "context": ["claim_inheritance_0"]}
+{"key": "time_generate_proof", "value": 42.27204704284668, "context": ["claim_inheritance_0"]}
+{"key": "gas", "value": 197758, "context": ["claim_inheritance_0"]}
+{"key": "time_transaction_full", "value": 60.10237979888916, "context": ["claim_inheritance_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.295892238616943, "context": ["claim_inheritance_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 3.047065496444702, "context": ["claim_inheritance_1"]}
+{"key": "time_libsnark_gen_proof", "value": 36.667022466659546, "context": ["claim_inheritance_1"]}
+{"key": "time_generate_proof", "value": 39.72791409492493, "context": ["claim_inheritance_1"]}
+{"key": "gas", "value": 197758, "context": ["claim_inheritance_1"]}
+{"key": "time_transaction_full", "value": 57.663235664367676, "context": ["claim_inheritance_1"]}
+{"key": "time_elgamal_decrypt", "value": 11.577091932296753, "context": ["sell_1"]}
+{"key": "time_elgamal_decrypt", "value": 11.335277557373047, "context": ["sell_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.6142816543579102, "context": ["sell_1"]}
+{"key": "time_libsnark_gen_proof", "value": 16.269559860229492, "context": ["sell_1"]}
+{"key": "time_generate_proof", "value": 17.8920316696167, "context": ["sell_1"]}
+{"key": "gas", "value": 83964, "context": ["sell_1"]}
+{"key": "time_transaction_full", "value": 42.74858355522156, "context": ["sell_1"]}
+{"key": "time_elgamal_decrypt", "value": 11.426737308502197, "context": ["sell_2"]}
+{"key": "time_elgamal_decrypt", "value": 11.383553504943848, "context": ["sell_2"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.632047176361084, "context": ["sell_2"]}
+{"key": "time_libsnark_gen_proof", "value": 15.18529224395752, "context": ["sell_2"]}
+{"key": "time_generate_proof", "value": 16.82523226737976, "context": ["sell_2"]}
+{"key": "gas", "value": 83964, "context": ["sell_2"]}
+{"key": "time_transaction_full", "value": 41.60509705543518, "context": ["sell_2"]}
+{"key": "time_all_transactions", "value": 325.2798504829407, "context": []}

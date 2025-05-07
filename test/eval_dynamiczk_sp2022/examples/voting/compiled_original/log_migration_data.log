@@ -1,0 +1,21 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "Voting"]}
+{"key": "function_sender", "value": "0xe1AB8145F7E55DC933d51a18c793F901A3A0b276", "context": ["constructor_0", "constructor", "Voting"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "Voting"]}
+{"key": "gas", "value": 294215, "context": ["constructor_0", "constructor", "Voting"]}
+{"key": "transaction_data_kb", "value": 2.119140625, "context": ["constructor_0", "constructor", "Voting"]}
+{"key": "time_transaction_full", "value": 0.19249677658081055, "context": ["constructor_0"]}
+{"key": "function_name", "value": "vote", "context": ["vote_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["vote_0"]}
+{"key": "function_value", "value": "None", "context": ["vote_0"]}
+{"key": "function_arg_0", "value": "0", "context": ["vote_0"]}
+{"key": "gas", "value": 52955, "context": ["vote_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["vote_0"]}
+{"key": "time_transaction_full", "value": 0.19524598121643066, "context": ["vote_0"]}
+{"key": "function_name", "value": "vote", "context": ["vote_1"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["vote_1"]}
+{"key": "function_value", "value": "None", "context": ["vote_1"]}
+{"key": "function_arg_0", "value": "1", "context": ["vote_1"]}
+{"key": "gas", "value": 52967, "context": ["vote_1"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["vote_1"]}
+{"key": "time_transaction_full", "value": 0.1918032169342041, "context": ["vote_1"]}
+{"key": "time_all_transactions", "value": 1.0952105522155762, "context": []}

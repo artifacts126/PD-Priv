@@ -1,0 +1,18 @@
+{"key": "gas", "value": 723020, "context": ["constructor", "Voting"]}
+{"key": "transaction_data_kb", "value": 6.15625, "context": ["constructor", "Voting"]}
+{"key": "arg_0", "value": "0xab98823DD9f56dFB9f1459072631bDB1FF2Eb0Ea", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "gas", "value": 72567, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.061214447021484375, "context": ["initialize_0"]}
+{"key": "arg_0", "value": "0", "context": ["vote_0"]}
+{"key": "gas", "value": 54885, "context": ["vote_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["vote_0"]}
+{"key": "time_transaction_full", "value": 0.3270914554595947, "context": ["vote_0"]}
+{"key": "arg_0", "value": "1", "context": ["vote_1"]}
+{"key": "gas", "value": 54897, "context": ["vote_1"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["vote_1"]}
+{"key": "time_transaction_full", "value": 0.3251221179962158, "context": ["vote_1"]}
+{"key": "time_all_transactions", "value": 3.3308308124542236, "context": []}

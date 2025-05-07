@@ -1,0 +1,137 @@
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "transaction_data_kb", "value": 1.833984375, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "transaction_data_kb", "value": 1.830078125, "context": ["deploy_pki", "elgamal"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(6325526332278667850545639338246805286493399800719345945889375825699175625225,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(449007656374715091223839500040442942948035534249706623566668640956629123334, 4179427941492315070396959285269811124855967820019787560315777753392402590553)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_fund"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_fund"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_fund"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_fund"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_fund"]}
+{"key": "time_transaction_full", "value": 0.055298805236816406, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_fund"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_transfer"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_transfer"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_transfer"]}
+{"key": "gas", "value": 994537, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_transfer"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_transfer"]}
+{"key": "time_transaction_full", "value": 0.05209684371948242, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_transfer"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_burn"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_burn"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_burn"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_burn"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_burn"]}
+{"key": "time_transaction_full", "value": 0.05527067184448242, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_burn"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_into_vault"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_into_vault"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_into_vault"]}
+{"key": "gas", "value": 994525, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_into_vault"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_into_vault"]}
+{"key": "time_transaction_full", "value": 0.054119110107421875, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_into_vault"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_from_vault"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_from_vault"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_from_vault"]}
+{"key": "gas", "value": 994525, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_from_vault"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_from_vault"]}
+{"key": "time_transaction_full", "value": 0.0515902042388916, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_from_vault"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_transformation"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_transformation"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_transformation"]}
+{"key": "gas", "value": 994513, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_transformation"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_transformation"]}
+{"key": "time_transaction_full", "value": 0.055145263671875, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_transformation"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "gas", "value": 4208080, "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "transaction_data_kb", "value": 37.521484375, "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "function_name", "value": "upgradeTo", "context": ["constructor_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0"]}
+{"key": "function_arg_0", "value": "0x550D108F2D3Db72F40C5f37d29040e1912E985A0", "context": ["constructor_0"]}
+{"key": "gas", "value": 34532, "context": ["constructor_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 4.327826976776123, "context": ["constructor_0"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(19090310951707302316100886367560642938039444374027034457973349127870599743883,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(13701998475233943465458696751977660315689779626931201443029885127224748799894, 16016799950875163697800280968893391004399733300328865076169153407683330223977)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.4537436962127686, "context": ["consistency_transformation_0"]}
+{"key": "time_libsnark_gen_proof", "value": 18.25516986846924, "context": ["consistency_transformation_0"]}
+{"key": "time_generate_proof", "value": 19.72047185897827, "context": ["consistency_transformation_0"]}
+{"key": "function_name", "value": "consistency_transformation", "context": ["consistency_transformation_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["consistency_transformation_0"]}
+{"key": "function_value", "value": "None", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_0", "value": "[2364923853935738729391119904548918707750297905273801544385019783849688864233, 19607723062010680384267200552499062590170842300018105095408131888630835879267, 20034805572873340391103634912312019222306448351840406891108827219267705426475, 3760918410911646972253011674932607198155595070038839884418574624679748314130, 5175093328344487453743572667545463727748991623888811927120329011932772828648, 11599217072405268569019321035826468034755479464532675795272494054624930295220, 9323952756640948387908247399275274480243180835417027410241081032886377323191, 4306305017674243307114550214663360810004445646867722950004660909613768920612, 1300346372812877748749327716071878289529795488720873505018562342960872536624, 16033266176288102179221867487367116233987300046084049516047506621015327070502, 12816888463429624210732025081539612038363514371684673646835150745528894242912, 2720597148255972201146264856685790130733207257359248124791830943365988018115, 6475144779965388272067032250059533588073207623234365462873251957199036210522, 17622563837409965738082510723481327743558783614268094084396719667809180991819, 5040969189212333454202200791607452854012062527820812840321053265817674645717, 19642782403431162235239458380714777553809763682694084444533609707640095802221, 3897779382161891597006145594001923059138122237255640286126, 1293824981060649494342784790415216702808777729690732394471]", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_1", "value": "[288860470887184959266015322941323959889008120340937066192821253457267605026, 2533773581126058158819513558951692077565991149140754566432619452893037914318, 1841727427402105053083076846211451201215806606149861042890083511046477198299, 6835620585985877944529477581057260069152863667876121167358934071668030300701, 2786320850032440041412711485559427358904956605989281361045878555296167075294, 17365074986754207878296619280809683377846798038888654238461849433967817218402, 12607215821488012127452781925088046843781238063367747926580816962950135111485, 3223033864996895005893697364993304206270299813457504246120940364301600675110]", "context": ["consistency_transformation_0"]}
+{"key": "gas", "value": 687715, "context": ["consistency_transformation_0"]}
+{"key": "transaction_data_kb", "value": 1.759765625, "context": ["consistency_transformation_0"]}
+{"key": "time_transaction_full", "value": 25.19933009147644, "context": ["consistency_transformation_0"]}
+{"key": "time_elgamal_decrypt", "value": 0.371828556060791, "context": ["transfer_1"]}
+{"key": "time_elgamal_decrypt", "value": 7.211527585983276, "context": ["transfer_1"]}
+{"key": "time_elgamal_decrypt", "value": 7.208747148513794, "context": ["transfer_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 2.197338819503784, "context": ["transfer_1"]}
+{"key": "time_libsnark_gen_proof", "value": 35.94532895088196, "context": ["transfer_1"]}
+{"key": "time_generate_proof", "value": 38.15586805343628, "context": ["transfer_1"]}
+{"key": "function_name", "value": "transfer", "context": ["transfer_1"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["transfer_1"]}
+{"key": "function_value", "value": "None", "context": ["transfer_1"]}
+{"key": "function_arg_0", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["transfer_1"]}
+{"key": "function_arg_1", "value": "[7070445422909547114704127622364675230253723717248851826691765083542875453153, 4743704169136480355277412788371673269139642373567944110472414871010934012590, 2689632318314775971431189641348001241138941298479643971696779198211203516525, 15291103314386660527390683429659724897918219922394889982893886307285422130407]", "context": ["transfer_1"]}
+{"key": "function_arg_2", "value": "[1, 3563807077251751418042638723356001195958419296908244491274465513549846273756, 7342028722107640851832193070350109217759518633219008171518485518648226294808, 13702758296202466630481588820702570200298358913243375495199264635797632366777, 15165806109458631521519797551730650350489941335761865085535758283514915565489, 17395005884308972696288864326974118561960115286956781165688588676557343578878, 5945684224410420058580820624911298974640834027338785308430746967157747108784, 17889633375868489993165767716176882901356630311832426713672141920067532583813, 5465948519875264753927100205953977290554067156961150537752004137965053347706, 21027978655338980599602488525422082295151000631930815752851454925800490167474, 14820071209352660573857032208690708341867278358816997540006069685428293610270, 11049600844151556506181840080402462456452673205966266703463421770949178540482, 388153672581990132788929174712119554309215157646358071629038161092687753752, 13822347030064792913336342344914188987008852710091769422994691553952853258797, 6280705846812051607923212253674890336690971188119677754371753034582592470613, 17113980537877691084952035670207638251166367047066219902686128755432530402439, 15903489180876996108604465463868430622429334546874726440571595370722261401318, 13751351126186410089390956245730046227711395880452215221675624413635843432353, 7319635196780967124807941038232129383821699913289882030956343924100572266047, 11157841776246951654459325416830192438524810674962413234616005502888593085388, 20117921830021991119485230992753537831803183907761561664259399648795751487582, 6167955610089237627149636334579881656810013945095582679761805504607810479336, 14747889383863585091921151392259830624710050654843077679955638340959682094002, 19414058761329760517892297055616672255876515567907019459494353439999036148208, 19452628994346490782305870295397222222928819564398231040858108644223177326996, 17018226550425885710029827993225367182287914994196871755772210034991369816493, 2420491026133304885191825841982552853803746975602240110128645091804438025890, 566220547138996823862104943722771870027918845121578787716732672088427059748, 18352044825664612598423534137054224796746866333753295980267971726494101307841]", "context": ["transfer_1"]}
+{"key": "function_arg_3", "value": "[17716682390240865386474004737163040024118451581775306772892273487132095411601, 5490809378344706284880431583010907026673988737869385921409275340838836278650, 8179188507080753740070022013352459720049202168051293060926624993894549776307, 13539206606113634925212910411455963982727697035989498624884530794082604374622, 1198392648719021778574020652494254848648936166539937565032205593039049498134, 5680962047807335090308058787371393394880379401128096368888946871589315499697, 9460184650842717763370743894340942349050936484875654238973919434530788003724, 19510837659294829777914445859593716977883094758157950709952529420525433246104]", "context": ["transfer_1"]}
+{"key": "gas", "value": 473309, "context": ["transfer_1"]}
+{"key": "transaction_data_kb", "value": 2.759765625, "context": ["transfer_1"]}
+{"key": "time_transaction_full", "value": 59.56506586074829, "context": ["transfer_1"]}
+{"key": "time_elgamal_decrypt", "value": 7.244252920150757, "context": ["burn_0"]}
+{"key": "time_elgamal_decrypt", "value": 7.238861083984375, "context": ["burn_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.2751460075378418, "context": ["burn_0"]}
+{"key": "time_libsnark_gen_proof", "value": 17.158190488815308, "context": ["burn_0"]}
+{"key": "time_generate_proof", "value": 18.445444345474243, "context": ["burn_0"]}
+{"key": "function_name", "value": "burn", "context": ["burn_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["burn_0"]}
+{"key": "function_value", "value": "None", "context": ["burn_0"]}
+{"key": "function_arg_0", "value": "55", "context": ["burn_0"]}
+{"key": "function_arg_1", "value": "[1, 17644669287744098129220201584868661949719836520162630987668710998405566112148, 16783753379779702799027723533906221295658628192013993104571235020768403880066, 14649693835539865608348011587537569592507705930405526530636255367509002567785, 9740519584033483710912991245732893806186987012802072227268480923936351911516, 3076748499980538515789141175534076356907816999339244819481405156996724334265, 15786553817950827024685559884120358066826697434028201957513763033101485796035, 13646340882285144235203341908802332749208566797536815309641288342513486058194, 19174012126265457910750497239062281692168550780502620330986159615544722782536, 4995981081632103693728980101869505273671982840998132101694295609278040813444, 5865597907905662835482157468571828672765985360770627778852789718712358396586, 18089908345851380903630952907436753859347933579625478243671180093677799118646, 5479500323994187203417045022470755254039176385375314438464272383150154538884]", "context": ["burn_0"]}
+{"key": "function_arg_2", "value": "[5200163237321159387200331796126802532407114775920161425434971441594182426218, 4387145635121301727828257146876901027697786950378364598299979669218465585784, 9447654959606784393933120584137539642490601924160767185343351415395502102289, 4420510562237731615343560734815244475643347275561018399448057165985044790864, 16459097753452338033802154412120755860119528567346335068312994041941323668396, 18060869000272905694127675195813454628730852469068134035535271010392785553204, 13637246130524082931392565685459639653652551000441352523943271286233842830213, 18159632432122139331979803812175696116864362709664454451491895489551110158349]", "context": ["burn_0"]}
+{"key": "gas", "value": 362296, "context": ["burn_0"]}
+{"key": "transaction_data_kb", "value": 1.509765625, "context": ["burn_0"]}
+{"key": "time_transaction_full", "value": 36.36933088302612, "context": ["burn_0"]}
+{"key": "time_elgamal_decrypt", "value": 0.3898026943206787, "context": ["from_vault_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.2929797172546387, "context": ["from_vault_0"]}
+{"key": "time_libsnark_gen_proof", "value": 19.7827787399292, "context": ["from_vault_0"]}
+{"key": "time_generate_proof", "value": 21.08505392074585, "context": ["from_vault_0"]}
+{"key": "function_name", "value": "from_vault", "context": ["from_vault_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["from_vault_0"]}
+{"key": "function_value", "value": "None", "context": ["from_vault_0"]}
+{"key": "function_arg_0", "value": "[2902005774230263612349533910782368501587628605361194475082, 4143338803083228171958691145699304686871297610355432959033, 19090310951707302316100886367560642938039444374027034457973349127870599743883]", "context": ["from_vault_0"]}
+{"key": "function_arg_1", "value": "[1, 325565899439800815298935157238435567015898156088978760292, 583707839263030586652403942297693548735175119715217042771, 2783312618765534333760697374666754600513399702700344649247406677439273932905, 3872273210459048800379062380643501825054842040391838256475941590474115674943, 3007446162143006146719022091337512373485394689250288196304087781027050332007, 6217574066996489998097925903430823668637563323702642747826035541227362749929]", "context": ["from_vault_0"]}
+{"key": "function_arg_2", "value": "[8714217195480946508887370968939554989721379736770494405146228314445549937906, 109869710544428828959372369465856431659702884004086535841720701515726428038, 16243291223063838783643181453535035587766351839255317459741208015231945020887, 11304565380751697369322199968060371760182823504593052925883342140848935575050, 12604240570034255082582135878236153079454439546973359628400210641884264918449, 17264187576809505663180596775675813267064806388485206291114741607821116173477, 630454343040511539303246557400125358001864015220378757196629142528966117503, 11662376784528523794786237421295569414042434990796217332515967799114856962130]", "context": ["from_vault_0"]}
+{"key": "gas", "value": 315009, "context": ["from_vault_0"]}
+{"key": "transaction_data_kb", "value": 1.259765625, "context": ["from_vault_0"]}
+{"key": "time_transaction_full", "value": 25.400763273239136, "context": ["from_vault_0"]}
+{"key": "time_all_transactions", "value": 163.7847011089325, "context": []}

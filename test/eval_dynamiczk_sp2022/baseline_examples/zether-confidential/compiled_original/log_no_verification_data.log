@@ -1,0 +1,7 @@
+{"key": "gas", "value": 832022, "context": ["constructor", "ZetherConfidential"]}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "gas", "value": 90945, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.05076026916503906, "context": ["initialize_0"]}
+{"key": "gas", "value": 94900, "context": ["fund_0"]}
+{"key": "time_transaction_full", "value": 0.46441030502319336, "context": ["fund_0"]}
+{"key": "time_all_transactions", "value": 2.0101125240325928, "context": []}

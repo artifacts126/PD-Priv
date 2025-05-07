@@ -1,0 +1,106 @@
+pragma zkay ^0.3.0;
+
+contract WeightedLottery {
+    final address admin;
+    uint bid_deadline;
+    uint redeem_deadline;
+    uint end_deadline;
+    uint128 secret_original;
+    uint32 jackpot_original;
+    uint128 published_secret;
+    uint32 published_jackpot;
+    uint32 nof_winners;
+    mapping(address => bool) is_winner;
+    mapping(address => uint32) balance_original;
+    mapping(address => uint128) bets_upper_original;
+    mapping(address => uint128) bets_lower_original;
+    uint _now = 1234;
+    uint128@admin secret;
+    uint32@admin<+> jackpot;
+    mapping(address!x => uint32@x<+>) balance;
+    mapping(address => uint128@admin) bets_upper;
+    mapping(address => uint128@admin) bets_lower;
+
+    constructor() public {
+        admin = me;
+    }
+
+    function start(uint128@me s) public {
+        require(me == admin);
+        require(_now > end_deadline);
+        bid_deadline = _now + 2;
+        redeem_deadline = _now + 4;
+        end_deadline = _now + 7;
+        secret = s;
+        nof_winners = 0;
+    }
+
+    function buy() public payable {
+        balance[me] = addhom(unhom(balance[me]) + reveal(uint32(msg.value), me));
+    }
+
+    function sell(uint32@me<+> amount) public {
+        require(reveal(unhom(amount) <= unhom(balance[me]), all));
+        balance[me] = addhom(unhom(balance[me]) - unhom(amount));
+        msg.sender.transfer(reveal(amount, all));
+    }
+
+    function bet(uint128@me lower, uint32@me weight) public {
+        require(_now <= bid_deadline);
+        require(reveal(weight <= unhom(balance[me]), all));
+        balance[me] = addhom(unhom(balance[me]) - weight);
+        bets_lower[me] = reveal(lower, admin);
+        bets_upper[me] = reveal(lower + weight, admin);
+        jackpot = jackpot + reveal(weight, admin);
+    }
+
+    function add_winner(address winner) public {
+        require(me == admin);
+        require(_now > bid_deadline);
+        require(_now <= redeem_deadline);
+        require(reveal((bets_lower[winner] <= secret) && (secret <= bets_upper[winner]), all));
+        require(!is_winner[winner]);
+        nof_winners = nof_winners + 1;
+        is_winner[winner] = true;
+    }
+
+    function publish() public {
+        require(me == admin);
+        require(_now > bid_deadline);
+        require(_now <= redeem_deadline);
+        published_secret = reveal(secret, all);
+        published_jackpot = reveal(jackpot, all);
+    }
+
+    function win() public {
+        require(_now > redeem_deadline);
+        require(_now <= end_deadline);
+        require(is_winner[me]);
+        balance[me] = addhom(unhom(balance[me]) + reveal(published_jackpot / nof_winners, me));
+        is_winner[me] = false;
+    }
+
+    function _test_advance_time() public {
+        _now = _now + 3;
+    }
+
+    function consistency_secret() public {
+        secret = reveal(secret_original, admin);
+    }
+
+    function consistency_jackpot() public {
+        jackpot = reveal(jackpot_original, admin);
+    }
+
+    function consistency_balance(address param1) public {
+        balance[param1] = reveal(balance_original[param1], param1);
+    }
+
+    function consistency_bets_upper(address param1) public {
+        bets_upper[param1] = reveal(bets_upper_original[param1], admin);
+    }
+
+    function consistency_bets_lower(address param1) public {
+        bets_lower[param1] = reveal(bets_lower_original[param1], admin);
+    }
+}

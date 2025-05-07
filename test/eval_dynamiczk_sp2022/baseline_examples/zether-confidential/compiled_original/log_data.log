@@ -1,0 +1,13 @@
+{"key": "gas", "value": 832022, "context": ["constructor", "ZetherConfidential"]}
+{"key": "transaction_data_kb", "value": 7.142578125, "context": ["constructor", "ZetherConfidential"]}
+{"key": "arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "gas", "value": 90945, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.04686403274536133, "context": ["initialize_0"]}
+{"key": "gas", "value": 94900, "context": ["fund_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["fund_0"]}
+{"key": "time_transaction_full", "value": 0.4706118106842041, "context": ["fund_0"]}
+{"key": "time_all_transactions", "value": 1.995542049407959, "context": []}

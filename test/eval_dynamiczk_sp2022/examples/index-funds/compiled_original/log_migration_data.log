@@ -1,0 +1,38 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "IndexFunds"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "IndexFunds"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "IndexFunds"]}
+{"key": "gas", "value": 541063, "context": ["constructor_0", "constructor", "IndexFunds"]}
+{"key": "transaction_data_kb", "value": 4.322265625, "context": ["constructor_0", "constructor", "IndexFunds"]}
+{"key": "time_transaction_full", "value": 0.21634817123413086, "context": ["constructor_0"]}
+{"key": "function_name", "value": "add_stocks_to_funds", "context": ["add_stocks_to_funds_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["add_stocks_to_funds_0"]}
+{"key": "function_value", "value": "None", "context": ["add_stocks_to_funds_0"]}
+{"key": "function_arg_0", "value": "b'\\x1e\\xffG\\xbc:\\x10\\xa4]K#\\x0b]\\x10\\xe3wQ\\xfej\\xa7\\x18'", "context": ["add_stocks_to_funds_0"]}
+{"key": "function_arg_1", "value": "1", "context": ["add_stocks_to_funds_0"]}
+{"key": "function_arg_2", "value": "10", "context": ["add_stocks_to_funds_0"]}
+{"key": "gas", "value": 87811, "context": ["add_stocks_to_funds_0"]}
+{"key": "transaction_data_kb", "value": 0.197265625, "context": ["add_stocks_to_funds_0"]}
+{"key": "time_transaction_full", "value": 0.15850567817687988, "context": ["add_stocks_to_funds_0"]}
+{"key": "function_name", "value": "add_stocks_to_funds", "context": ["add_stocks_to_funds_1"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["add_stocks_to_funds_1"]}
+{"key": "function_value", "value": "None", "context": ["add_stocks_to_funds_1"]}
+{"key": "function_arg_0", "value": "b'\\xe1\\xab\\x81E\\xf7\\xe5]\\xc93\\xd5\\x1a\\x18\\xc7\\x93\\xf9\\x01\\xa3\\xa0\\xb2v'", "context": ["add_stocks_to_funds_1"]}
+{"key": "function_arg_1", "value": "3", "context": ["add_stocks_to_funds_1"]}
+{"key": "function_arg_2", "value": "5", "context": ["add_stocks_to_funds_1"]}
+{"key": "gas", "value": 72811, "context": ["add_stocks_to_funds_1"]}
+{"key": "transaction_data_kb", "value": 0.197265625, "context": ["add_stocks_to_funds_1"]}
+{"key": "time_transaction_full", "value": 0.15457677841186523, "context": ["add_stocks_to_funds_1"]}
+{"key": "function_name", "value": "pay_into", "context": ["pay_into_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["pay_into_0"]}
+{"key": "function_value", "value": "250", "context": ["pay_into_0"]}
+{"key": "gas", "value": 43177, "context": ["pay_into_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["pay_into_0"]}
+{"key": "time_transaction_full", "value": 0.07478833198547363, "context": ["pay_into_0"]}
+{"key": "function_name", "value": "buy_shares", "context": ["buy_shares_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["buy_shares_0"]}
+{"key": "function_value", "value": "None", "context": ["buy_shares_0"]}
+{"key": "function_arg_0", "value": "10", "context": ["buy_shares_0"]}
+{"key": "gas", "value": 59794, "context": ["buy_shares_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["buy_shares_0"]}
+{"key": "time_transaction_full", "value": 0.1956939697265625, "context": ["buy_shares_0"]}
+{"key": "time_all_transactions", "value": 1.4528319835662842, "context": []}

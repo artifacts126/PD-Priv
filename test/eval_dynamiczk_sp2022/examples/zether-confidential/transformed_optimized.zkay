@@ -1,0 +1,54 @@
+pragma zkay ^0.3.0;
+
+contract ZetherConfidential {
+    uint32 MAX = 4294967295;
+    uint EPOCH_SIZE = 1;
+    uint total;
+    mapping(address => uint) lastrollover;
+    mapping(address => uint32) balance_original;
+    mapping(address => uint32) pending_original;
+    mapping(address!x => uint32@x<+>) balance;
+    mapping(address!x => uint32@x<+>) pending;
+
+    constructor() public {
+
+    }
+
+    function fund() public payable {
+        rollover(me);
+        require(total + msg.value <= MAX);
+        balance[me] = addhom(unhom(balance[me]) + reveal(uint32(msg.value), me));
+        total = total + msg.value;
+    }
+
+    function transfer(address to, uint32@me<+> val) public {
+        rollover(me);
+        rollover(to);
+        require(reveal(unhom(val) <= unhom(balance[me]), all));
+        balance[me] = addhom(unhom(balance[me]) - unhom(val));
+        pending[to] = pending[to] + reveal(val, to);
+    }
+
+    function burn(uint32 val) public {
+        rollover(me);
+        require(reveal(reveal(val, me) <= unhom(balance[me]), all));
+        balance[me] = addhom(unhom(balance[me]) - reveal(val, me));
+        msg.sender.transfer(val);
+        total = total - val;
+    }
+
+    function rollover(address y) internal {
+        uint e = block.number / EPOCH_SIZE;
+        if (lastrollover[y] < e) {
+            balance[y] = balance[y] + pending[y];
+            pending[y] = reveal(0, y);
+            lastrollover[y] = e;
+        }
+    }
+
+    function consistency_transformation() public {
+        address local_var_1 = 0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF;
+        balance[local_var_1] = reveal(balance_original[local_var_1], local_var_1);
+        pending[local_var_1] = reveal(pending_original[local_var_1], local_var_1);
+    }
+}

@@ -1,0 +1,7 @@
+/examples/*/compiled*/*.sol
+/examples/*/compiled*/*.zkay
+/examples/*/compiled*/*.py
+/examples/*/compiled*/*.json
+/examples/*/compiled*/*debug*
+/examples/*/compiled*/*info*
+/examples/*/compiled*/zk__*

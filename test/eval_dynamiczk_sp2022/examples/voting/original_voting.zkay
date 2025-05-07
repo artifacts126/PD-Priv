@@ -1,0 +1,49 @@
+pragma zkay ^0.3.0;
+
+// META-NAME voting
+// META-DESC Basic voting booth with two options.
+// META-ADD
+
+/*
+ * Call vote(0) to vote for A, vote(1) to vote for B.
+ * Every eligible address can only vote once. Votes can only be cast before the result is announced.
+ * What someone voted for is secret; but whether someone has voted is not. Only the contract owner knows the votes.
+ */
+contract Voting {
+	enum Result {
+		A_WINS, B_WINS, TIE
+	}
+
+	address owner;
+	uint32 votesForA;
+	uint32 votesForB;
+	mapping(address => bool) hasVoted;
+	bool resultAnnounced;
+
+	constructor() public {
+		owner = me;
+		votesForA = 0;
+		votesForB = 0;
+		resultAnnounced = false;
+	}
+
+	function vote(uint32 vote) public {
+		require(!hasVoted[me]);
+		require(!resultAnnounced);
+		uint32 voteA = (vote == 0) ? 1 : 0;
+		uint32 voteB = (vote == 1) ? 1 : 0;
+		votesForA += voteA;
+		votesForB += voteB;
+		hasVoted[me] = true;
+	}
+
+	function declareWinner() public returns (Result) {
+		require(me == owner);
+		resultAnnounced = true;
+		Result result;
+		if (votesForA > votesForB) result = Result.A_WINS;
+		else if (votesForB > votesForA) result = Result.B_WINS;
+		else result = Result.TIE;
+		return result;
+	}
+}

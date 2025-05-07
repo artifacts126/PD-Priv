@@ -1,0 +1,33 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor", "Voting"]}
+{"key": "function_sender", "value": "0xe1AB8145F7E55DC933d51a18c793F901A3A0b276", "context": ["constructor", "Voting"]}
+{"key": "function_value", "value": "None", "context": ["constructor", "Voting"]}
+{"key": "gas", "value": 723020, "context": ["constructor", "Voting"]}
+{"key": "transaction_data_kb", "value": 6.15625, "context": ["constructor", "Voting"]}
+{"key": "function_name", "value": "constructor", "context": []}
+{"key": "function_sender", "value": "0xe1AB8145F7E55DC933d51a18c793F901A3A0b276", "context": []}
+{"key": "function_value", "value": "None", "context": []}
+{"key": "function_arg_0", "value": "0xab98823DD9f56dFB9f1459072631bDB1FF2Eb0Ea", "context": []}
+{"key": "function_arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "function_name", "value": "initialize", "context": ["initialize_0"]}
+{"key": "function_sender", "value": "0xe1AB8145F7E55DC933d51a18c793F901A3A0b276", "context": ["initialize_0"]}
+{"key": "function_value", "value": "None", "context": ["initialize_0"]}
+{"key": "gas", "value": 72567, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.03474998474121094, "context": ["initialize_0"]}
+{"key": "function_name", "value": "vote", "context": ["vote_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["vote_0"]}
+{"key": "function_value", "value": "None", "context": ["vote_0"]}
+{"key": "function_arg_0", "value": "0", "context": ["vote_0"]}
+{"key": "gas", "value": 54885, "context": ["vote_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["vote_0"]}
+{"key": "time_transaction_full", "value": 0.2213432788848877, "context": ["vote_0"]}
+{"key": "function_name", "value": "vote", "context": ["vote_1"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["vote_1"]}
+{"key": "function_value", "value": "None", "context": ["vote_1"]}
+{"key": "function_arg_0", "value": "1", "context": ["vote_1"]}
+{"key": "gas", "value": 54897, "context": ["vote_1"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["vote_1"]}
+{"key": "time_transaction_full", "value": 0.2189929485321045, "context": ["vote_1"]}
+{"key": "time_all_transactions", "value": 2.1459004878997803, "context": []}

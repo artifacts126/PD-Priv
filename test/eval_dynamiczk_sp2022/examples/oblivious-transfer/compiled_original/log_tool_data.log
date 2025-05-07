@@ -1,0 +1,35 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor", "ObliviousTransfer"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor", "ObliviousTransfer"]}
+{"key": "function_value", "value": "None", "context": ["constructor", "ObliviousTransfer"]}
+{"key": "gas", "value": 683724, "context": ["constructor", "ObliviousTransfer"]}
+{"key": "transaction_data_kb", "value": 5.80078125, "context": ["constructor", "ObliviousTransfer"]}
+{"key": "function_name", "value": "constructor", "context": []}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": []}
+{"key": "function_value", "value": "None", "context": []}
+{"key": "function_arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "function_arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "function_name", "value": "initialize", "context": ["initialize_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["initialize_0"]}
+{"key": "function_value", "value": "None", "context": ["initialize_0"]}
+{"key": "gas", "value": 70884, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.03510332107543945, "context": ["initialize_0"]}
+{"key": "function_name", "value": "prepare", "context": ["prepare_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["prepare_0"]}
+{"key": "function_value", "value": "None", "context": ["prepare_0"]}
+{"key": "function_arg_0", "value": "0", "context": ["prepare_0"]}
+{"key": "function_arg_1", "value": "1", "context": ["prepare_0"]}
+{"key": "gas", "value": 30585, "context": ["prepare_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["prepare_0"]}
+{"key": "time_transaction_full", "value": 0.08160567283630371, "context": ["prepare_0"]}
+{"key": "function_name", "value": "send", "context": ["send_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["send_0"]}
+{"key": "function_value", "value": "None", "context": ["send_0"]}
+{"key": "function_arg_0", "value": "24", "context": ["send_0"]}
+{"key": "function_arg_1", "value": "59", "context": ["send_0"]}
+{"key": "gas", "value": 31470, "context": ["send_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["send_0"]}
+{"key": "time_transaction_full", "value": 0.12482619285583496, "context": ["send_0"]}
+{"key": "time_all_transactions", "value": 1.1535909175872803, "context": []}

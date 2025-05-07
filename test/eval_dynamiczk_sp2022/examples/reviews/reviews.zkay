@@ -1,0 +1,54 @@
+pragma zkay ^0.3.0;
+
+// META-NAME reviews
+// META-DESC Blind academic paper reviews with secret scores.
+// META-ADD
+// META-MIXED
+
+contract Reviews {
+	final address pc;
+
+	uint required_reviews = 2;
+	uint threshold = 3; // required average score
+	mapping(address => uint@pc) paperForAuthor;
+	mapping(address!x => bool@x) accepted;
+
+	uint num_reviewers = 0;
+	mapping(address => bool) is_reviewer;
+	mapping(uint => uint) num_reviews;
+	mapping(uint => uint32@pc<+>) sum_of_reviews;
+	mapping(address => mapping(uint => bool)) reviewer_has_reviewed;
+
+	constructor() public {
+		pc = me;
+	}
+
+	function registerReviewer(address reviewer) public {
+		require(me == pc);
+		num_reviewers++;
+		is_reviewer[reviewer] = true;
+	}
+
+	function registerPaper(uint@me paperId) public {
+		paperForAuthor[me] = reveal(paperId, pc);
+	}
+
+	function recordReview(uint paperId, uint32@me score) public {
+		require(is_reviewer[me]);
+		require(!reviewer_has_reviewed[me][paperId]);
+		require(reveal(score >= 0 && score <= 5, all));
+		num_reviews[paperId]++;
+		sum_of_reviews[paperId] += reveal(score, pc);
+		reviewer_has_reviewed[me][paperId] = true;
+	}
+
+	function decideAcceptance(address author) public {
+		require(pc == me);
+		uint paperId = reveal(paperForAuthor[author], all);
+		require(num_reviews[paperId] >= required_reviews);
+
+		uint count = num_reviews[paperId];
+		uint@me sum = sum_of_reviews[paperId];
+		accepted[author] = reveal(sum >= count * threshold, author);
+	}
+}

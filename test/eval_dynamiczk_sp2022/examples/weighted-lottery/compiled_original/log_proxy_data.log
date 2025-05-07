@@ -1,0 +1,33 @@
+{"key": "gas", "value": 1098749, "context": ["constructor", "WeightedLottery"]}
+{"key": "transaction_data_kb", "value": 9.5546875, "context": ["constructor", "WeightedLottery"]}
+{"key": "arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "gas", "value": 91022, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.06159806251525879, "context": ["initialize_0"]}
+{"key": "gas", "value": 44924, "context": ["buy_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_0"]}
+{"key": "time_transaction_full", "value": 0.1268308162689209, "context": ["buy_0"]}
+{"key": "gas", "value": 44924, "context": ["buy_1"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_1"]}
+{"key": "time_transaction_full", "value": 0.14784932136535645, "context": ["buy_1"]}
+{"key": "arg_0", "value": "193775903028374", "context": ["start_0"]}
+{"key": "gas", "value": 111043, "context": ["start_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["start_0"]}
+{"key": "time_transaction_full", "value": 0.2751340866088867, "context": ["start_0"]}
+{"key": "arg_0", "value": "193775903028370", "context": ["bet_0"]}
+{"key": "arg_1", "value": "100", "context": ["bet_0"]}
+{"key": "gas", "value": 81930, "context": ["bet_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["bet_0"]}
+{"key": "time_transaction_full", "value": 0.32921743392944336, "context": ["bet_0"]}
+{"key": "arg_0", "value": "20483", "context": ["bet_1"]}
+{"key": "arg_1", "value": "20", "context": ["bet_1"]}
+{"key": "gas", "value": 81882, "context": ["bet_1"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["bet_1"]}
+{"key": "time_transaction_full", "value": 0.3252537250518799, "context": ["bet_1"]}
+{"key": "gas", "value": 29083, "context": ["_test_advance_time_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["_test_advance_time_0"]}
+{"key": "time_transaction_full", "value": 0.1074526309967041, "context": ["_test_advance_time_0"]}
+{"key": "time_all_transactions", "value": 3.5418386459350586, "context": []}

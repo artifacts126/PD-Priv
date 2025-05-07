@@ -1,0 +1,14 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "gas", "value": 192377, "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "transaction_data_kb", "value": 1.201171875, "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "time_transaction_full", "value": 0.15441584587097168, "context": ["constructor_0"]}
+{"key": "function_name", "value": "foo", "context": ["foo_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["foo_0"]}
+{"key": "function_value", "value": "None", "context": ["foo_0"]}
+{"key": "function_arg_0", "value": "4", "context": ["foo_0"]}
+{"key": "gas", "value": 28367, "context": ["foo_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["foo_0"]}
+{"key": "time_transaction_full", "value": 0.07457900047302246, "context": ["foo_0"]}
+{"key": "time_all_transactions", "value": 0.39859533309936523, "context": []}

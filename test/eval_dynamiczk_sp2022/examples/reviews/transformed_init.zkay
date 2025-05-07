@@ -1,0 +1,49 @@
+pragma zkay ^0.3.0;
+
+contract Reviews {
+    address pc;
+    uint required_reviews;
+    uint threshold;
+    mapping(address => uint) paperForAuthor;
+    mapping(address => bool) accepted;
+    uint num_reviewers;
+    mapping(address => bool) is_reviewer;
+    mapping(uint => uint) num_reviews;
+    mapping(uint => uint32) sum_of_reviews;
+    mapping(address => mapping(uint => bool)) reviewer_has_reviewed;
+
+    function registerReviewer(address reviewer) public {
+        require(me == pc);
+        num_reviewers++;
+        is_reviewer[reviewer] = true;
+    }
+
+    function registerPaper(uint paperId) public {
+        paperForAuthor[me] = paperId;
+    }
+
+    function recordReview(uint paperId, uint32 score) public {
+        require(is_reviewer[me]);
+        require(!reviewer_has_reviewed[me][paperId]);
+        require(score >= 0 && score <= 5);
+        num_reviews[paperId]++;
+        sum_of_reviews[paperId] = sum_of_reviews[paperId] + score;
+        reviewer_has_reviewed[me][paperId] = true;
+    }
+
+    function decideAcceptance(address author) public {
+        require(pc == me);
+        uint paperId = paperForAuthor[author];
+        require(num_reviews[paperId] >= required_reviews);
+        uint count = num_reviews[paperId];
+        uint sum = sum_of_reviews[paperId];
+        accepted[author] = sum >= count * threshold;
+    }
+
+    function initialize() public {
+        pc = me;
+        required_reviews = 2;
+        threshold = 3;
+        num_reviewers = 0;
+    }
+}

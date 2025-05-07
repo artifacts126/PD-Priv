@@ -1,0 +1,81 @@
+pragma zkay ^0.3.0;
+
+contract Odd_Even {
+    final address admin;
+
+    uint32@admin<+> sum;
+    uint counter = 0;
+
+    mapping(address!x => uint32@x<+>) balance;
+    mapping(uint => address) players;
+
+    address winner;
+    uint play_deadline;
+    uint _now = block.timestamp;    // for testing purposes only--use blockchain time for real deployment
+
+    constructor() public {
+        admin = me;
+    }
+
+    function buy() public payable {
+        balance[me] += uint32(msg.value);
+    }
+	
+    function transfer(uint32@me<+> amount, address to) public {
+        require(reveal(amount <= balance[me], all));
+        balance[me] -= amount;
+        balance[to] += reveal(amount, to);
+    }
+
+    function sell(uint32 amount) public {
+        require(reveal(amount <= balance[me], all));
+        balance[me] -= amount;
+        msg.sender.transfer(amount);
+    }
+	
+    function start(uint32@me number) public {
+        require(me == admin);
+        require(_now > play_deadline);
+        if (counter >= 1){
+            address player1 = players[0];
+            balance[player1] += 1;
+            if (counter == 2){
+                address player2 = players[1];
+                balance[player2] += 1;
+            }
+            counter = 0;
+        }
+        sum += number;
+        play_deadline = _now + 2;
+    }
+
+    function play(uint32@me number) public {
+        require(_now <= play_deadline);
+        require(reveal(1 <= balance[me], all));
+        require(counter < 2);
+        require(me != admin);
+        balance[me] -= 1;
+        sum += reveal(number, admin);
+        players[counter] = me;
+        counter += 1;
+    }
+
+    function select_winner() public {
+        require(me == admin);
+        require(_now > play_deadline);
+        if (counter == 1){
+            address player = players[0];
+            balance[player] += 1;
+        }
+        if (counter == 2){
+            uint index = reveal(sum%2, all);
+            winner = players[index];
+            balance[winner] += 2;
+        }
+        counter = 0;
+    }
+
+    function _test_advance_time() public {
+        _now += 3;
+    }
+}

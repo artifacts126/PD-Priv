@@ -1,0 +1,26 @@
+pragma zkay ^0.3.0;
+
+// META-NAME shared-prod
+// META-DESC Increasing a shared number using multiplication.
+// META-ADD
+// META-MULT
+
+contract SharedProd {
+    final address owner;
+    uint32@owner<+> secret;
+    uint result;
+
+    constructor() public {
+        owner = me;
+        secret = 3;
+    }
+
+    function foo(uint32@me<+> x) public {
+        secret = secret * reveal(x, owner);
+    }
+
+    function show_result() public {
+        require(me == owner);
+        result = reveal(secret, all);
+    }
+}

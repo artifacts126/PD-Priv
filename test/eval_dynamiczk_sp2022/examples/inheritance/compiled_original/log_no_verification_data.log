@@ -1,0 +1,19 @@
+{"key": "gas", "value": 1009683, "context": ["constructor", "Inheritance"]}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "gas", "value": 110206, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.05125856399536133, "context": ["initialize_0"]}
+{"key": "gas", "value": 65800, "context": ["buy_0"]}
+{"key": "time_transaction_full", "value": 0.18051743507385254, "context": ["buy_0"]}
+{"key": "gas", "value": 65800, "context": ["buy_1"]}
+{"key": "time_transaction_full", "value": 0.19328689575195312, "context": ["buy_1"]}
+{"key": "gas", "value": 65800, "context": ["buy_2"]}
+{"key": "time_transaction_full", "value": 0.18102455139160156, "context": ["buy_2"]}
+{"key": "gas", "value": 92572, "context": ["pledge_inheritance_0"]}
+{"key": "time_transaction_full", "value": 0.32938289642333984, "context": ["pledge_inheritance_0"]}
+{"key": "gas", "value": 77584, "context": ["pledge_inheritance_1"]}
+{"key": "time_transaction_full", "value": 0.33664679527282715, "context": ["pledge_inheritance_1"]}
+{"key": "gas", "value": 41396, "context": ["sell_0"]}
+{"key": "time_transaction_full", "value": 0.26817965507507324, "context": ["sell_0"]}
+{"key": "gas", "value": 41383, "context": ["transfer_0"]}
+{"key": "time_transaction_full", "value": 0.3379809856414795, "context": ["transfer_0"]}
+{"key": "time_all_transactions", "value": 4.183376312255859, "context": []}

@@ -1,0 +1,29 @@
+{"key": "gas", "value": 945233, "context": ["constructor", "IndexFunds"]}
+{"key": "transaction_data_kb", "value": 8.166015625, "context": ["constructor", "IndexFunds"]}
+{"key": "arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "gas", "value": 70774, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.04661750793457031, "context": ["initialize_0"]}
+{"key": "arg_0", "value": "b'\\x1e\\xffG\\xbc:\\x10\\xa4]K#\\x0b]\\x10\\xe3wQ\\xfej\\xa7\\x18'", "context": ["add_stocks_to_funds_0"]}
+{"key": "arg_1", "value": "1", "context": ["add_stocks_to_funds_0"]}
+{"key": "arg_2", "value": "10", "context": ["add_stocks_to_funds_0"]}
+{"key": "gas", "value": 89580, "context": ["add_stocks_to_funds_0"]}
+{"key": "transaction_data_kb", "value": 0.197265625, "context": ["add_stocks_to_funds_0"]}
+{"key": "time_transaction_full", "value": 0.252429723739624, "context": ["add_stocks_to_funds_0"]}
+{"key": "arg_0", "value": "b'\\xe1\\xab\\x81E\\xf7\\xe5]\\xc93\\xd5\\x1a\\x18\\xc7\\x93\\xf9\\x01\\xa3\\xa0\\xb2v'", "context": ["add_stocks_to_funds_1"]}
+{"key": "arg_1", "value": "3", "context": ["add_stocks_to_funds_1"]}
+{"key": "arg_2", "value": "5", "context": ["add_stocks_to_funds_1"]}
+{"key": "gas", "value": 74580, "context": ["add_stocks_to_funds_1"]}
+{"key": "transaction_data_kb", "value": 0.197265625, "context": ["add_stocks_to_funds_1"]}
+{"key": "time_transaction_full", "value": 0.25621461868286133, "context": ["add_stocks_to_funds_1"]}
+{"key": "gas", "value": 44912, "context": ["pay_into_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["pay_into_0"]}
+{"key": "time_transaction_full", "value": 0.12894821166992188, "context": ["pay_into_0"]}
+{"key": "arg_0", "value": "10", "context": ["buy_shares_0"]}
+{"key": "gas", "value": 61665, "context": ["buy_shares_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["buy_shares_0"]}
+{"key": "time_transaction_full", "value": 0.354414701461792, "context": ["buy_shares_0"]}
+{"key": "time_all_transactions", "value": 3.5619494915008545, "context": []}

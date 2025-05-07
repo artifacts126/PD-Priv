@@ -1,0 +1,106 @@
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "transaction_data_kb", "value": 1.833984375, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "transaction_data_kb", "value": 1.830078125, "context": ["deploy_pki", "elgamal"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(6325526332278667850545639338246805286493399800719345945889375825699175625225,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(449007656374715091223839500040442942948035534249706623566668640956629123334, 4179427941492315070396959285269811124855967820019787560315777753392402590553)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_prepare"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_prepare"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_prepare"]}
+{"key": "gas", "value": 994789, "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_prepare"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_prepare"]}
+{"key": "time_transaction_full", "value": 0.05479264259338379, "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_prepare"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_send"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_send"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_send"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_send"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_send"]}
+{"key": "time_transaction_full", "value": 0.054335594177246094, "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_send"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_consistency_transformation"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_consistency_transformation"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_consistency_transformation"]}
+{"key": "gas", "value": 994513, "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_consistency_transformation"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_consistency_transformation"]}
+{"key": "time_transaction_full", "value": 0.05470538139343262, "context": ["constructor_0", "constructor", "zk__Verify_ObliviousTransfer_consistency_transformation"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "gas", "value": 1799023, "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "transaction_data_kb", "value": 15.892578125, "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "function_name", "value": "upgradeTo", "context": ["constructor_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0"]}
+{"key": "function_arg_0", "value": "0xf1cD9eb4eA42137E777a261AB9f45f4D275c1a67", "context": ["constructor_0"]}
+{"key": "gas", "value": 34487, "context": ["constructor_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 2.3032217025756836, "context": ["constructor_0"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(19090310951707302316100886367560642938039444374027034457973349127870599743883,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(13701998475233943465458696751977660315689779626931201443029885127224748799894, 16016799950875163697800280968893391004399733300328865076169153407683330223977)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.8614645004272461, "context": ["consistency_transformation_0"]}
+{"key": "time_libsnark_gen_proof", "value": 8.851200342178345, "context": ["consistency_transformation_0"]}
+{"key": "time_generate_proof", "value": 9.721160411834717, "context": ["consistency_transformation_0"]}
+{"key": "function_name", "value": "consistency_transformation", "context": ["consistency_transformation_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["consistency_transformation_0"]}
+{"key": "function_value", "value": "None", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_0", "value": "[10253272981321183825936100002581174822074244726295364495153348025183398052961, 9138712298716772841180280108693563157659550427654480784616922107270021408653, 19172874253264255636540096820236412004686566394460381835804923371178104788136, 17983713509233952956118833860400287127400257197447762624349243554679206128906, 20630851679710583052092152586168644033931009853999307402537087188795723013387, 4373495284546100052220140912862455600284012539327710040320975011913070366732, 16028813297485744631854284074549153499195290330712845342545406161783346516179, 16487561766640708298073710568782099191005029981642232596402635963053548016657, 21204295239400851970940329584858001885790053011100840459166669177963043620385, 13553368014983642698714657875831565065132232522429214234607680844606385049293, 1238832362945599395139753690805043523844426929391058269307317396620497094399, 9521707627436191855137284174768079064121278680029059504157742432432018785824]", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_1", "value": "[21599714927132007691460945315507018050158992660185423048001503647083003787406, 2641065237943400801084509242310990556935356812304244965145553782713168864393, 8828745235361596699998531453246286620057679003869759695640867056928312507383, 9456354728951244891915827230121475060737902090595640280475579409249899134707, 17925818401746480036059064618048620898809024927336841828557358190375244509384, 2172311313290240569293241554848791337144339508053147375258044222120195144784, 6283863562977207391110557931802754458808456728228091323294307144438615909348, 12948230419012964391500276498782092492768702828484542095112367359593835808359]", "context": ["consistency_transformation_0"]}
+{"key": "gas", "value": 507196, "context": ["consistency_transformation_0"]}
+{"key": "transaction_data_kb", "value": 1.384765625, "context": ["consistency_transformation_0"]}
+{"key": "time_transaction_full", "value": 13.837444305419922, "context": ["consistency_transformation_0"]}
+{"key": "time_elgamal_decrypt", "value": 0.3669760227203369, "context": ["prepare_1"]}
+{"key": "time_elgamal_decrypt", "value": 0.3693540096282959, "context": ["prepare_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.9737162590026855, "context": ["prepare_1"]}
+{"key": "time_libsnark_gen_proof", "value": 10.532016277313232, "context": ["prepare_1"]}
+{"key": "time_generate_proof", "value": 11.514345169067383, "context": ["prepare_1"]}
+{"key": "function_name", "value": "prepare", "context": ["prepare_1"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["prepare_1"]}
+{"key": "function_value", "value": "None", "context": ["prepare_1"]}
+{"key": "function_arg_0", "value": "[18954448538977030902730193716263660223185810405810039546967670452248926595575, 11416431173951597344311585186092544248304978739558210970662301646279515127236, 7203789476675319731297878200467671264355721422218407724539657235119550518454, 21470054438570185448907090210346413819778957147185860968763750765297558336241]", "context": ["prepare_1"]}
+{"key": "function_arg_1", "value": "[1214197684914316218657134220869170206212915385891982381435203011427011904890, 12440077595603853958486685526041727400950428264646973980521868446624162654184, 15621310982486015413209221276864210210997343091554991159473375840019712416846, 20156706711829662123466158086707750591509027914756459979996132908142549905858]", "context": ["prepare_1"]}
+{"key": "function_arg_2", "value": "[1]", "context": ["prepare_1"]}
+{"key": "function_arg_3", "value": "[19341493389349981350366696749648063695839716115265158992970609137807822214391, 8172482562147850314577638514733590551770335160855908088767894095705551550423, 15277506917239145645808824320146065068059846558628777129708595267513019403570, 3017895241158866335451622804899286167252289235399996279359574814645622804077, 3707952154304935876161645208247833036887232056066855934013679123216941880165, 5303424292030470060953584847706941159439235488480008630543709657056271965064, 5537777282147278585276410495869445785912005586523276980908945754039964104486, 4041352357394909648025370037989887496339821764632753056202789719748244784171]", "context": ["prepare_1"]}
+{"key": "gas", "value": 304801, "context": ["prepare_1"]}
+{"key": "transaction_data_kb", "value": 1.197265625, "context": ["prepare_1"]}
+{"key": "time_transaction_full", "value": 15.163866519927979, "context": ["prepare_1"]}
+{"key": "time_elgamal_decrypt", "value": 7.220831871032715, "context": ["send_1"]}
+{"key": "time_elgamal_decrypt", "value": 7.235974550247192, "context": ["send_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.5501646995544434, "context": ["send_1"]}
+{"key": "time_libsnark_gen_proof", "value": 18.22037363052368, "context": ["send_1"]}
+{"key": "time_generate_proof", "value": 19.78008770942688, "context": ["send_1"]}
+{"key": "function_name", "value": "send", "context": ["send_1"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["send_1"]}
+{"key": "function_value", "value": "None", "context": ["send_1"]}
+{"key": "function_arg_0", "value": "[21251971180438342864065252882225623842249745822436035877786414913762158680893, 3900379855332978989106818920481363877400924915393362696599984275988194947035, 8959739487593385821722337123595715778518262225271914616227684965813583302657, 11701233830611252678337980093112808887100449426116952892109118118375298269210]", "context": ["send_1"]}
+{"key": "function_arg_1", "value": "[3574332567146613628069805309837033563578360358211015914924137087743345945722, 17411631633534499914207873864664762258769581230935392736338001713474745124571, 15582410221046934582092892883096889319365657628698275270894509526531409552826, 13131299580388256854822939427046375553927926053006907888103627941525055582134]", "context": ["send_1"]}
+{"key": "function_arg_2", "value": "[13729981315382987435925707994279848480544516477980505444936643707145398030879, 7470051502895667254090033111460343041157776895640570317390864513139118773252, 5632000273759405535774700477504127678396379395643031261144907321861092181364, 13670334195532982062827768023385607543092281832125135705399118516789623414985]", "context": ["send_1"]}
+{"key": "function_arg_3", "value": "[7019610689261495974630093165868826703278366938776267659735320715400975888744, 16688199743020092304190858128867719060797418176714850020608392653907363766169, 14632548648039984542109712843085302480896796146286914192258468175557502758249, 17415756854396543418219918856201196596390462855384899577211790669483036351484, 14187915806172477299066079495341655758624472325643923430352285337368223413606, 18036789114829225282275486216169826837296008840776442772860029215836503360464, 19991117854493040005079535618776337639973186223864674325737641689736339546618, 2196803536921230285661160365611461797966052113928218919581189202324125383733]", "context": ["send_1"]}
+{"key": "gas", "value": 307540, "context": ["send_1"]}
+{"key": "transaction_data_kb", "value": 1.384765625, "context": ["send_1"]}
+{"key": "time_transaction_full", "value": 40.1140718460083, "context": ["send_1"]}
+{"key": "time_all_transactions", "value": 77.07340598106384, "context": []}

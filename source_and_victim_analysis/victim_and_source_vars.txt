@@ -1,0 +1,137 @@
+
+
+###########    contract name :  IndexFunds     ############
+When one has a final address,
+	the own variables include : {'total_shares', 'balance'}
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+When one has not a final address,
+	the own variables include : {'balance', 'shares'}
+	the own variables with secret include : {'balance', 'shares'}
+	the victim variables include : {'balance'}
+	the source variables include : {'balance'}
+
+###########    contract name :  Inheritance     ############
+When there is no final address,
+	the own variables include : {'inheritance_pledged_send', 'inheritance_pledged_recv', 'balance', 'total_inheritance_pledged'}
+	the own variables with secret include : {'inheritance_pledged_send', 'balance', 'total_inheritance_pledged'}
+	the victim variables include : {'balance', 'total_inheritance_pledged'}
+	the source variables include : {'balance', 'total_inheritance_pledged'}
+
+###########    contract name :  InnerProduct     ############
+When one has a final address,
+	the own variables include : {'vec', 'result'}
+	the own variables with secret include : {'vec', 'result'}
+	the victim variables include : {'result'}
+	the source variables include : {'vec'}
+When one has not a final address,
+	the own variables include : set()
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+
+###########    contract name :  MemberCard     ############
+When one has a final address,
+	the own variables include : {'spent'}
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+When one has not a final address,
+	the own variables include : set()
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+
+###########    contract name :  ObliviousTransfer     ############
+When one has a final address,
+	the own variables include : {'b1', 'b2', 'result'}
+	the own variables with secret include : {'b1', 'b2', 'result'}
+	the victim variables include : {'result'}
+	the source variables include : {'b1', 'b2'}
+When one has not a final address,
+	the own variables include : set()
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+
+###########    contract name :  Reviews     ############
+When one has a final address,
+	the own variables include : {'paperForAuthor', 'sum_of_reviews'}
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+When one has not a final address,
+	the own variables include : {'accepted'}
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+
+###########    contract name :  SharedProd     ############
+When one has a final address,
+	the own variables include : {'secret'}
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+When one has not a final address,
+	the own variables include : set()
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+
+###########    contract name :  Token     ############
+When there is no final address,
+	the own variables include : {'balance'}
+	the own variables with secret include : {'balance'}
+	the victim variables include : {'balance'}
+	the source variables include : {'balance'}
+
+###########    contract name :  Voting     ############
+When one has a final address,
+	the own variables include : {'votesForB', 'votesForA'}
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+When one has not a final address,
+	the own variables include : set()
+	the own variables with secret include : set()
+	the victim variables include : set()
+	the source variables include : set()
+
+###########    contract name :  WeightedLottery     ############
+When one has a final address,
+	the own variables include : {'secret', 'jackpot', 'bets_lower', 'bets_upper', 'balance'}
+	the own variables with secret include : {'secret'}
+	the victim variables include : {'secret'}
+	the source variables include : {'secret'}
+When one has not a final address,
+	the own variables include : {'balance'}
+	the own variables with secret include : {'balance'}
+	the victim variables include : {'balance'}
+	the source variables include : {'balance'}
+
+###########    contract name :  ZetherConfidential     ############
+When there is no final address,
+	the own variables include : {'balance', 'pending'}
+	the own variables with secret include : {'balance'}
+	the victim variables include : {'balance'}
+	the source variables include : {'balance'}
+
+###########    contract name :  ZetherLarge     ############
+When there is no final address,
+	the own variables include : {'vault', 'balance', 'pending'}
+	the own variables with secret include : {'vault', 'balance'}
+	the victim variables include : {'balance'}
+	the source variables include : {'balance'}
+
+###########    contract name :  Odd_Even     ############
+When one has a final address,
+	the own variables include : {'balance', 'sum'}
+	the own variables with secret include : {'balance', 'sum'}
+	the victim variables include : {'balance', 'sum'}
+	the source variables include : {'balance', 'sum'}
+When one has not a final address,
+	the own variables include : {'balance'}
+	the own variables with secret include : {'balance'}
+	the victim variables include : {'balance'}
+	the source variables include : {'balance'}

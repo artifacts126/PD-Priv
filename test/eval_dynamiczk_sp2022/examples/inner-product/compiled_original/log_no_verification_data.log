@@ -1,0 +1,9 @@
+{"key": "gas", "value": 723404, "context": ["constructor", "InnerProduct"]}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "gas", "value": 70906, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.06103801727294922, "context": ["initialize_0"]}
+{"key": "gas", "value": 45261, "context": ["set_entry_0"]}
+{"key": "time_transaction_full", "value": 0.1387314796447754, "context": ["set_entry_0"]}
+{"key": "gas", "value": 45273, "context": ["set_entry_1"]}
+{"key": "time_transaction_full", "value": 0.12985920906066895, "context": ["set_entry_1"]}
+{"key": "time_all_transactions", "value": 1.6989798545837402, "context": []}

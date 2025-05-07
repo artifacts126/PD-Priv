@@ -1,0 +1,71 @@
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "transaction_data_kb", "value": 1.833984375, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "transaction_data_kb", "value": 1.830078125, "context": ["deploy_pki", "elgamal"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(6325526332278667850545639338246805286493399800719345945889375825699175625225,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(449007656374715091223839500040442942948035534249706623566668640956629123334, 4179427941492315070396959285269811124855967820019787560315777753392402590553)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 52, "context": ["constructor_1"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "function_value", "value": "None", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "gas", "value": 994705, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "time_transaction_full", "value": 0.051026344299316406, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "function_value", "value": "None", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "gas", "value": 994717, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "time_transaction_full", "value": 0.05523872375488281, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "function_value", "value": "None", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "gas", "value": 994741, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "time_transaction_full", "value": 0.05314016342163086, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "function_value", "value": "None", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "gas", "value": 994741, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "time_transaction_full", "value": 0.05378270149230957, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "function_value", "value": "None", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "gas", "value": 994501, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "time_transaction_full", "value": 0.053277015686035156, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "function_value", "value": "None", "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "gas", "value": 994489, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "time_transaction_full", "value": 0.051720619201660156, "context": ["constructor_1", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "function_value", "value": "100000", "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "function_arg_0", "value": "False", "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "function_arg_1", "value": "0", "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "function_arg_2", "value": "False", "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "function_arg_3", "value": "0", "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "function_arg_4", "value": "True", "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "function_arg_5", "value": "2", "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "gas", "value": 2971709, "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "transaction_data_kb", "value": 26.51953125, "context": ["constructor_1", "constructor", "Reviews"]}
+{"key": "time_transaction_full", "value": 2.8854331970214844, "context": ["constructor_1"]}

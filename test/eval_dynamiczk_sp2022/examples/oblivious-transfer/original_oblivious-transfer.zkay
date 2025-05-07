@@ -1,0 +1,28 @@
+pragma zkay ^0.3.0;
+
+// META-NAME oblivious-transfer
+// META-DESC 1-out-of-2 oblivious transfer.
+// META-ADD
+// META-MULT
+
+contract ObliviousTransfer {
+    address receiver;
+    uint32 b1;
+    uint32 b2;
+    uint32 result;
+
+    constructor() public {
+        receiver = me;
+    }
+
+    function prepare(uint32 s1, uint32 s2) public {
+        require(me == receiver);
+        require((s1 == 1 && s2 == 0) || (s1 == 0 && s2 == 1));
+        b1 = s1;
+        b2 = s2;
+    }
+
+    function send(uint32 x1, uint32 x2) public {
+        result = b1 * x1 + b2 * x2;
+    }
+}

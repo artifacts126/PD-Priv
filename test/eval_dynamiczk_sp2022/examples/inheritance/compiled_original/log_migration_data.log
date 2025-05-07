@@ -1,0 +1,56 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "Inheritance"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "Inheritance"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "Inheritance"]}
+{"key": "gas", "value": 640048, "context": ["constructor_0", "constructor", "Inheritance"]}
+{"key": "transaction_data_kb", "value": 4.96484375, "context": ["constructor_0", "constructor", "Inheritance"]}
+{"key": "time_transaction_full", "value": 0.24621319770812988, "context": ["constructor_0"]}
+{"key": "function_name", "value": "buy", "context": ["buy_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["buy_0"]}
+{"key": "function_value", "value": "100", "context": ["buy_0"]}
+{"key": "gas", "value": 64088, "context": ["buy_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_0"]}
+{"key": "time_transaction_full", "value": 0.11606693267822266, "context": ["buy_0"]}
+{"key": "function_name", "value": "buy", "context": ["buy_1"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["buy_1"]}
+{"key": "function_value", "value": "100", "context": ["buy_1"]}
+{"key": "gas", "value": 64088, "context": ["buy_1"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_1"]}
+{"key": "time_transaction_full", "value": 0.1145174503326416, "context": ["buy_1"]}
+{"key": "function_name", "value": "buy", "context": ["buy_2"]}
+{"key": "function_sender", "value": "0x1efF47bc3a10a45D4B230B5d10E37751FE6AA718", "context": ["buy_2"]}
+{"key": "function_value", "value": "100", "context": ["buy_2"]}
+{"key": "gas", "value": 64088, "context": ["buy_2"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_2"]}
+{"key": "time_transaction_full", "value": 0.11547732353210449, "context": ["buy_2"]}
+{"key": "function_name", "value": "pledge_inheritance", "context": ["pledge_inheritance_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["pledge_inheritance_0"]}
+{"key": "function_value", "value": "None", "context": ["pledge_inheritance_0"]}
+{"key": "function_arg_0", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["pledge_inheritance_0"]}
+{"key": "function_arg_1", "value": "50", "context": ["pledge_inheritance_0"]}
+{"key": "gas", "value": 90655, "context": ["pledge_inheritance_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["pledge_inheritance_0"]}
+{"key": "time_transaction_full", "value": 0.20261001586914062, "context": ["pledge_inheritance_0"]}
+{"key": "function_name", "value": "pledge_inheritance", "context": ["pledge_inheritance_1"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["pledge_inheritance_1"]}
+{"key": "function_value", "value": "None", "context": ["pledge_inheritance_1"]}
+{"key": "function_arg_0", "value": "b'\\x1e\\xffG\\xbc:\\x10\\xa4]K#\\x0b]\\x10\\xe3wQ\\xfej\\xa7\\x18'", "context": ["pledge_inheritance_1"]}
+{"key": "function_arg_1", "value": "20", "context": ["pledge_inheritance_1"]}
+{"key": "gas", "value": 75667, "context": ["pledge_inheritance_1"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["pledge_inheritance_1"]}
+{"key": "time_transaction_full", "value": 0.19999217987060547, "context": ["pledge_inheritance_1"]}
+{"key": "function_name", "value": "sell", "context": ["sell_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["sell_0"]}
+{"key": "function_value", "value": "None", "context": ["sell_0"]}
+{"key": "function_arg_0", "value": "10", "context": ["sell_0"]}
+{"key": "gas", "value": 39504, "context": ["sell_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["sell_0"]}
+{"key": "time_transaction_full", "value": 0.15568137168884277, "context": ["sell_0"]}
+{"key": "function_name", "value": "transfer", "context": ["transfer_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["transfer_0"]}
+{"key": "function_value", "value": "None", "context": ["transfer_0"]}
+{"key": "function_arg_0", "value": "20", "context": ["transfer_0"]}
+{"key": "function_arg_1", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["transfer_0"]}
+{"key": "gas", "value": 39488, "context": ["transfer_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["transfer_0"]}
+{"key": "time_transaction_full", "value": 0.19866728782653809, "context": ["transfer_0"]}
+{"key": "time_all_transactions", "value": 1.8377811908721924, "context": []}

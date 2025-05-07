@@ -1,0 +1,1808 @@
+{
+    "migration": {
+        "member-card": {
+            "public_deploy": [
+                279656
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                279656
+            ],
+            "public_average_trans": [
+                50045
+            ],
+            "public_stage_2": [
+                50045
+            ],
+            "privacy_deploy_libs": [
+                3774871
+            ],
+            "privacy_deploy_self ": [
+                1297856
+            ],
+            "privacy_stage_3_1": [
+                5072727
+            ],
+            "data_migration": [
+                115534
+            ],
+            "privacy_transformation": [
+                331913
+            ],
+            "privacy_stage_3_2": [
+                447447
+            ],
+            "privacy_stage_3": [
+                5520174
+            ],
+            "privacy_average_trans": [
+                290022
+            ],
+            "privacy_stage_4": [
+                580044
+            ],
+            "all_stage": [
+                6429919
+            ],
+            "privacy_transformation_time": [
+                8.83771276473999
+            ]
+        },
+        "reviews": {
+            "public_deploy": [
+                441440
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                441440
+            ],
+            "public_average_trans": [
+                51788
+            ],
+            "public_stage_2": [
+                155364
+            ],
+            "privacy_deploy_libs": [
+                7053118
+            ],
+            "privacy_deploy_self ": [
+                2971709
+            ],
+            "privacy_stage_3_1": [
+                10024827
+            ],
+            "data_migration": [
+                109985
+            ],
+            "privacy_transformation": [
+                313744
+            ],
+            "privacy_stage_3_2": [
+                423729
+            ],
+            "privacy_stage_3": [
+                10448556
+            ],
+            "privacy_average_trans": [
+                352085
+            ],
+            "privacy_stage_4": [
+                1056257
+            ],
+            "all_stage": [
+                12101617
+            ],
+            "privacy_transformation_time": [
+                9.730475425720215
+            ]
+        },
+        "zether-confidential": {
+            "public_deploy": [
+                446528
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                446528
+            ],
+            "public_average_trans": [
+                92968
+            ],
+            "public_stage_2": [
+                92968
+            ],
+            "privacy_deploy_libs": [
+                5764221
+            ],
+            "privacy_deploy_self ": [
+                2528872
+            ],
+            "privacy_stage_3_1": [
+                8293093
+            ],
+            "data_migration": [
+                113566
+            ],
+            "privacy_transformation": [
+                664165
+            ],
+            "privacy_stage_3_2": [
+                777731
+            ],
+            "privacy_stage_3": [
+                9070824
+            ],
+            "privacy_average_trans": [
+                481075
+            ],
+            "privacy_stage_4": [
+                962151
+            ],
+            "all_stage": [
+                10572471
+            ],
+            "privacy_transformation_time": [
+                17.92048406600952
+            ]
+        },
+        "zether-large": {
+            "public_deploy": [
+                511153
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                511153
+            ],
+            "public_average_trans": [
+                76385
+            ],
+            "public_stage_2": [
+                229156
+            ],
+            "privacy_deploy_libs": [
+                8748060
+            ],
+            "privacy_deploy_self ": [
+                3954287
+            ],
+            "privacy_stage_3_1": [
+                12702347
+            ],
+            "data_migration": [
+                203661
+            ],
+            "privacy_transformation": [
+                1641304
+            ],
+            "privacy_stage_3_2": [
+                1844965
+            ],
+            "privacy_stage_3": [
+                14547312
+            ],
+            "privacy_average_trans": [
+                336890
+            ],
+            "privacy_stage_4": [
+                673781
+            ],
+            "all_stage": [
+                15961402
+            ],
+            "privacy_transformation_time": [
+                44.71670174598694
+            ]
+        },
+        "shared-prod": {
+            "public_deploy": [
+                192377
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                192377
+            ],
+            "public_average_trans": [
+                28367
+            ],
+            "public_stage_2": [
+                28367
+            ],
+            "privacy_deploy_libs": [
+                4769480
+            ],
+            "privacy_deploy_self ": [
+                1383113
+            ],
+            "privacy_stage_3_1": [
+                6152593
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                272110
+            ],
+            "privacy_stage_3_2": [
+                272110
+            ],
+            "privacy_stage_3": [
+                6424703
+            ],
+            "privacy_average_trans": [
+                272462
+            ],
+            "privacy_stage_4": [
+                272462
+            ],
+            "all_stage": [
+                6917909
+            ],
+            "privacy_transformation_time": [
+                8.761422395706177
+            ]
+        },
+        "index-funds": {
+            "public_deploy": [
+                541063
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                541063
+            ],
+            "public_average_trans": [
+                65898
+            ],
+            "public_stage_2": [
+                263593
+            ],
+            "privacy_deploy_libs": [
+                8047055
+            ],
+            "privacy_deploy_self ": [
+                3166339
+            ],
+            "privacy_stage_3_1": [
+                11213394
+            ],
+            "data_migration": [
+                202893
+            ],
+            "privacy_transformation": [
+                996167
+            ],
+            "privacy_stage_3_2": [
+                1199060
+            ],
+            "privacy_stage_3": [
+                12412454
+            ],
+            "privacy_average_trans": [
+                232586
+            ],
+            "privacy_stage_4": [
+                697759
+            ],
+            "all_stage": [
+                13914869
+            ],
+            "privacy_transformation_time": [
+                26.912633419036865
+            ]
+        },
+        "voting": {
+            "public_deploy": [
+                294215
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                294215
+            ],
+            "public_average_trans": [
+                52961
+            ],
+            "public_stage_2": [
+                105922
+            ],
+            "privacy_deploy_libs": [
+                6058557
+            ],
+            "privacy_deploy_self ": [
+                2259675
+            ],
+            "privacy_stage_3_1": [
+                8318232
+            ],
+            "data_migration": [
+                66341
+            ],
+            "privacy_transformation": [
+                544177
+            ],
+            "privacy_stage_3_2": [
+                610518
+            ],
+            "privacy_stage_3": [
+                8928750
+            ],
+            "privacy_average_trans": [
+                332286
+            ],
+            "privacy_stage_4": [
+                664573
+            ],
+            "all_stage": [
+                9993460
+            ],
+            "privacy_transformation_time": [
+                17.578590393066406
+            ]
+        },
+        "oblivious-transfer": {
+            "public_deploy": [
+                253343
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                253343
+            ],
+            "public_average_trans": [
+                29143
+            ],
+            "public_stage_2": [
+                58287
+            ],
+            "privacy_deploy_libs": [
+                5764209
+            ],
+            "privacy_deploy_self ": [
+                1622911
+            ],
+            "privacy_stage_3_1": [
+                7387120
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                996234
+            ],
+            "privacy_stage_3_2": [
+                996234
+            ],
+            "privacy_stage_3": [
+                8383354
+            ],
+            "privacy_average_trans": [
+                304134
+            ],
+            "privacy_stage_4": [
+                608268
+            ],
+            "all_stage": [
+                9303252
+            ],
+            "privacy_transformation_time": [
+                26.668388605117798
+            ]
+        },
+        "weighted-lottery": {
+            "public_deploy": [
+                715206
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                715206
+            ],
+            "public_average_trans": [
+                63849
+            ],
+            "public_stage_2": [
+                383099
+            ],
+            "privacy_deploy_libs": [
+                12951796
+            ],
+            "privacy_deploy_self ": [
+                4705050
+            ],
+            "privacy_stage_3_1": [
+                17656846
+            ],
+            "data_migration": [
+                444566
+            ],
+            "privacy_transformation": [
+                2564541
+            ],
+            "privacy_stage_3_2": [
+                3009107
+            ],
+            "privacy_stage_3": [
+                20665953
+            ],
+            "privacy_average_trans": [
+                235972
+            ],
+            "privacy_stage_4": [
+                1179863
+            ],
+            "all_stage": [
+                22944121
+            ],
+            "privacy_transformation_time": [
+                75.75549268722534
+            ]
+        },
+        "token": {
+            "public_deploy": [
+                277299
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                277299
+            ],
+            "public_average_trans": [
+                43132
+            ],
+            "public_stage_2": [
+                43132
+            ],
+            "privacy_deploy_libs": [
+                4768784
+            ],
+            "privacy_deploy_self ": [
+                1847319
+            ],
+            "privacy_stage_3_1": [
+                6616103
+            ],
+            "data_migration": [
+                44513
+            ],
+            "privacy_transformation": [
+                331931
+            ],
+            "privacy_stage_3_2": [
+                376444
+            ],
+            "privacy_stage_3": [
+                6992547
+            ],
+            "privacy_average_trans": [
+                347528
+            ],
+            "privacy_stage_4": [
+                695056
+            ],
+            "all_stage": [
+                8008034
+            ],
+            "privacy_transformation_time": [
+                8.917701244354248
+            ]
+        },
+        "inheritance": {
+            "public_deploy": [
+                640048
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                640048
+            ],
+            "public_average_trans": [
+                62511
+            ],
+            "public_stage_2": [
+                437578
+            ],
+            "privacy_deploy_libs": [
+                9889189
+            ],
+            "privacy_deploy_self ": [
+                4667323
+            ],
+            "privacy_stage_3_1": [
+                14556512
+            ],
+            "data_migration": [
+                355628
+            ],
+            "privacy_transformation": [
+                2583558
+            ],
+            "privacy_stage_3_2": [
+                2939186
+            ],
+            "privacy_stage_3": [
+                17495698
+            ],
+            "privacy_average_trans": [
+                294433
+            ],
+            "privacy_stage_4": [
+                1472165
+            ],
+            "all_stage": [
+                20045489
+            ],
+            "privacy_transformation_time": [
+                73.36679100990295
+            ]
+        },
+        "inner-product": {
+            "public_deploy": [
+                295890
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                295890
+            ],
+            "public_average_trans": [
+                43438
+            ],
+            "public_stage_2": [
+                86876
+            ],
+            "privacy_deploy_libs": [
+                4768964
+            ],
+            "privacy_deploy_self ": [
+                1742034
+            ],
+            "privacy_stage_3_1": [
+                6510998
+            ],
+            "data_migration": [
+                65654
+            ],
+            "privacy_transformation": [
+                996703
+            ],
+            "privacy_stage_3_2": [
+                1062357
+            ],
+            "privacy_stage_3": [
+                7573355
+            ],
+            "privacy_average_trans": [
+                328442
+            ],
+            "privacy_stage_4": [
+                656885
+            ],
+            "all_stage": [
+                8613006
+            ],
+            "privacy_transformation_time": [
+                27.808767318725586
+            ]
+        }
+    },
+    "proxy": {
+        "member-card": {
+            "public_deploy": [
+                1024080
+            ],
+            "public_init": [
+                92363
+            ],
+            "public_stage_1": [
+                1116443
+            ],
+            "public_average_trans": [
+                51893
+            ],
+            "public_stage_2": [
+                51893
+            ],
+            "privacy_deploy_libs": [
+                3774871
+            ],
+            "privacy_deploy_self ": [
+                1572197
+            ],
+            "privacy_stage_3_1": [
+                5347068
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                333871
+            ],
+            "privacy_stage_3_2": [
+                333871
+            ],
+            "privacy_stage_3": [
+                5680939
+            ],
+            "privacy_average_trans": [
+                292022
+            ],
+            "privacy_stage_4": [
+                584044
+            ],
+            "all_stage": [
+                7433319
+            ],
+            "privacy_transformation_time": [
+                9.431657791137695
+            ]
+        },
+        "reviews": {
+            "public_deploy": [
+                1191009
+            ],
+            "public_init": [
+                111548
+            ],
+            "public_stage_1": [
+                1302557
+            ],
+            "public_average_trans": [
+                53600
+            ],
+            "public_stage_2": [
+                160800
+            ],
+            "privacy_deploy_libs": [
+                7053118
+            ],
+            "privacy_deploy_self ": [
+                3016275
+            ],
+            "privacy_stage_3_1": [
+                10069393
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                315680
+            ],
+            "privacy_stage_3_2": [
+                315680
+            ],
+            "privacy_stage_3": [
+                10385073
+            ],
+            "privacy_average_trans": [
+                353979
+            ],
+            "privacy_stage_4": [
+                1061938
+            ],
+            "all_stage": [
+                12910368
+            ],
+            "privacy_transformation_time": [
+                10.245107412338257
+            ]
+        },
+        "zether-confidential": {
+            "public_deploy": [
+                1175216
+            ],
+            "public_init": [
+                90945
+            ],
+            "public_stage_1": [
+                1266161
+            ],
+            "public_average_trans": [
+                94900
+            ],
+            "public_stage_2": [
+                94900
+            ],
+            "privacy_deploy_libs": [
+                5764221
+            ],
+            "privacy_deploy_self ": [
+                2703713
+            ],
+            "privacy_stage_3_1": [
+                8467934
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                668071
+            ],
+            "privacy_stage_3_2": [
+                668071
+            ],
+            "privacy_stage_3": [
+                9136005
+            ],
+            "privacy_average_trans": [
+                483253
+            ],
+            "privacy_stage_4": [
+                966507
+            ],
+            "all_stage": [
+                11463573
+            ],
+            "privacy_transformation_time": [
+                19.00253939628601
+            ]
+        },
+        "zether-large": {
+            "public_deploy": [
+                1261017
+            ],
+            "public_init": [
+                69967
+            ],
+            "public_stage_1": [
+                1330984
+            ],
+            "public_average_trans": [
+                78215
+            ],
+            "public_stage_2": [
+                234647
+            ],
+            "privacy_deploy_libs": [
+                8748060
+            ],
+            "privacy_deploy_self ": [
+                4088627
+            ],
+            "privacy_stage_3_1": [
+                12836687
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                1650930
+            ],
+            "privacy_stage_3_2": [
+                1650930
+            ],
+            "privacy_stage_3": [
+                14487617
+            ],
+            "privacy_average_trans": [
+                338680
+            ],
+            "privacy_stage_4": [
+                677360
+            ],
+            "all_stage": [
+                16730608
+            ],
+            "privacy_transformation_time": [
+                46.17065978050232
+            ]
+        },
+        "shared-prod": {
+            "public_deploy": [
+                966237
+            ],
+            "public_init": [
+                70895
+            ],
+            "public_stage_1": [
+                1037132
+            ],
+            "public_average_trans": [
+                30303
+            ],
+            "public_stage_2": [
+                30303
+            ],
+            "privacy_deploy_libs": [
+                4769480
+            ],
+            "privacy_deploy_self ": [
+                1456176
+            ],
+            "privacy_stage_3_1": [
+                6225656
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                333980
+            ],
+            "privacy_stage_3_2": [
+                333980
+            ],
+            "privacy_stage_3": [
+                6559636
+            ],
+            "privacy_average_trans": [
+                274437
+            ],
+            "privacy_stage_4": [
+                274437
+            ],
+            "all_stage": [
+                7901508
+            ],
+            "privacy_transformation_time": [
+                8.861222982406616
+            ]
+        },
+        "index-funds": {
+            "public_deploy": [
+                1288427
+            ],
+            "public_init": [
+                70774
+            ],
+            "public_stage_1": [
+                1359201
+            ],
+            "public_average_trans": [
+                67684
+            ],
+            "public_stage_2": [
+                270737
+            ],
+            "privacy_deploy_libs": [
+                8047055
+            ],
+            "privacy_deploy_self ": [
+                3251920
+            ],
+            "privacy_stage_3_1": [
+                11298975
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                1002045
+            ],
+            "privacy_stage_3_2": [
+                1002045
+            ],
+            "privacy_stage_3": [
+                12301020
+            ],
+            "privacy_average_trans": [
+                234566
+            ],
+            "privacy_stage_4": [
+                703700
+            ],
+            "all_stage": [
+                14634658
+            ],
+            "privacy_transformation_time": [
+                26.568268537521362
+            ]
+        },
+        "voting": {
+            "public_deploy": [
+                1066214
+            ],
+            "public_init": [
+                72567
+            ],
+            "public_stage_1": [
+                1138781
+            ],
+            "public_average_trans": [
+                54891
+            ],
+            "public_stage_2": [
+                109782
+            ],
+            "privacy_deploy_libs": [
+                6058557
+            ],
+            "privacy_deploy_self ": [
+                2156084
+            ],
+            "privacy_stage_3_1": [
+                8214641
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                668101
+            ],
+            "privacy_stage_3_2": [
+                668101
+            ],
+            "privacy_stage_3": [
+                8882742
+            ],
+            "privacy_average_trans": [
+                334383
+            ],
+            "privacy_stage_4": [
+                668766
+            ],
+            "all_stage": [
+                10800071
+            ],
+            "privacy_transformation_time": [
+                17.89416003227234
+            ]
+        },
+        "oblivious-transfer": {
+            "public_deploy": [
+                1026918
+            ],
+            "public_init": [
+                70884
+            ],
+            "public_stage_1": [
+                1097802
+            ],
+            "public_average_trans": [
+                31027
+            ],
+            "public_stage_2": [
+                62055
+            ],
+            "privacy_deploy_libs": [
+                5764209
+            ],
+            "privacy_deploy_self ": [
+                2037949
+            ],
+            "privacy_stage_3_1": [
+                7802158
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                1001995
+            ],
+            "privacy_stage_3_2": [
+                1001995
+            ],
+            "privacy_stage_3": [
+                8804153
+            ],
+            "privacy_average_trans": [
+                306192
+            ],
+            "privacy_stage_4": [
+                612384
+            ],
+            "all_stage": [
+                10576394
+            ],
+            "privacy_transformation_time": [
+                26.6345374584198
+            ]
+        },
+        "weighted-lottery": {
+            "public_deploy": [
+                1441943
+            ],
+            "public_init": [
+                91022
+            ],
+            "public_stage_1": [
+                1532965
+            ],
+            "public_average_trans": [
+                65631
+            ],
+            "public_stage_2": [
+                393786
+            ],
+            "privacy_deploy_libs": [
+                12951796
+            ],
+            "privacy_deploy_self ": [
+                4688351
+            ],
+            "privacy_stage_3_1": [
+                17640147
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                2579258
+            ],
+            "privacy_stage_3_2": [
+                2579258
+            ],
+            "privacy_stage_3": [
+                20219405
+            ],
+            "privacy_average_trans": [
+                237859
+            ],
+            "privacy_stage_4": [
+                1189298
+            ],
+            "all_stage": [
+                23335454
+            ],
+            "privacy_transformation_time": [
+                73.48416900634766
+            ]
+        },
+        "token": {
+            "public_deploy": [
+                1041259
+            ],
+            "public_init": [
+                50005
+            ],
+            "public_stage_1": [
+                1091264
+            ],
+            "public_average_trans": [
+                45059
+            ],
+            "public_stage_2": [
+                45059
+            ],
+            "privacy_deploy_libs": [
+                4768784
+            ],
+            "privacy_deploy_self ": [
+                2147817
+            ],
+            "privacy_stage_3_1": [
+                6916601
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                333903
+            ],
+            "privacy_stage_3_2": [
+                333903
+            ],
+            "privacy_stage_3": [
+                7250504
+            ],
+            "privacy_average_trans": [
+                349536
+            ],
+            "privacy_stage_4": [
+                699073
+            ],
+            "all_stage": [
+                9085900
+            ],
+            "privacy_transformation_time": [
+                8.884167432785034
+            ]
+        },
+        "inheritance": {
+            "public_deploy": [
+                1352877
+            ],
+            "public_init": [
+                110206
+            ],
+            "public_stage_1": [
+                1463083
+            ],
+            "public_average_trans": [
+                64333
+            ],
+            "public_stage_2": [
+                450335
+            ],
+            "privacy_deploy_libs": [
+                9889189
+            ],
+            "privacy_deploy_self ": [
+                4683216
+            ],
+            "privacy_stage_3_1": [
+                14572405
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                2598688
+            ],
+            "privacy_stage_3_2": [
+                2598688
+            ],
+            "privacy_stage_3": [
+                17171093
+            ],
+            "privacy_average_trans": [
+                296365
+            ],
+            "privacy_stage_4": [
+                1481826
+            ],
+            "all_stage": [
+                20566337
+            ],
+            "privacy_transformation_time": [
+                72.05396127700806
+            ]
+        },
+        "inner-product": {
+            "public_deploy": [
+                1066598
+            ],
+            "public_init": [
+                70906
+            ],
+            "public_stage_1": [
+                1137504
+            ],
+            "public_average_trans": [
+                45267
+            ],
+            "public_stage_2": [
+                90534
+            ],
+            "privacy_deploy_libs": [
+                4768964
+            ],
+            "privacy_deploy_self ": [
+                2075938
+            ],
+            "privacy_stage_3_1": [
+                6844902
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                1002333
+            ],
+            "privacy_stage_3_2": [
+                1002333
+            ],
+            "privacy_stage_3": [
+                7847235
+            ],
+            "privacy_average_trans": [
+                330494
+            ],
+            "privacy_stage_4": [
+                660989
+            ],
+            "all_stage": [
+                9736262
+            ],
+            "privacy_transformation_time": [
+                26.05910634994507
+            ]
+        }
+    },
+    "tool": {
+        "member-card": {
+            "public_deploy": [
+                1024080
+            ],
+            "public_init": [
+                92363
+            ],
+            "public_stage_1": [
+                1116443
+            ],
+            "public_average_trans": [
+                51893
+            ],
+            "public_stage_2": [
+                51893
+            ],
+            "privacy_deploy_libs": [
+                3774235
+            ],
+            "privacy_deploy_self ": [
+                1572219
+            ],
+            "privacy_stage_3_1": [
+                5346454
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                333882
+            ],
+            "privacy_stage_3_2": [
+                333882
+            ],
+            "privacy_stage_3": [
+                5680336
+            ],
+            "privacy_average_trans": [
+                292056
+            ],
+            "privacy_stage_4": [
+                584112
+            ],
+            "all_stage": [
+                7432784
+            ],
+            "privacy_transformation_time": [
+                8.844497442245483
+            ]
+        },
+        "reviews": {
+            "public_deploy": [
+                1191009
+            ],
+            "public_init": [
+                111548
+            ],
+            "public_stage_1": [
+                1302557
+            ],
+            "public_average_trans": [
+                53600
+            ],
+            "public_stage_2": [
+                160800
+            ],
+            "privacy_deploy_libs": [
+                5064092
+            ],
+            "privacy_deploy_self ": [
+                2632451
+            ],
+            "privacy_stage_3_1": [
+                7696543
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                315133
+            ],
+            "privacy_stage_3_2": [
+                315133
+            ],
+            "privacy_stage_3": [
+                8011676
+            ],
+            "privacy_average_trans": [
+                353907
+            ],
+            "privacy_stage_4": [
+                1061721
+            ],
+            "all_stage": [
+                10536754
+            ],
+            "privacy_transformation_time": [
+                10.495173215866089
+            ]
+        },
+        "zether-confidential": {
+            "public_deploy": [
+                1175216
+            ],
+            "public_init": [
+                90945
+            ],
+            "public_stage_1": [
+                1266161
+            ],
+            "public_average_trans": [
+                94900
+            ],
+            "public_stage_2": [
+                94900
+            ],
+            "privacy_deploy_libs": [
+                4769732
+            ],
+            "privacy_deploy_self ": [
+                2670770
+            ],
+            "privacy_stage_3_1": [
+                7440502
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                427002
+            ],
+            "privacy_stage_3_2": [
+                427002
+            ],
+            "privacy_stage_3": [
+                7867504
+            ],
+            "privacy_average_trans": [
+                483278
+            ],
+            "privacy_stage_4": [
+                966557
+            ],
+            "all_stage": [
+                10195122
+            ],
+            "privacy_transformation_time": [
+                15.247092485427856
+            ]
+        },
+        "zether-large": {
+            "public_deploy": [
+                1261017
+            ],
+            "public_init": [
+                69967
+            ],
+            "public_stage_1": [
+                1330984
+            ],
+            "public_average_trans": [
+                78215
+            ],
+            "public_stage_2": [
+                234647
+            ],
+            "privacy_deploy_libs": [
+                6758302
+            ],
+            "privacy_deploy_self ": [
+                4242612
+            ],
+            "privacy_stage_3_1": [
+                11000914
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                687739
+            ],
+            "privacy_stage_3_2": [
+                687739
+            ],
+            "privacy_stage_3": [
+                11688653
+            ],
+            "privacy_average_trans": [
+                338676
+            ],
+            "privacy_stage_4": [
+                677353
+            ],
+            "all_stage": [
+                13931637
+            ],
+            "privacy_transformation_time": [
+                34.917476177215576
+            ]
+        },
+        "shared-prod": {
+            "public_deploy": [
+                966237
+            ],
+            "public_init": [
+                70895
+            ],
+            "public_stage_1": [
+                1037132
+            ],
+            "public_average_trans": [
+                30303
+            ],
+            "public_stage_2": [
+                30303
+            ],
+            "privacy_deploy_libs": [
+                4769216
+            ],
+            "privacy_deploy_self ": [
+                1455999
+            ],
+            "privacy_stage_3_1": [
+                6225215
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                333991
+            ],
+            "privacy_stage_3_2": [
+                333991
+            ],
+            "privacy_stage_3": [
+                6559206
+            ],
+            "privacy_average_trans": [
+                274413
+            ],
+            "privacy_stage_4": [
+                274413
+            ],
+            "all_stage": [
+                7901054
+            ],
+            "privacy_transformation_time": [
+                8.79957389831543
+            ]
+        },
+        "index-funds": {
+            "public_deploy": [
+                1288427
+            ],
+            "public_init": [
+                70774
+            ],
+            "public_stage_1": [
+                1359201
+            ],
+            "public_average_trans": [
+                67684
+            ],
+            "public_stage_2": [
+                270737
+            ],
+            "privacy_deploy_libs": [
+                6058377
+            ],
+            "privacy_deploy_self ": [
+                3153872
+            ],
+            "privacy_stage_3_1": [
+                9212249
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                520846
+            ],
+            "privacy_stage_3_2": [
+                520846
+            ],
+            "privacy_stage_3": [
+                9733095
+            ],
+            "privacy_average_trans": [
+                234659
+            ],
+            "privacy_stage_4": [
+                703978
+            ],
+            "all_stage": [
+                12067011
+            ],
+            "privacy_transformation_time": [
+                23.271583795547485
+            ]
+        },
+        "voting": {
+            "public_deploy": [
+                1066214
+            ],
+            "public_init": [
+                72567
+            ],
+            "public_stage_1": [
+                1138781
+            ],
+            "public_average_trans": [
+                54891
+            ],
+            "public_stage_2": [
+                109782
+            ],
+            "privacy_deploy_libs": [
+                5063780
+            ],
+            "privacy_deploy_self ": [
+                2050307
+            ],
+            "privacy_stage_3_1": [
+                7114087
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                420557
+            ],
+            "privacy_stage_3_2": [
+                420557
+            ],
+            "privacy_stage_3": [
+                7534644
+            ],
+            "privacy_average_trans": [
+                334372
+            ],
+            "privacy_stage_4": [
+                668744
+            ],
+            "all_stage": [
+                9451951
+            ],
+            "privacy_transformation_time": [
+                14.137051582336426
+            ]
+        },
+        "oblivious-transfer": {
+            "public_deploy": [
+                1026918
+            ],
+            "public_init": [
+                70884
+            ],
+            "public_stage_1": [
+                1097802
+            ],
+            "public_average_trans": [
+                31027
+            ],
+            "public_stage_2": [
+                62055
+            ],
+            "privacy_deploy_libs": [
+                3774715
+            ],
+            "privacy_deploy_self ": [
+                1833510
+            ],
+            "privacy_stage_3_1": [
+                5608225
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                507148
+            ],
+            "privacy_stage_3_2": [
+                507148
+            ],
+            "privacy_stage_3": [
+                6115373
+            ],
+            "privacy_average_trans": [
+                306146
+            ],
+            "privacy_stage_4": [
+                612293
+            ],
+            "all_stage": [
+                7887523
+            ],
+            "privacy_transformation_time": [
+                19.287799835205078
+            ]
+        },
+        "weighted-lottery": {
+            "public_deploy": [
+                1441943
+            ],
+            "public_init": [
+                91022
+            ],
+            "public_stage_1": [
+                1532965
+            ],
+            "public_average_trans": [
+                65631
+            ],
+            "public_stage_2": [
+                393786
+            ],
+            "privacy_deploy_libs": [
+                8973600
+            ],
+            "privacy_deploy_self ": [
+                4678187
+            ],
+            "privacy_stage_3_1": [
+                13651787
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                851099
+            ],
+            "privacy_stage_3_2": [
+                851099
+            ],
+            "privacy_stage_3": [
+                14502886
+            ],
+            "privacy_average_trans": [
+                237863
+            ],
+            "privacy_stage_4": [
+                1189319
+            ],
+            "all_stage": [
+                17618956
+            ],
+            "privacy_transformation_time": [
+                37.759790897369385
+            ]
+        },
+        "token": {
+            "public_deploy": [
+                1041259
+            ],
+            "public_init": [
+                50005
+            ],
+            "public_stage_1": [
+                1091264
+            ],
+            "public_average_trans": [
+                45059
+            ],
+            "public_stage_2": [
+                45059
+            ],
+            "privacy_deploy_libs": [
+                4768772
+            ],
+            "privacy_deploy_self ": [
+                2135287
+            ],
+            "privacy_stage_3_1": [
+                6904059
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                333507
+            ],
+            "privacy_stage_3_2": [
+                333507
+            ],
+            "privacy_stage_3": [
+                7237566
+            ],
+            "privacy_average_trans": [
+                349561
+            ],
+            "privacy_stage_4": [
+                699123
+            ],
+            "all_stage": [
+                9073012
+            ],
+            "privacy_transformation_time": [
+                8.73140025138855
+            ]
+        },
+        "inheritance": {
+            "public_deploy": [
+                1352877
+            ],
+            "public_init": [
+                110206
+            ],
+            "public_stage_1": [
+                1463083
+            ],
+            "public_average_trans": [
+                64333
+            ],
+            "public_stage_2": [
+                450335
+            ],
+            "privacy_deploy_libs": [
+                6905326
+            ],
+            "privacy_deploy_self ": [
+                5083479
+            ],
+            "privacy_stage_3_1": [
+                11988805
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                895502
+            ],
+            "privacy_stage_3_2": [
+                895502
+            ],
+            "privacy_stage_3": [
+                12884307
+            ],
+            "privacy_average_trans": [
+                296355
+            ],
+            "privacy_stage_4": [
+                1481778
+            ],
+            "all_stage": [
+                16279503
+            ],
+            "privacy_transformation_time": [
+                52.30068778991699
+            ]
+        },
+        "inner-product": {
+            "public_deploy": [
+                1066598
+            ],
+            "public_init": [
+                70906
+            ],
+            "public_stage_1": [
+                1137504
+            ],
+            "public_average_trans": [
+                45267
+            ],
+            "public_stage_2": [
+                90534
+            ],
+            "privacy_deploy_libs": [
+                3774451
+            ],
+            "privacy_deploy_self ": [
+                2003487
+            ],
+            "privacy_stage_3_1": [
+                5777938
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                507202
+            ],
+            "privacy_stage_3_2": [
+                507202
+            ],
+            "privacy_stage_3": [
+                6285140
+            ],
+            "privacy_average_trans": [
+                330471
+            ],
+            "privacy_stage_4": [
+                660943
+            ],
+            "all_stage": [
+                8174121
+            ],
+            "privacy_transformation_time": [
+                19.20168709754944
+            ]
+        }
+    }
+}

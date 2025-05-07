@@ -1,0 +1,145 @@
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "transaction_data_kb", "value": 1.833984375, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "transaction_data_kb", "value": 1.830078125, "context": ["deploy_pki", "elgamal"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(6325526332278667850545639338246805286493399800719345945889375825699175625225,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(449007656374715091223839500040442942948035534249706623566668640956629123334, 4179427941492315070396959285269811124855967820019787560315777753392402590553)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "gas", "value": 994705, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "time_transaction_full", "value": 0.05416703224182129, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "gas", "value": 994717, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "time_transaction_full", "value": 0.0525205135345459, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "gas", "value": 994741, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "time_transaction_full", "value": 0.05259561538696289, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_transformation"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_transformation"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_transformation"]}
+{"key": "gas", "value": 994705, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_transformation"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_transformation"]}
+{"key": "time_transaction_full", "value": 0.05341076850891113, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_transformation"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "gas", "value": 2597665, "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "transaction_data_kb", "value": 22.78125, "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "function_name", "value": "upgradeTo", "context": ["constructor_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0"]}
+{"key": "function_arg_0", "value": "0x3a4BF00f4713761a02AbA0b918B925381F6EaBd0", "context": ["constructor_0"]}
+{"key": "gas", "value": 34786, "context": ["constructor_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 3.082550287246704, "context": ["constructor_0"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(19090310951707302316100886367560642938039444374027034457973349127870599743883,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(13701998475233943465458696751977660315689779626931201443029885127224748799894, 16016799950875163697800280968893391004399733300328865076169153407683330223977)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x1efF47bc3a10a45D4B230B5d10E37751FE6AA718", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(2972751974254206617812768176292845404109515798657223761525706006806201969960,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x1efF47bc3a10a45D4B230B5d10E37751FE6AA718", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(21341618849704953903634140873406659300031384941905118876590767852443278315308, 1661483943610072194137049616170946585619108689481039095551012329292105345751)", "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0xe1AB8145F7E55DC933d51a18c793F901A3A0b276", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(9645474126960753658153086725450723070754325099583727935521357375863916156084,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0xe1AB8145F7E55DC933d51a18c793F901A3A0b276", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(4799748253745289763392936610399947598827356271607894740328180118415941923484, 9148729484978836119368717987563331430185269241732932063696422217909189131242)", "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.6450493335723877, "context": ["consistency_transformation_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.404646396636963, "context": ["consistency_transformation_0"]}
+{"key": "time_generate_proof", "value": 5.054117202758789, "context": ["consistency_transformation_0"]}
+{"key": "function_name", "value": "consistency_transformation", "context": ["consistency_transformation_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["consistency_transformation_0"]}
+{"key": "function_value", "value": "None", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_0", "value": "[4806085522903028196911776109321383040710078033426954911739, 558959341137964117015752951801703377771092515911884792314]", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_1", "value": "[20160131462199866780572183358682317446729993952334850910262213494250857619664, 8743386869405388572014071192595059088596728598472435307019256639335593795815, 4845005414789271621769556898428715432145069050343557472547925936123004450982, 14590178911827103996462111610073320217715747761780298632401874365280569816406, 16397666528940069059607294565050333354385974081232471809428630624044495463209, 4621592162757845228841154502255695721745406638701830442627069852838233721767, 16538652115443138993990739001416741040388109027265119466799754819835428452932, 3912000989971235148265051274100065964262874906689833900051098297096752997919]", "context": ["consistency_transformation_0"]}
+{"key": "gas", "value": 315145, "context": ["consistency_transformation_0"]}
+{"key": "transaction_data_kb", "value": 0.759765625, "context": ["consistency_transformation_0"]}
+{"key": "time_transaction_full", "value": 6.5692808628082275, "context": ["consistency_transformation_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0616302490234375, "context": ["recordReview_0"]}
+{"key": "time_libsnark_gen_proof", "value": 13.547023296356201, "context": ["recordReview_0"]}
+{"key": "time_generate_proof", "value": 14.618814706802368, "context": ["recordReview_0"]}
+{"key": "function_name", "value": "recordReview", "context": ["recordReview_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["recordReview_0"]}
+{"key": "function_value", "value": "None", "context": ["recordReview_0"]}
+{"key": "function_arg_0", "value": "1234", "context": ["recordReview_0"]}
+{"key": "function_arg_1", "value": "[5558293624720409672190054505161041824054928354902940645534, 3205552011302153706610633973058357411267096373738348736720, 19090310951707302316100886367560642938039444374027034457973349127870599743883]", "context": ["recordReview_0"]}
+{"key": "function_arg_2", "value": "[1, 14405844142368903031407322178938533444487986681243252726346355138157168481185, 2577905400396441353054198022790383699331082695264445660336946320109633612963, 7696906210214629301541776882276453007960118360338225487192416378211344257466, 1420889048718712093855004197795248182856760982548327009119450117451922145564, 14405844142368903031407322178938533444487986681243252726346355138157168481185, 2577905400396441353054198022790383699331082695264445660336946320109633612963, 7696906210214629301541776882276453007960118360338225487192416378211344257466, 1420889048718712093855004197795248182856760982548327009119450117451922145564]", "context": ["recordReview_0"]}
+{"key": "function_arg_3", "value": "[11599727490996250930209352674374249363605713806798330714918618015165288578379, 10028349055482960803340182784463390702735447063625765302278565216242269591889, 17636367681030644063257289627823589031054865165886444992141882198859554059769, 21685710889040184877342993396651257777686424337227920160007317289937072903307, 2500651639449129196652740836150093017103526898549399286305208358991284752280, 19678074399947162288451264458606160642181298113924188997103712859962432384854, 21004529858636421110670717248572839338705679404728300644177146063932174063581, 2589949708029315896145298803572529797084829758862645950559056692558631197628]", "context": ["recordReview_0"]}
+{"key": "gas", "value": 398209, "context": ["recordReview_0"]}
+{"key": "transaction_data_kb", "value": 1.447265625, "context": ["recordReview_0"]}
+{"key": "time_transaction_full", "value": 17.712881326675415, "context": ["recordReview_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0749590396881104, "context": ["recordReview_1"]}
+{"key": "time_libsnark_gen_proof", "value": 13.2489333152771, "context": ["recordReview_1"]}
+{"key": "time_generate_proof", "value": 14.333191394805908, "context": ["recordReview_1"]}
+{"key": "function_name", "value": "recordReview", "context": ["recordReview_1"]}
+{"key": "function_sender", "value": "0x1efF47bc3a10a45D4B230B5d10E37751FE6AA718", "context": ["recordReview_1"]}
+{"key": "function_value", "value": "None", "context": ["recordReview_1"]}
+{"key": "function_arg_0", "value": "1234", "context": ["recordReview_1"]}
+{"key": "function_arg_1", "value": "[4501728434409903997530711852675152508809663276191555115968, 3075988115477684591839701641282572894910173816494459815244, 2972751974254206617812768176292845404109515798657223761525706006806201969960]", "context": ["recordReview_1"]}
+{"key": "function_arg_2", "value": "[1, 21625247867287861667047086759229815214741028676783161537813596172422764900573, 8207286447995367954713937465172803746532193494975400879930356323347963808281, 16736774348360330310827054248125514302467718085915716012298993298571079263672, 11427906345411976506103571556964810523728278013379655583364203238210755780127, 1320708620129915097233472329248762795746784224118172169181899228980560559501, 5958496627846085449720020821984353688234089771961637438486932038748057118038, 19735249755301649526386880168611587537561841179512908950231531935599929678571, 476781899422271691218366913863405850720652910342789521297007082389161080566]", "context": ["recordReview_1"]}
+{"key": "function_arg_3", "value": "[1333322190676050928144928061831420601656935538862940630124496079522488025502, 17150106152274986336955829601822307369520787163943165548774113213381771350914, 7781346840856388781942930292681871629158832419124101423495226386438517670333, 12503826624239786354393909675944292579503183281056320652841310993996163220979, 9019370588381750505175067540740852504034673033419054753284781690657733506359, 13733457571112531414862381944592067437685834503047709356284257689935161428969, 14610036145984376736898285465632565938528996041441636016681576333787519354134, 3072174142126101101527423400203960988299313640151420711034850126840984414435]", "context": ["recordReview_1"]}
+{"key": "gas", "value": 323185, "context": ["recordReview_1"]}
+{"key": "transaction_data_kb", "value": 1.447265625, "context": ["recordReview_1"]}
+{"key": "time_transaction_full", "value": 17.401265621185303, "context": ["recordReview_1"]}
+{"key": "time_elgamal_decrypt", "value": 7.1898884773254395, "context": ["decideAcceptance_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.1229560375213623, "context": ["decideAcceptance_0"]}
+{"key": "time_libsnark_gen_proof", "value": 17.0200297832489, "context": ["decideAcceptance_0"]}
+{"key": "time_generate_proof", "value": 18.151825428009033, "context": ["decideAcceptance_0"]}
+{"key": "function_name", "value": "decideAcceptance", "context": ["decideAcceptance_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["decideAcceptance_0"]}
+{"key": "function_value", "value": "None", "context": ["decideAcceptance_0"]}
+{"key": "function_arg_0", "value": "b'\\xe1\\xab\\x81E\\xf7\\xe5]\\xc93\\xd5\\x1a\\x18\\xc7\\x93\\xf9\\x01\\xa3\\xa0\\xb2v'", "context": ["decideAcceptance_0"]}
+{"key": "function_arg_1", "value": "[1234, 2793448811494512226461846504335264089502734027772449666564, 2631542229081514808880973837082699677532323040619933605061, 3302812752856237565875923114218270312443939596284165237618, 5949520076442593056015724953432190906932424166814321668718]", "context": ["decideAcceptance_0"]}
+{"key": "function_arg_2", "value": "[4023876888542785787637151876227067928218913886576521798281188500782067768592, 21398468794172580513182597751423958505442679990322662214018030466499290986448, 4384831704284682591598221040155009528540716519812874869581407681213652425249, 5914643593119334434504119219765143568286043595326380386464450975935867487352, 4294203129871075167165264739067176752963589965959784651934673532200089511431, 12238312131488830025694601934580992892165636470613951953316737828875103201426, 11558892560043594980198472581814839451986447340810214297218358750777379131557, 12624719862887958891395301637703227845453868655626952156885187955164244767789]", "context": ["decideAcceptance_0"]}
+{"key": "gas", "value": 340375, "context": ["decideAcceptance_0"]}
+{"key": "transaction_data_kb", "value": 1.009765625, "context": ["decideAcceptance_0"]}
+{"key": "time_transaction_full", "value": 28.211116552352905, "context": ["decideAcceptance_0"]}
+{"key": "time_all_transactions", "value": 92.71811556816101, "context": []}

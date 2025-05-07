@@ -1,0 +1,178 @@
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "transaction_data_kb", "value": 1.833984375, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "transaction_data_kb", "value": 1.830078125, "context": ["deploy_pki", "elgamal"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(6325526332278667850545639338246805286493399800719345945889375825699175625225,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(449007656374715091223839500040442942948035534249706623566668640956629123334, 4179427941492315070396959285269811124855967820019787560315777753392402590553)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_start"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_start"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_start"]}
+{"key": "gas", "value": 1072561, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_start"]}
+{"key": "transaction_data_kb", "value": 9.28515625, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_start"]}
+{"key": "time_transaction_full", "value": 0.05419492721557617, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_start"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_buy"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_buy"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_buy"]}
+{"key": "gas", "value": 994777, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_buy"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_buy"]}
+{"key": "time_transaction_full", "value": 0.05097222328186035, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_buy"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_sell"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_sell"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_sell"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_sell"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_sell"]}
+{"key": "time_transaction_full", "value": 0.04814743995666504, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_sell"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_bet"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_bet"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_bet"]}
+{"key": "gas", "value": 994537, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_bet"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_bet"]}
+{"key": "time_transaction_full", "value": 0.05596184730529785, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_bet"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_add_winner"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_add_winner"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_add_winner"]}
+{"key": "gas", "value": 994789, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_add_winner"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_add_winner"]}
+{"key": "time_transaction_full", "value": 0.05261969566345215, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_add_winner"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_publish"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_publish"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_publish"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_publish"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_publish"]}
+{"key": "time_transaction_full", "value": 0.05498671531677246, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_publish"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_win"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_win"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_win"]}
+{"key": "gas", "value": 994717, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_win"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_win"]}
+{"key": "time_transaction_full", "value": 0.05340456962585449, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_win"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_transformation"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_transformation"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_transformation"]}
+{"key": "gas", "value": 994741, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_transformation"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_transformation"]}
+{"key": "time_transaction_full", "value": 0.04989814758300781, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_transformation"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "WeightedLottery"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "WeightedLottery"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "WeightedLottery"]}
+{"key": "gas", "value": 4643533, "context": ["constructor_0", "constructor", "WeightedLottery"]}
+{"key": "transaction_data_kb", "value": 41.466796875, "context": ["constructor_0", "constructor", "WeightedLottery"]}
+{"key": "function_name", "value": "upgradeTo", "context": ["constructor_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0"]}
+{"key": "function_arg_0", "value": "0xB68A1397205A1D433c5A5383814d5346386f2a2c", "context": ["constructor_0"]}
+{"key": "gas", "value": 34687, "context": ["constructor_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 5.449766397476196, "context": ["constructor_0"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(19090310951707302316100886367560642938039444374027034457973349127870599743883,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(13701998475233943465458696751977660315689779626931201443029885127224748799894, 16016799950875163697800280968893391004399733300328865076169153407683330223977)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x1efF47bc3a10a45D4B230B5d10E37751FE6AA718", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(2972751974254206617812768176292845404109515798657223761525706006806201969960,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x1efF47bc3a10a45D4B230B5d10E37751FE6AA718", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(21341618849704953903634140873406659300031384941905118876590767852443278315308, 1661483943610072194137049616170946585619108689481039095551012329292105345751)", "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.4836845397949219, "context": ["consistency_transformation_0"]}
+{"key": "time_libsnark_gen_proof", "value": 22.601956367492676, "context": ["consistency_transformation_0"]}
+{"key": "time_generate_proof", "value": 24.092054843902588, "context": ["consistency_transformation_0"]}
+{"key": "function_name", "value": "consistency_transformation", "context": ["consistency_transformation_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["consistency_transformation_0"]}
+{"key": "function_value", "value": "None", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_0", "value": "[4261494636416737038389480031235311241854134886177490802054, 5844471514387567123574366539307131968878070332401778187330, 5368220296808428492182769405594484850503245647674781391763546863508564103769, 10419145941612426492103109619153881100038470893184523784478292727801220293138, 19457941684660186477323744324917988263523324324171790053965214282436799740116, 2070211709977650137161644182038880970021648626714595340812255225633547592122, 5563708754299463909271062936000441155459804939287669679293754634847270408712, 941557031083470924444734844801871558422178712963172409335812766524128683927, 20695915307820867639153051714967103256580768425621195984139830522541890561988, 18628531733669816936688675305925501783879429044520023385431436507834625956032, 11647758447655249317504101270584144318558852810311567610687938993204015870117, 17539041558097513850975132548222380869170585842003378988890345275179106926075, 3472861738714591468361446363087238883854612708423068399060526139105358458969, 13203129605187560615852762358833796162734092221882538062326190478048262482969, 2567495617967756523381400369547401729703306986974644694157, 3879336491993160239911734145901614212800379816416883407868, 4725294418100508913781778404993391664376653417056779349293, 2575317934031741195823335947011411576218476171990788631336, 5009206733469495666486844443612961820948449112474621347316, 2977895690528565016060435373947174094750586180376622490881, 3918842630080498692622502929388365825196930859297607324125, 4421340806128405476511616725763844466222955405207699802239]", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_1", "value": "[18812271348408588084734650828662444083585808963377250942830580332512320783303, 2298181232142019119395303542974581256446339080219651871436831051677524980164, 11941235720254872286795068287454435480784850131829542281850555502817238837534, 12856444898858693593065945789981629012524120564814434878642544425061993776995, 17039305806508321384822688134409707922896583958444571536298377077384801507257, 3522156691804544962673899247004193741571786972847062590803601928182477608894, 10089355407402610740713933156033582136161935112939156101802415393210388134483, 17728561711128453592628784155972316819651415323005854648459127409695535647574]", "context": ["consistency_transformation_0"]}
+{"key": "gas", "value": 851063, "context": ["consistency_transformation_0"]}
+{"key": "transaction_data_kb", "value": 2.009765625, "context": ["consistency_transformation_0"]}
+{"key": "time_transaction_full", "value": 30.185582637786865, "context": ["consistency_transformation_0"]}
+{"key": "time_elgamal_decrypt", "value": 7.261995315551758, "context": ["bet_2"]}
+{"key": "time_elgamal_decrypt", "value": 7.2366697788238525, "context": ["bet_2"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.8926289081573486, "context": ["bet_2"]}
+{"key": "time_libsnark_gen_proof", "value": 29.798704147338867, "context": ["bet_2"]}
+{"key": "time_generate_proof", "value": 31.707270860671997, "context": ["bet_2"]}
+{"key": "function_name", "value": "bet", "context": ["bet_2"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["bet_2"]}
+{"key": "function_value", "value": "None", "context": ["bet_2"]}
+{"key": "function_arg_0", "value": "[4198822686332407333900351662684144917764105085746650012931, 71695491306625774761386290621886098575857400256918168432, 19090310951707302316100886367560642938039444374027034457973349127870599743883]", "context": ["bet_2"]}
+{"key": "function_arg_1", "value": "[2864890702056867567368385689969801162065076174713221455827, 1102154171450203163275508103851311140877729415307837136530, 19090310951707302316100886367560642938039444374027034457973349127870599743883]", "context": ["bet_2"]}
+{"key": "function_arg_2", "value": "[1, 5052883679439735675735362662957553728528043920167717230394262765687464088706, 21375178147276979467461350547677939995666706234030915008231463934258979274099, 21411222705912964163513978025083118008594572900216478052188686931554104471745, 1073397215065713117132593841885670971561713642016700567292279339959923722277, 3333515491948511741586817511542151133129587102151267041649, 2406867171992269581784701029791907082104174218866406887217, 917648325305961597275921777342216054629172354401242228073, 346384706840150211818701800688857874114590714245018867966, 11857651862389736863270039827028782591677847972602995398549911226830242116732, 14864208255891790891640006874591881144405419438068435048999658099788203907237, 8494241767804997829147585545175768351890693384908214800273696147345988295403, 17076297849440896380900718323851412522967593192109664379726195482876082486198, 18530451515106620858155313639339084446053693606731880968590371550548478039614, 2586187927676738547801269434705605935584870266109904418864935089414343803268, 7827062021938058234588015932635180997813898253876750031323045020658417166063, 20617829728734360453839968391691079432349583863654230483449570472863235172861]", "context": ["bet_2"]}
+{"key": "function_arg_3", "value": "[2586318800388733218191510132812389957485299366804621236843828965241527665334, 8376704541805467754358249977033702991215959300697774810173977798385296372924, 15899629864709914897635001485664423128680035089590757960639502705911084938983, 13054300855208497260345226461830805548465940324113079318796918492316726424474, 13170216997049791795007329004117240731588736015034861922313502448020852768723, 8738106333682543094102470408693311872939101368052173850880495710487125376079, 3147849371470301606804698836622581765853884425865583548981587221847035047808, 13661126858860139798045120412106318240973333910867221257180506295325027551700]", "context": ["bet_2"]}
+{"key": "gas", "value": 385814, "context": ["bet_2"]}
+{"key": "transaction_data_kb", "value": 2.072265625, "context": ["bet_2"]}
+{"key": "time_transaction_full", "value": 51.5740647315979, "context": ["bet_2"]}
+{"key": "time_elgamal_decrypt", "value": 7.230401992797852, "context": ["bet_3"]}
+{"key": "time_elgamal_decrypt", "value": 7.21794581413269, "context": ["bet_3"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.7293648719787598, "context": ["bet_3"]}
+{"key": "time_libsnark_gen_proof", "value": 29.772716999053955, "context": ["bet_3"]}
+{"key": "time_generate_proof", "value": 31.51709818840027, "context": ["bet_3"]}
+{"key": "function_name", "value": "bet", "context": ["bet_3"]}
+{"key": "function_sender", "value": "0x1efF47bc3a10a45D4B230B5d10E37751FE6AA718", "context": ["bet_3"]}
+{"key": "function_value", "value": "None", "context": ["bet_3"]}
+{"key": "function_arg_0", "value": "[2556264309353582271835915932889707545508252806043778571080, 2712640813638873087813298663427241266364245855446244168498, 2972751974254206617812768176292845404109515798657223761525706006806201969960]", "context": ["bet_3"]}
+{"key": "function_arg_1", "value": "[2777970714392806027345867492523141440564160945055090174604, 3521332481591734667145612900437705105047168197122034343682, 2972751974254206617812768176292845404109515798657223761525706006806201969960]", "context": ["bet_3"]}
+{"key": "function_arg_2", "value": "[1, 1835437149224952480362628064148819903023044266204604659975512778690739604070, 4747532008109383483858997147021231549861786619737072989802018455236778341895, 4751532258827334820249435233249517999699659858556500973853854433874525070052, 506243667754092156609729501307727682985244641534686578109103327790104188183, 2149658001175675245265877641698795149590956597688534925346, 4776371078129163892318134037597706137354146780795040309109, 947871840668343465040410919741666537490320014304580502521, 3452695796396696039387397590474136780289252293498093913479, 6451010856204832600298398514547443693299822012799145439151268799953183514146, 12843316650889305964259651211828583431906619896621027144137003105859821815866, 21675369317703393483263937530348460459393343594106601018928940371155521274597, 11186492439986254099983493400160107928365986099619537779871840114486044230487, 5512975604547912413754421122425074647229879109136726380572212942062741781637, 20102679742081396312850087445725654661081869717143737871436223147670415264898, 119312170890533357108663420444311392881607170703125451728167096660169591919, 16284593893629782638017713781485470691268506499455835022309673264069472114604]", "context": ["bet_3"]}
+{"key": "function_arg_3", "value": "[19720255220982875972400343052629806914627518572133584975690931562283280851231, 744317281299849300959387683542800172643492596908308438197185985036020149915, 10737290512498934357526285120622249954469553682522737467166761576073728980857, 3691554928219047086209539104937905356401515321251386900822893571990585010481, 14590393694149674064626262507799957525356665434329925872165478812821367514093, 6796392752625390178592414454318775447620551215593392890302047292613954679290, 1038363257110861753468714556834417896000297581328045830175832569738567484085, 20488724544978455354599124751218316689502376902120594062273492459517100641348]", "context": ["bet_3"]}
+{"key": "gas", "value": 385790, "context": ["bet_3"]}
+{"key": "transaction_data_kb", "value": 2.072265625, "context": ["bet_3"]}
+{"key": "time_transaction_full", "value": 51.289246559143066, "context": ["bet_3"]}
+{"key": "function_name", "value": "_test_advance_time", "context": ["_test_advance_time_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["_test_advance_time_0"]}
+{"key": "function_value", "value": "None", "context": ["_test_advance_time_0"]}
+{"key": "gas", "value": 29017, "context": ["_test_advance_time_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["_test_advance_time_0"]}
+{"key": "time_transaction_full", "value": 0.07911515235900879, "context": ["_test_advance_time_0"]}
+{"key": "function_name", "value": "_test_advance_time", "context": ["_test_advance_time_1"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["_test_advance_time_1"]}
+{"key": "function_value", "value": "None", "context": ["_test_advance_time_1"]}
+{"key": "gas", "value": 29017, "context": ["_test_advance_time_1"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["_test_advance_time_1"]}
+{"key": "time_transaction_full", "value": 0.07921171188354492, "context": ["_test_advance_time_1"]}
+{"key": "function_name", "value": "_test_advance_time", "context": ["_test_advance_time_2"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["_test_advance_time_2"]}
+{"key": "function_value", "value": "None", "context": ["_test_advance_time_2"]}
+{"key": "gas", "value": 29017, "context": ["_test_advance_time_2"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["_test_advance_time_2"]}
+{"key": "time_transaction_full", "value": 0.07876276969909668, "context": ["_test_advance_time_2"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.4261465072631836, "context": ["start_1"]}
+{"key": "time_libsnark_gen_proof", "value": 3.3927125930786133, "context": ["start_1"]}
+{"key": "time_generate_proof", "value": 3.8225016593933105, "context": ["start_1"]}
+{"key": "function_name", "value": "start", "context": ["start_1"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["start_1"]}
+{"key": "function_value", "value": "None", "context": ["start_1"]}
+{"key": "function_arg_0", "value": "[2848607810547966083624738651940675029549532581705187025702, 2460458146177425917554027747825248695522940929916499947196, 6325526332278667850545639338246805286493399800719345945889375825699175625225]", "context": ["start_1"]}
+{"key": "function_arg_1", "value": "[]", "context": ["start_1"]}
+{"key": "function_arg_2", "value": "[19170511806782359763382229837533999083781614699584738223688622513373592068892, 16962065187065501537193570700758924582515567167517096219927200048147958425400, 9052847666061241042203609858096978936681916672062461770664893147252781118317, 10834786904725012448059609278232990822055275005393436144558480974079945319753, 8382046369823790358336573695132575857974343121577887849327429085849095427437, 17140942836427309875773008687661428672191023671656901180294093600091281735943, 17943432487551754358236400461565154834320048824046627120772652056174792300668, 8913277441317693275787421280338221449524191261360932892739917570172154296063]", "context": ["start_1"]}
+{"key": "gas", "value": 296465, "context": ["start_1"]}
+{"key": "transaction_data_kb", "value": 0.822265625, "context": ["start_1"]}
+{"key": "time_transaction_full", "value": 5.36770224571228, "context": ["start_1"]}
+{"key": "time_all_transactions", "value": 167.85874676704407, "context": []}

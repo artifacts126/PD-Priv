@@ -1,0 +1,25 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor", "ZetherConfidential"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor", "ZetherConfidential"]}
+{"key": "function_value", "value": "None", "context": ["constructor", "ZetherConfidential"]}
+{"key": "gas", "value": 832022, "context": ["constructor", "ZetherConfidential"]}
+{"key": "transaction_data_kb", "value": 7.142578125, "context": ["constructor", "ZetherConfidential"]}
+{"key": "function_name", "value": "constructor", "context": []}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": []}
+{"key": "function_value", "value": "None", "context": []}
+{"key": "function_arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "function_arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "function_name", "value": "initialize", "context": ["initialize_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["initialize_0"]}
+{"key": "function_value", "value": "None", "context": ["initialize_0"]}
+{"key": "gas", "value": 90945, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.034685373306274414, "context": ["initialize_0"]}
+{"key": "function_name", "value": "fund", "context": ["fund_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["fund_0"]}
+{"key": "function_value", "value": "1000", "context": ["fund_0"]}
+{"key": "gas", "value": 94900, "context": ["fund_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["fund_0"]}
+{"key": "time_transaction_full", "value": 0.31972789764404297, "context": ["fund_0"]}
+{"key": "time_all_transactions", "value": 1.3792083263397217, "context": []}

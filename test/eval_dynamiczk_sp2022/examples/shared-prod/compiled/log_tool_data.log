@@ -1,0 +1,99 @@
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "transaction_data_kb", "value": 1.833984375, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "transaction_data_kb", "value": 1.830078125, "context": ["deploy_pki", "elgamal"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(6325526332278667850545639338246805286493399800719345945889375825699175625225,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(449007656374715091223839500040442942948035534249706623566668640956629123334, 4179427941492315070396959285269811124855967820019787560315777753392402590553)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.5592203140258789, "context": ["constructor_0"]}
+{"key": "time_libsnark_gen_proof", "value": 3.3706414699554443, "context": ["constructor_0"]}
+{"key": "time_generate_proof", "value": 3.934293508529663, "context": ["constructor_0"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_foo"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_foo"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_foo"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_foo"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_foo"]}
+{"key": "time_transaction_full", "value": 0.052152395248413086, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_foo"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_show_result"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_show_result"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_show_result"]}
+{"key": "gas", "value": 994549, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_show_result"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_show_result"]}
+{"key": "time_transaction_full", "value": 0.0519404411315918, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_show_result"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_consistency_transformation"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_consistency_transformation"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_consistency_transformation"]}
+{"key": "gas", "value": 994513, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_consistency_transformation"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_consistency_transformation"]}
+{"key": "time_transaction_full", "value": 0.053780317306518555, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_consistency_transformation"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_constructor"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_constructor"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_constructor"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_constructor"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_constructor"]}
+{"key": "time_transaction_full", "value": 0.05476069450378418, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_constructor"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "function_arg_0", "value": "[9296729172760361543521663436626809137890829509864242038798485995227008205007, 17421767813903492804029198615950641471219471033242834399787679203383061934418, 18920917704116346794943717074017805259230108034879179217834652960932775739778, 10877283840083371993841075047690538909100641491046825416822446351431798301028]", "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "function_arg_1", "value": "[5697764587278213607877640832655130126236266574343697813318066931468355833555, 13746130449436461177661445464296304838329426553158427591354273049931093843250, 17210225728643271002719547894142599491918049981113241575494572050465623454410, 9782726692719171635891040432556904943598846778764285556727055491065622660586, 4435856000294222636684018221375333960651861607144380864383283301070179526008, 13379469631666930607387335413895348631058400288477626704216135924438552856218, 804352287069606655490748222066203798833838851574062054713185569204948844497, 4077688597780691233973022351541587926217313039171081237835895092908103784207]", "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "gas", "value": 1421556, "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "transaction_data_kb", "value": 12.4765625, "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "function_name", "value": "upgradeTo", "context": ["constructor_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0"]}
+{"key": "function_arg_0", "value": "0xf1cD9eb4eA42137E777a261AB9f45f4D275c1a67", "context": ["constructor_0"]}
+{"key": "gas", "value": 34443, "context": ["constructor_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 7.685297250747681, "context": ["constructor_0"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(19090310951707302316100886367560642938039444374027034457973349127870599743883,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(13701998475233943465458696751977660315689779626931201443029885127224748799894, 16016799950875163697800280968893391004399733300328865076169153407683330223977)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.5861575603485107, "context": ["consistency_transformation_0"]}
+{"key": "time_libsnark_gen_proof", "value": 3.9434690475463867, "context": ["consistency_transformation_0"]}
+{"key": "time_generate_proof", "value": 4.534436464309692, "context": ["consistency_transformation_0"]}
+{"key": "function_name", "value": "consistency_transformation", "context": ["consistency_transformation_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["consistency_transformation_0"]}
+{"key": "function_value", "value": "None", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_0", "value": "[9290274017068685545093896496435772092381195226591964094402418310991151738888, 21644823732811482404968448666814096761860799084519357430555783647949745221110, 1004057632120560990042397743410154147883008150100005522187728882786853441261, 10657980932606951900083497558443056827696118736157256615879970697631250914238]", "context": ["consistency_transformation_0"]}
+{"key": "function_arg_1", "value": "[15358678664030068212299112818892862350399354286147221738434402741303568457054, 14426030474087609014073096157639840341914998499397970551785256624160229747814, 644460047792792571893313544568905795733824366348214862844550532564833341778, 18006771387033854564914325312025567089973599377594217374019330199897712289138, 17615796646727872672925377257050947616313289465862813123229377445478726079525, 6616756012630175619419731138995186277323730191554429845324778013440140788887, 4744854644161361011436608603721483502322648856761686984995609993646956664178, 19601283532670213238815348547889257016764839316908037688973660403224200661380]", "context": ["consistency_transformation_0"]}
+{"key": "gas", "value": 333991, "context": ["consistency_transformation_0"]}
+{"key": "transaction_data_kb", "value": 0.884765625, "context": ["consistency_transformation_0"]}
+{"key": "time_transaction_full", "value": 6.644098997116089, "context": ["consistency_transformation_0"]}
+{"key": "time_elgamal_decrypt", "value": 7.243147611618042, "context": ["show_result_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.5537116527557373, "context": ["show_result_0"]}
+{"key": "time_libsnark_gen_proof", "value": 3.962031126022339, "context": ["show_result_0"]}
+{"key": "time_generate_proof", "value": 4.520983457565308, "context": ["show_result_0"]}
+{"key": "function_name", "value": "show_result", "context": ["show_result_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["show_result_0"]}
+{"key": "function_value", "value": "None", "context": ["show_result_0"]}
+{"key": "function_arg_0", "value": "[12]", "context": ["show_result_0"]}
+{"key": "function_arg_1", "value": "[18487016545928616273394958026152182773507898617497093246632232344242034085407, 3292377633021081868078094517613647685014653730024278035669388331763118916132, 10229690443472797290151909917365548423321746803824751561355315395958876263890, 5737546478335371036416957295069544370358942743903867695989912011301207618098, 16936739627397641100972680727140457438770094999822182974362443819109912769468, 20427781609920878927021395557899746848324671219106935972973628923641577856236, 19697654081069134305612539343583054795457826530127685545437093657843633152591, 9495743466355500687183192481849130863051403035343600771992677423423284139786]", "context": ["show_result_0"]}
+{"key": "gas", "value": 274425, "context": ["show_result_0"]}
+{"key": "transaction_data_kb", "value": 0.697265625, "context": ["show_result_0"]}
+{"key": "time_transaction_full", "value": 13.079262733459473, "context": ["show_result_0"]}
+{"key": "time_all_transactions", "value": 32.68914461135864, "context": []}

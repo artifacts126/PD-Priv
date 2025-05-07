@@ -1,0 +1,13 @@
+{"key": "gas", "value": 698065, "context": ["constructor", "Token"]}
+{"key": "transaction_data_kb", "value": 5.931640625, "context": ["constructor", "Token"]}
+{"key": "arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "gas", "value": 50005, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.05156278610229492, "context": ["initialize_0"]}
+{"key": "gas", "value": 45059, "context": ["buy_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_0"]}
+{"key": "time_transaction_full", "value": 0.11752986907958984, "context": ["buy_0"]}
+{"key": "time_all_transactions", "value": 1.4403867721557617, "context": []}

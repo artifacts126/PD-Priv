@@ -1,0 +1,46 @@
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_fund"]}
+{"key": "time_transaction_full", "value": 0.08810853958129883, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_fund"]}
+{"key": "gas", "value": 994789, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_transfer"]}
+{"key": "time_transaction_full", "value": 0.0894317626953125, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_transfer"]}
+{"key": "gas", "value": 994789, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_burn"]}
+{"key": "time_transaction_full", "value": 0.06954646110534668, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_burn"]}
+{"key": "gas", "value": 994465, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_consistency_balance"]}
+{"key": "time_transaction_full", "value": 0.08753538131713867, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_consistency_balance"]}
+{"key": "gas", "value": 994777, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_consistency_pending"]}
+{"key": "time_transaction_full", "value": 0.0891103744506836, "context": ["constructor_0", "constructor", "zk__Verify_ZetherConfidential_consistency_pending"]}
+{"key": "gas", "value": 2528303, "context": ["constructor_0", "constructor", "ZetherConfidential"]}
+{"key": "gas", "value": 34454, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 4.495048522949219, "context": ["constructor_0"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 47, "context": []}
+{"key": "time_jsnark_prepare_proof", "value": 0.9599781036376953, "context": ["consistency_balance_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.671921491622925, "context": ["consistency_balance_0"]}
+{"key": "time_generate_proof", "value": 5.63642692565918, "context": ["consistency_balance_0"]}
+{"key": "gas", "value": 120020, "context": ["consistency_balance_0"]}
+{"key": "time_transaction_full", "value": 7.109586954116821, "context": ["consistency_balance_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.9327840805053711, "context": ["consistency_pending_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.686788558959961, "context": ["consistency_pending_0"]}
+{"key": "time_generate_proof", "value": 5.624238729476929, "context": ["consistency_pending_0"]}
+{"key": "gas", "value": 120151, "context": ["consistency_pending_0"]}
+{"key": "time_transaction_full", "value": 7.021688938140869, "context": ["consistency_pending_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.319392442703247, "context": ["transfer_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.393913269042969, "context": ["transfer_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.335105657577515, "context": ["transfer_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 3.765699863433838, "context": ["transfer_0"]}
+{"key": "time_libsnark_gen_proof", "value": 52.60809350013733, "context": ["transfer_0"]}
+{"key": "time_generate_proof", "value": 56.390084743499756, "context": ["transfer_0"]}
+{"key": "gas", "value": 331898, "context": ["transfer_0"]}
+{"key": "time_transaction_full", "value": 98.0278389453888, "context": ["transfer_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.41996431350708, "context": ["burn_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.323848485946655, "context": ["burn_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 2.578824996948242, "context": ["burn_0"]}
+{"key": "time_libsnark_gen_proof", "value": 23.424274444580078, "context": ["burn_0"]}
+{"key": "time_generate_proof", "value": 26.014567375183105, "context": ["burn_0"]}
+{"key": "gas", "value": 174665, "context": ["burn_0"]}
+{"key": "time_transaction_full", "value": 52.03012132644653, "context": ["burn_0"]}
+{"key": "time_all_transactions", "value": 185.0400505065918, "context": []}

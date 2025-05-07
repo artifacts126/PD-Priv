@@ -1,0 +1,16 @@
+{"key": "gas", "value": 441440, "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "transaction_data_kb", "value": 3.078125, "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "time_transaction_full", "value": 0.34865903854370117, "context": ["constructor_0"]}
+{"key": "arg_0", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["registerReviewer_0"]}
+{"key": "gas", "value": 64340, "context": ["registerReviewer_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["registerReviewer_0"]}
+{"key": "time_transaction_full", "value": 0.21205663681030273, "context": ["registerReviewer_0"]}
+{"key": "arg_0", "value": "b'\\x1e\\xffG\\xbc:\\x10\\xa4]K#\\x0b]\\x10\\xe3wQ\\xfej\\xa7\\x18'", "context": ["registerReviewer_1"]}
+{"key": "gas", "value": 49352, "context": ["registerReviewer_1"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["registerReviewer_1"]}
+{"key": "time_transaction_full", "value": 0.1714625358581543, "context": ["registerReviewer_1"]}
+{"key": "arg_0", "value": "1234", "context": ["registerPaper_0"]}
+{"key": "gas", "value": 41672, "context": ["registerPaper_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["registerPaper_0"]}
+{"key": "time_transaction_full", "value": 0.048220157623291016, "context": ["registerPaper_0"]}
+{"key": "time_all_transactions", "value": 1.6725854873657227, "context": []}

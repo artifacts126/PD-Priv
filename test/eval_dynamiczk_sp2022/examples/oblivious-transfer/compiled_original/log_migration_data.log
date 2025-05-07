@@ -1,0 +1,23 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "gas", "value": 253343, "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "transaction_data_kb", "value": 1.71875, "context": ["constructor_0", "constructor", "ObliviousTransfer"]}
+{"key": "time_transaction_full", "value": 0.17513728141784668, "context": ["constructor_0"]}
+{"key": "function_name", "value": "prepare", "context": ["prepare_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["prepare_0"]}
+{"key": "function_value", "value": "None", "context": ["prepare_0"]}
+{"key": "function_arg_0", "value": "0", "context": ["prepare_0"]}
+{"key": "function_arg_1", "value": "1", "context": ["prepare_0"]}
+{"key": "gas", "value": 28646, "context": ["prepare_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["prepare_0"]}
+{"key": "time_transaction_full", "value": 0.07681798934936523, "context": ["prepare_0"]}
+{"key": "function_name", "value": "send", "context": ["send_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["send_0"]}
+{"key": "function_value", "value": "None", "context": ["send_0"]}
+{"key": "function_arg_0", "value": "24", "context": ["send_0"]}
+{"key": "function_arg_1", "value": "59", "context": ["send_0"]}
+{"key": "gas", "value": 29641, "context": ["send_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["send_0"]}
+{"key": "time_transaction_full", "value": 0.11231827735900879, "context": ["send_0"]}
+{"key": "time_all_transactions", "value": 0.547675609588623, "context": []}

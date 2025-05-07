@@ -1,0 +1,20 @@
+{"key": "gas", "value": 683724, "context": ["constructor", "ObliviousTransfer"]}
+{"key": "transaction_data_kb", "value": 5.80078125, "context": ["constructor", "ObliviousTransfer"]}
+{"key": "arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "gas", "value": 70884, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.04742026329040527, "context": ["initialize_0"]}
+{"key": "arg_0", "value": "0", "context": ["prepare_0"]}
+{"key": "arg_1", "value": "1", "context": ["prepare_0"]}
+{"key": "gas", "value": 30585, "context": ["prepare_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["prepare_0"]}
+{"key": "time_transaction_full", "value": 0.11325335502624512, "context": ["prepare_0"]}
+{"key": "arg_0", "value": "24", "context": ["send_0"]}
+{"key": "arg_1", "value": "59", "context": ["send_0"]}
+{"key": "gas", "value": 31470, "context": ["send_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["send_0"]}
+{"key": "time_transaction_full", "value": 0.21639728546142578, "context": ["send_0"]}
+{"key": "time_all_transactions", "value": 1.619570016860962, "context": []}

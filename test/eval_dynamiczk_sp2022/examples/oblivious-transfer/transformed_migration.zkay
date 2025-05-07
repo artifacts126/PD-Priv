@@ -1,0 +1,38 @@
+pragma zkay ^0.3.0;
+
+contract ObliviousTransfer {
+    final address receiver;
+    uint32 b1_original;
+    uint32 b2_original;
+    uint32 result_original;
+    uint32@receiver<+> b1;
+    uint32@receiver<+> b2;
+    uint32@receiver<+> result;
+
+    constructor() public {
+        receiver = me;
+    }
+
+    function prepare(uint32@me<+> s1, uint32@me<+> s2) public {
+        require(me == receiver);
+        require(reveal((unhom(s1) == reveal(1, me) && unhom(s2) == reveal(0, me)) || (unhom(s1) == reveal(0, me) && unhom(s2) == reveal(1, me)), all));
+        b1 = s1;
+        b2 = s2;
+    }
+
+    function send(uint32@me<+> x1, uint32@me<+> x2) public {
+        result = b1 * reveal(x1, receiver) + b2 * reveal(x2, receiver);
+    }
+
+    function consistency_b1() public {
+        b1 = reveal(b1_original, receiver);
+    }
+
+    function consistency_b2() public {
+        b2 = reveal(b2_original, receiver);
+    }
+
+    function consistency_result() public {
+        result = reveal(result_original, receiver);
+    }
+}

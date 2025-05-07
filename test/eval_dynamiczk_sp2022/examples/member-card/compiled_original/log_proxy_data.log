@@ -1,0 +1,15 @@
+{"key": "gas", "value": 680886, "context": ["constructor", "MemberCard"]}
+{"key": "transaction_data_kb", "value": 5.775390625, "context": ["constructor", "MemberCard"]}
+{"key": "arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "arg_0", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["initialize_0"]}
+{"key": "gas", "value": 92363, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.06385946273803711, "context": ["initialize_0"]}
+{"key": "arg_0", "value": "59", "context": ["updateBalance_0"]}
+{"key": "gas", "value": 51893, "context": ["updateBalance_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["updateBalance_0"]}
+{"key": "time_transaction_full", "value": 0.29484033584594727, "context": ["updateBalance_0"]}
+{"key": "time_all_transactions", "value": 1.6046881675720215, "context": []}

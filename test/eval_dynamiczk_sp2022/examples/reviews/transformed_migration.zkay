@@ -1,0 +1,61 @@
+pragma zkay ^0.3.0;
+
+contract Reviews {
+    final address pc;
+    uint required_reviews = 2;
+    uint threshold = 3;
+    mapping(address => uint) paperForAuthor_original;
+    mapping(address => bool) accepted_original;
+    uint num_reviewers = 0;
+    mapping(address => bool) is_reviewer;
+    mapping(uint => uint) num_reviews;
+    mapping(uint => uint32) sum_of_reviews_original;
+    mapping(address => mapping(uint => bool)) reviewer_has_reviewed;
+    mapping(address => uint@pc) paperForAuthor;
+    mapping(address!x => bool@x) accepted;
+    mapping(uint => uint32@pc<+>) sum_of_reviews;
+
+    constructor() public {
+        pc = me;
+    }
+
+    function registerReviewer(address reviewer) public {
+        require(me == pc);
+        num_reviewers++;
+        is_reviewer[reviewer] = true;
+    }
+
+    function registerPaper(uint@me paperId) public {
+        paperForAuthor[me] = reveal(paperId, pc);
+    }
+
+    function recordReview(uint paperId, uint32@me score) public {
+        require(is_reviewer[me]);
+        require(!reviewer_has_reviewed[me][paperId]);
+        require(reveal(score >= reveal(0, me) && score <= reveal(5, me), all));
+        num_reviews[paperId]++;
+        sum_of_reviews[paperId] = sum_of_reviews[paperId] + reveal(score, pc);
+        reviewer_has_reviewed[me][paperId] = true;
+    }
+
+    function decideAcceptance(address author) public {
+        require(pc == me);
+        uint paperId = reveal(paperForAuthor[author], all);
+        require(num_reviews[paperId] >= required_reviews);
+        uint count = num_reviews[paperId];
+        uint@me sum = unhom(sum_of_reviews[paperId]);
+        accepted[author] = reveal(sum >= reveal(count * threshold, me), author);
+    }
+
+    function consistency_paperForAuthor(address param1) public {
+        paperForAuthor[param1] = reveal(paperForAuthor_original[param1], pc);
+    }
+
+    function consistency_accepted(address param1) public {
+        accepted[param1] = reveal(accepted_original[param1], param1);
+    }
+
+    function consistency_sum_of_reviews(uint param1) public {
+        sum_of_reviews[param1] = reveal(sum_of_reviews_original[param1], pc);
+    }
+}

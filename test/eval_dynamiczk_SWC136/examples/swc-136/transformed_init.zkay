@@ -1,0 +1,80 @@
+pragma zkay ^0.3.0;
+
+contract Odd_Even {
+    address admin;
+    uint32 sum;
+    uint counter;
+    mapping(address => uint32) balance;
+    mapping(uint => address) players;
+    address winner;
+    uint play_deadline;
+    uint _now;
+
+    function buy() public payable {
+        balance[me] = balance[me] + uint32(msg.value);
+    }
+
+    function transfer(uint32 amount, address to) public {
+        require(amount <= balance[me]);
+        balance[me] = balance[me] - amount;
+        balance[to] = balance[to] + amount;
+    }
+
+    function sell(uint32 amount) public {
+        require(amount <= balance[me]);
+        balance[me] = balance[me] - amount;
+        msg.sender.transfer(amount);
+    }
+
+    function start(uint32 number) public {
+        require(me == admin);
+        require(_now > play_deadline);
+        if (counter >= 1) {
+            address player1 = players[0];
+            balance[player1] = balance[player1] + 1;
+            if (counter == 2) {
+                address player2 = players[1];
+                balance[player2] = balance[player2] + 1;
+            }
+            counter = 0;
+        }
+        sum = sum + number;
+        play_deadline = _now + 2;
+    }
+
+    function play(uint32 number) public {
+        require(_now <= play_deadline);
+        require(1 <= balance[me]);
+        require(counter < 2);
+        require(me != admin);
+        balance[me] = balance[me] - 1;
+        sum = sum + number;
+        players[counter] = me;
+        counter = counter + 1;
+    }
+
+    function select_winner() public {
+        require(me == admin);
+        require(_now > play_deadline);
+        if (counter == 1) {
+            address player = players[0];
+            balance[player] = balance[player] + 1;
+        }
+        if (counter == 2) {
+            uint index = sum % 2;
+            winner = players[index];
+            balance[winner] = balance[winner] + 2;
+        }
+        counter = 0;
+    }
+
+    function _test_advance_time() public {
+        _now = _now + 3;
+    }
+
+    function initialize() public {
+        admin = me;
+        counter = 0;
+        _now = block.timestamp;
+    }
+}

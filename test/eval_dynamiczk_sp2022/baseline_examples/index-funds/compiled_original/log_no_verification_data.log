@@ -1,0 +1,13 @@
+{"key": "gas", "value": 945233, "context": ["constructor", "IndexFunds"]}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "gas", "value": 70774, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.061086416244506836, "context": ["initialize_0"]}
+{"key": "gas", "value": 89580, "context": ["add_stocks_to_funds_0"]}
+{"key": "time_transaction_full", "value": 0.2685680389404297, "context": ["add_stocks_to_funds_0"]}
+{"key": "gas", "value": 74580, "context": ["add_stocks_to_funds_1"]}
+{"key": "time_transaction_full", "value": 0.25915980339050293, "context": ["add_stocks_to_funds_1"]}
+{"key": "gas", "value": 44912, "context": ["pay_into_0"]}
+{"key": "time_transaction_full", "value": 0.12395548820495605, "context": ["pay_into_0"]}
+{"key": "gas", "value": 61665, "context": ["buy_shares_0"]}
+{"key": "time_transaction_full", "value": 0.33605098724365234, "context": ["buy_shares_0"]}
+{"key": "time_all_transactions", "value": 3.8222908973693848, "context": []}

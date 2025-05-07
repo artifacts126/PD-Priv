@@ -1,0 +1,12 @@
+{"key": "gas", "value": 294215, "context": ["constructor_0", "constructor", "Voting"]}
+{"key": "transaction_data_kb", "value": 2.119140625, "context": ["constructor_0", "constructor", "Voting"]}
+{"key": "time_transaction_full", "value": 0.30716419219970703, "context": ["constructor_0"]}
+{"key": "arg_0", "value": "0", "context": ["vote_0"]}
+{"key": "gas", "value": 52955, "context": ["vote_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["vote_0"]}
+{"key": "time_transaction_full", "value": 0.29169654846191406, "context": ["vote_0"]}
+{"key": "arg_0", "value": "1", "context": ["vote_1"]}
+{"key": "gas", "value": 52967, "context": ["vote_1"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["vote_1"]}
+{"key": "time_transaction_full", "value": 0.27721333503723145, "context": ["vote_1"]}
+{"key": "time_all_transactions", "value": 1.585371732711792, "context": []}

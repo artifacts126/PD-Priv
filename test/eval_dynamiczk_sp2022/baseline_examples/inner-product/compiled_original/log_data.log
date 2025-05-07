@@ -1,0 +1,20 @@
+{"key": "gas", "value": 723404, "context": ["constructor", "InnerProduct"]}
+{"key": "transaction_data_kb", "value": 6.16015625, "context": ["constructor", "InnerProduct"]}
+{"key": "arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "gas", "value": 70906, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.061246633529663086, "context": ["initialize_0"]}
+{"key": "arg_0", "value": "0", "context": ["set_entry_0"]}
+{"key": "arg_1", "value": "2", "context": ["set_entry_0"]}
+{"key": "gas", "value": 45261, "context": ["set_entry_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["set_entry_0"]}
+{"key": "time_transaction_full", "value": 0.13401436805725098, "context": ["set_entry_0"]}
+{"key": "arg_0", "value": "1", "context": ["set_entry_1"]}
+{"key": "arg_1", "value": "3", "context": ["set_entry_1"]}
+{"key": "gas", "value": 45273, "context": ["set_entry_1"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["set_entry_1"]}
+{"key": "time_transaction_full", "value": 0.1289675235748291, "context": ["set_entry_1"]}
+{"key": "time_all_transactions", "value": 1.6685876846313477, "context": []}

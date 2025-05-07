@@ -1,0 +1,13 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "Token"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "Token"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "Token"]}
+{"key": "gas", "value": 277299, "context": ["constructor_0", "constructor", "Token"]}
+{"key": "transaction_data_kb", "value": 2.091796875, "context": ["constructor_0", "constructor", "Token"]}
+{"key": "time_transaction_full", "value": 0.16280698776245117, "context": ["constructor_0"]}
+{"key": "function_name", "value": "buy", "context": ["buy_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["buy_0"]}
+{"key": "function_value", "value": "1000", "context": ["buy_0"]}
+{"key": "gas", "value": 43132, "context": ["buy_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_0"]}
+{"key": "time_transaction_full", "value": 0.07633161544799805, "context": ["buy_0"]}
+{"key": "time_all_transactions", "value": 0.416780948638916, "context": []}

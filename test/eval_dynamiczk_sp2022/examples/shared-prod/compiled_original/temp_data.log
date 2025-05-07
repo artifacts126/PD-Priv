@@ -1,0 +1,8 @@
+{"key": "gas", "value": 192377, "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "transaction_data_kb", "value": 1.201171875, "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "time_transaction_full", "value": 0.552788496017456, "context": ["constructor_0"]}
+{"key": "arg_0", "value": "4", "context": ["foo_0"]}
+{"key": "gas", "value": 28367, "context": ["foo_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["foo_0"]}
+{"key": "time_transaction_full", "value": 0.3036978244781494, "context": ["foo_0"]}
+{"key": "time_all_transactions", "value": 1.2734549045562744, "context": []}

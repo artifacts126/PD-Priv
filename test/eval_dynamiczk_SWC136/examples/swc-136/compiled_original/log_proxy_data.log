@@ -1,0 +1,33 @@
+{"key": "gas", "value": 1049383, "context": ["constructor", "Odd_Even"]}
+{"key": "transaction_data_kb", "value": 9.107421875, "context": ["constructor", "Odd_Even"]}
+{"key": "arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "gas", "value": 91740, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.0580599308013916, "context": ["initialize_0"]}
+{"key": "gas", "value": 44924, "context": ["buy_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_0"]}
+{"key": "time_transaction_full", "value": 0.1280820369720459, "context": ["buy_0"]}
+{"key": "gas", "value": 44924, "context": ["buy_1"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_1"]}
+{"key": "time_transaction_full", "value": 0.1347959041595459, "context": ["buy_1"]}
+{"key": "arg_0", "value": "100", "context": ["transfer_0"]}
+{"key": "arg_1", "value": "b'\\x1e\\xffG\\xbc:\\x10\\xa4]K#\\x0b]\\x10\\xe3wQ\\xfej\\xa7\\x18'", "context": ["transfer_0"]}
+{"key": "gas", "value": 38722, "context": ["transfer_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["transfer_0"]}
+{"key": "time_transaction_full", "value": 0.21302080154418945, "context": ["transfer_0"]}
+{"key": "arg_0", "value": "5", "context": ["start_0"]}
+{"key": "gas", "value": 54353, "context": ["start_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["start_0"]}
+{"key": "time_transaction_full", "value": 0.4106271266937256, "context": ["start_0"]}
+{"key": "arg_0", "value": "3", "context": ["play_0"]}
+{"key": "gas", "value": 83925, "context": ["play_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["play_0"]}
+{"key": "time_transaction_full", "value": 0.5014715194702148, "context": ["play_0"]}
+{"key": "arg_0", "value": "7", "context": ["play_1"]}
+{"key": "gas", "value": 68925, "context": ["play_1"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["play_1"]}
+{"key": "time_transaction_full", "value": 0.5196330547332764, "context": ["play_1"]}
+{"key": "time_all_transactions", "value": 4.181230545043945, "context": []}

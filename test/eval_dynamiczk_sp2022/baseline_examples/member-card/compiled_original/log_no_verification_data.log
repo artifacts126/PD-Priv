@@ -1,0 +1,7 @@
+{"key": "gas", "value": 680886, "context": ["constructor", "MemberCard"]}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "gas", "value": 92363, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.0630333423614502, "context": ["initialize_0"]}
+{"key": "gas", "value": 51893, "context": ["updateBalance_0"]}
+{"key": "time_transaction_full", "value": 0.26766300201416016, "context": ["updateBalance_0"]}
+{"key": "time_all_transactions", "value": 1.5236115455627441, "context": []}

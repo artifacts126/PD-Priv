@@ -1,0 +1,48 @@
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "transaction_data_kb", "value": 1.833984375, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "function_name", "value": "constructor", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_sender", "value": "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf", "context": ["deploy_pki", "elgamal"]}
+{"key": "function_value", "value": "None", "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "transaction_data_kb", "value": 1.830078125, "context": ["deploy_pki", "elgamal"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(6325526332278667850545639338246805286493399800719345945889375825699175625225,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "function_name", "value": "announcePk", "context": ["announcePk"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["announcePk"]}
+{"key": "function_value", "value": "None", "context": ["announcePk"]}
+{"key": "function_arg_0", "value": "(449007656374715091223839500040442942948035534249706623566668640956629123334, 4179427941492315070396959285269811124855967820019787560315777753392402590553)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 29, "context": ["constructor_1"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_updateBalance"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_updateBalance"]}
+{"key": "function_value", "value": "None", "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_updateBalance"]}
+{"key": "gas", "value": 994729, "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_updateBalance"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_updateBalance"]}
+{"key": "time_transaction_full", "value": 0.05720043182373047, "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_updateBalance"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_redeemBonus"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_redeemBonus"]}
+{"key": "function_value", "value": "None", "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_redeemBonus"]}
+{"key": "gas", "value": 994729, "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_redeemBonus"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_redeemBonus"]}
+{"key": "time_transaction_full", "value": 0.05159568786621094, "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_redeemBonus"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_consistency_spent"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_consistency_spent"]}
+{"key": "function_value", "value": "None", "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_consistency_spent"]}
+{"key": "gas", "value": 994765, "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_consistency_spent"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_consistency_spent"]}
+{"key": "time_transaction_full", "value": 0.05398917198181152, "context": ["constructor_1", "constructor", "zk__Verify_MemberCard_consistency_spent"]}
+{"key": "function_name", "value": "constructor", "context": ["constructor_1", "constructor", "MemberCard"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_1", "constructor", "MemberCard"]}
+{"key": "function_value", "value": "100000", "context": ["constructor_1", "constructor", "MemberCard"]}
+{"key": "function_arg_0", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["constructor_1", "constructor", "MemberCard"]}
+{"key": "gas", "value": 1297856, "context": ["constructor_1", "constructor", "MemberCard"]}
+{"key": "transaction_data_kb", "value": 11.23828125, "context": ["constructor_1", "constructor", "MemberCard"]}
+{"key": "time_transaction_full", "value": 1.4994714260101318, "context": ["constructor_1"]}

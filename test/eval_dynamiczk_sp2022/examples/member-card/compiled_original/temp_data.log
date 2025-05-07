@@ -1,0 +1,9 @@
+{"key": "arg_0", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["constructor_0", "constructor", "MemberCard"]}
+{"key": "gas", "value": 279656, "context": ["constructor_0", "constructor", "MemberCard"]}
+{"key": "transaction_data_kb", "value": 2.048828125, "context": ["constructor_0", "constructor", "MemberCard"]}
+{"key": "time_transaction_full", "value": 0.2299816608428955, "context": ["constructor_0"]}
+{"key": "arg_0", "value": "59", "context": ["updateBalance_0"]}
+{"key": "gas", "value": 50045, "context": ["updateBalance_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["updateBalance_0"]}
+{"key": "time_transaction_full", "value": 0.2262110710144043, "context": ["updateBalance_0"]}
+{"key": "time_all_transactions", "value": 0.6931846141815186, "context": []}

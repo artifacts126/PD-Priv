@@ -1,0 +1,40 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor", "Reviews"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor", "Reviews"]}
+{"key": "function_value", "value": "None", "context": ["constructor", "Reviews"]}
+{"key": "gas", "value": 847815, "context": ["constructor", "Reviews"]}
+{"key": "transaction_data_kb", "value": 7.28515625, "context": ["constructor", "Reviews"]}
+{"key": "function_name", "value": "constructor", "context": []}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": []}
+{"key": "function_value", "value": "None", "context": []}
+{"key": "function_arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "function_arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "function_name", "value": "initialize", "context": ["initialize_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["initialize_0"]}
+{"key": "function_value", "value": "None", "context": ["initialize_0"]}
+{"key": "gas", "value": 111548, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.0354766845703125, "context": ["initialize_0"]}
+{"key": "function_name", "value": "registerReviewer", "context": ["registerReviewer_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["registerReviewer_0"]}
+{"key": "function_value", "value": "None", "context": ["registerReviewer_0"]}
+{"key": "function_arg_0", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["registerReviewer_0"]}
+{"key": "gas", "value": 66189, "context": ["registerReviewer_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["registerReviewer_0"]}
+{"key": "time_transaction_full", "value": 0.12913250923156738, "context": ["registerReviewer_0"]}
+{"key": "function_name", "value": "registerReviewer", "context": ["registerReviewer_1"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["registerReviewer_1"]}
+{"key": "function_value", "value": "None", "context": ["registerReviewer_1"]}
+{"key": "function_arg_0", "value": "b'\\x1e\\xffG\\xbc:\\x10\\xa4]K#\\x0b]\\x10\\xe3wQ\\xfej\\xa7\\x18'", "context": ["registerReviewer_1"]}
+{"key": "gas", "value": 51201, "context": ["registerReviewer_1"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["registerReviewer_1"]}
+{"key": "time_transaction_full", "value": 0.12717795372009277, "context": ["registerReviewer_1"]}
+{"key": "function_name", "value": "registerPaper", "context": ["registerPaper_0"]}
+{"key": "function_sender", "value": "0xe1AB8145F7E55DC933d51a18c793F901A3A0b276", "context": ["registerPaper_0"]}
+{"key": "function_value", "value": "None", "context": ["registerPaper_0"]}
+{"key": "function_arg_0", "value": "1234", "context": ["registerPaper_0"]}
+{"key": "gas", "value": 43410, "context": ["registerPaper_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["registerPaper_0"]}
+{"key": "time_transaction_full", "value": 0.0330660343170166, "context": ["registerPaper_0"]}
+{"key": "time_all_transactions", "value": 2.1639230251312256, "context": []}

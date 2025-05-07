@@ -1,0 +1,9 @@
+{"key": "gas", "value": 683724, "context": ["constructor", "ObliviousTransfer"]}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "gas", "value": 70884, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.046595096588134766, "context": ["initialize_0"]}
+{"key": "gas", "value": 30585, "context": ["prepare_0"]}
+{"key": "time_transaction_full", "value": 0.11970686912536621, "context": ["prepare_0"]}
+{"key": "gas", "value": 31470, "context": ["send_0"]}
+{"key": "time_transaction_full", "value": 0.1883256435394287, "context": ["send_0"]}
+{"key": "time_all_transactions", "value": 1.6272244453430176, "context": []}

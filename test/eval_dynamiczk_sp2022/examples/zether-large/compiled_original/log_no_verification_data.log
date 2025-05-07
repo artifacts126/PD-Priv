@@ -1,0 +1,11 @@
+{"key": "gas", "value": 917823, "context": ["constructor", "ZetherLarge"]}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "gas", "value": 69967, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.06084895133972168, "context": ["initialize_0"]}
+{"key": "gas", "value": 72177, "context": ["fund_0"]}
+{"key": "time_transaction_full", "value": 0.34192848205566406, "context": ["fund_0"]}
+{"key": "gas", "value": 92886, "context": ["transfer_0"]}
+{"key": "time_transaction_full", "value": 0.5372564792633057, "context": ["transfer_0"]}
+{"key": "gas", "value": 69584, "context": ["into_vault_0"]}
+{"key": "time_transaction_full", "value": 0.39556050300598145, "context": ["into_vault_0"]}
+{"key": "time_all_transactions", "value": 2.985430955886841, "context": []}

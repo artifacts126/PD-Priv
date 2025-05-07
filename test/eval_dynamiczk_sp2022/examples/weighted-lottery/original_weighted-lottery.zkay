@@ -1,0 +1,92 @@
+pragma zkay ^0.3.0;
+
+// META-NAME weighted-lottery
+// META-DESC Lottery where the winning chance can be increased by higher bids.
+// META-ADD
+// META-MIXED
+
+contract WeightedLottery {
+    address admin;
+
+    uint bid_deadline;
+    uint redeem_deadline;
+    uint end_deadline;
+
+    uint128 secret;
+    uint32 jackpot;
+
+    uint128 published_secret;
+    uint32 published_jackpot;
+    uint32 nof_winners;
+    mapping(address => bool) is_winner;
+
+    mapping(address => uint32) balance;
+    mapping(address => uint128) bets_upper;
+    mapping(address => uint128) bets_lower;
+
+    uint _now = 1234;    // for testing purposes only--use blockchain time for real deployment
+
+    constructor() public {
+        admin = me;
+    }
+
+    function start(uint128 s) public {
+        require(me == admin);
+        require(_now > end_deadline);
+        bid_deadline = _now + 2;
+        redeem_deadline = _now + 4;
+        end_deadline = _now + 7;
+        secret = s;
+        nof_winners = 0;
+    }
+
+    function buy() public payable {
+		balance[me] += uint32(msg.value);
+	}
+
+	function sell(uint32 amount) public {
+        require(amount <= balance[me]);
+        balance[me] -= amount;
+        msg.sender.transfer(amount);
+	}
+
+	function bet(uint128 lower, uint32 weight) public {
+        require(_now <= bid_deadline);
+        require(weight <= balance[me]);
+        balance[me] -= weight;
+        bets_lower[me] = lower;
+        bets_upper[me] = lower + weight;
+        jackpot += weight;
+	}
+
+	// called multiple times for each winner (the secret may hit multiple betters) by the lottery
+	function add_winner(address winner) public {
+        require(me == admin);
+	    require(_now > bid_deadline);
+	    require(_now <= redeem_deadline);
+	    require((bets_lower[winner] <= secret) && (secret <= bets_upper[winner]));
+	    require(!is_winner[winner]);
+        nof_winners += 1;
+        is_winner[winner] = true;
+	}
+
+	function publish() public {
+	    require(me == admin);
+	    require(_now > bid_deadline);
+	    require(_now <= redeem_deadline);
+	    published_secret = secret;
+	    published_jackpot = jackpot;
+	}
+
+	function win() public {
+	    require(_now > redeem_deadline);
+	    require(_now <= end_deadline);
+	    require(is_winner[me]);
+	    balance[me] += published_jackpot / nof_winners;
+	    is_winner[me] = false;
+	}
+
+	function _test_advance_time() public {
+		_now += 3;
+	}
+}

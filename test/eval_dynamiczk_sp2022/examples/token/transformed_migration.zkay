@@ -1,0 +1,31 @@
+pragma zkay ^0.3.0;
+
+contract Token {
+    mapping(address => uint32) balance_original;
+    mapping(address!x => uint32@x<+>) balance;
+
+    constructor() public {
+
+    }
+
+    function buy() public payable {
+        require(msg.value <= 100000);
+        balance[me] = addhom(unhom(balance[me]) + reveal(uint32(msg.value), me));
+    }
+
+    function transfer(uint32@me<+> value, address to) public {
+        require(reveal(unhom(value) <= unhom(balance[me]), all));
+        balance[me] = addhom(unhom(balance[me]) - unhom(value));
+        balance[to] = balance[to] + reveal(value, to);
+    }
+
+    function sell(uint32@me<+> amount) public {
+        require(reveal(unhom(amount) <= unhom(balance[me]), all));
+        balance[me] = addhom(unhom(balance[me]) - unhom(amount));
+        msg.sender.transfer(reveal(amount, all));
+    }
+
+    function consistency_balance(address param1) public {
+        balance[param1] = reveal(balance_original[param1], param1);
+    }
+}

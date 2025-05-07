@@ -1,0 +1,55 @@
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.1717979907989502, "context": ["constructor_0"]}
+{"key": "time_libsnark_gen_proof", "value": 8.380367755889893, "context": ["constructor_0"]}
+{"key": "time_generate_proof", "value": 9.558253288269043, "context": ["constructor_0"]}
+{"key": "gas", "value": 994741, "context": ["constructor_0", "constructor", "zk__Verify_Voting_vote"]}
+{"key": "time_transaction_full", "value": 0.07032036781311035, "context": ["constructor_0", "constructor", "zk__Verify_Voting_vote"]}
+{"key": "gas", "value": 994729, "context": ["constructor_0", "constructor", "zk__Verify_Voting_declareWinner"]}
+{"key": "time_transaction_full", "value": 0.072357177734375, "context": ["constructor_0", "constructor", "zk__Verify_Voting_declareWinner"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_Voting_consistency_votesForA"]}
+{"key": "time_transaction_full", "value": 0.07551455497741699, "context": ["constructor_0", "constructor", "zk__Verify_Voting_consistency_votesForA"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_Voting_consistency_votesForB"]}
+{"key": "time_transaction_full", "value": 0.07462835311889648, "context": ["constructor_0", "constructor", "zk__Verify_Voting_consistency_votesForB"]}
+{"key": "gas", "value": 994357, "context": ["constructor_0", "constructor", "zk__Verify_Voting_constructor"]}
+{"key": "time_transaction_full", "value": 0.06814837455749512, "context": ["constructor_0", "constructor", "zk__Verify_Voting_constructor"]}
+{"key": "gas", "value": 2010393, "context": ["constructor_0", "constructor", "Voting"]}
+{"key": "gas", "value": 34553, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 16.273202896118164, "context": ["constructor_0"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 43, "context": []}
+{"key": "time_jsnark_prepare_proof", "value": 0.9135313034057617, "context": ["consistency_votesForA_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.724188566207886, "context": ["consistency_votesForA_0"]}
+{"key": "time_generate_proof", "value": 5.642473220825195, "context": ["consistency_votesForA_0"]}
+{"key": "gas", "value": 120174, "context": ["consistency_votesForA_0"]}
+{"key": "time_transaction_full", "value": 7.116107225418091, "context": ["consistency_votesForA_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.8887341022491455, "context": ["consistency_votesForB_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.771379709243774, "context": ["consistency_votesForB_0"]}
+{"key": "time_generate_proof", "value": 5.66412615776062, "context": ["consistency_votesForB_0"]}
+{"key": "gas", "value": 120099, "context": ["consistency_votesForB_0"]}
+{"key": "time_transaction_full", "value": 7.099989652633667, "context": ["consistency_votesForB_0"]}
+{"key": "time_elgamal_decrypt", "value": 0.5320208072662354, "context": ["vote_2"]}
+{"key": "time_elgamal_decrypt", "value": 0.51735520362854, "context": ["vote_2"]}
+{"key": "time_elgamal_decrypt", "value": 0.5214874744415283, "context": ["vote_2"]}
+{"key": "time_jsnark_prepare_proof", "value": 3.0360419750213623, "context": ["vote_2"]}
+{"key": "time_libsnark_gen_proof", "value": 39.945430755615234, "context": ["vote_2"]}
+{"key": "time_generate_proof", "value": 42.9927978515625, "context": ["vote_2"]}
+{"key": "gas", "value": 144824, "context": ["vote_2"]}
+{"key": "time_transaction_full", "value": 51.761072397232056, "context": ["vote_2"]}
+{"key": "time_elgamal_decrypt", "value": 0.5043447017669678, "context": ["declareWinner_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.454259872436523, "context": ["declareWinner_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.360252380371094, "context": ["declareWinner_0"]}
+{"key": "time_elgamal_decrypt", "value": 0.5088202953338623, "context": ["declareWinner_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.6556165218353271, "context": ["declareWinner_0"]}
+{"key": "time_libsnark_gen_proof", "value": 17.754405736923218, "context": ["declareWinner_0"]}
+{"key": "time_generate_proof", "value": 19.41819453239441, "context": ["declareWinner_0"]}
+{"key": "gas", "value": 77407, "context": ["declareWinner_0"]}
+{"key": "time_transaction_full", "value": 43.947471618652344, "context": ["declareWinner_0"]}
+{"key": "time_all_transactions", "value": 156.8236050605774, "context": []}

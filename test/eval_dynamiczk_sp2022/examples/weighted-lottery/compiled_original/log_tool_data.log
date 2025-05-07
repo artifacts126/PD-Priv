@@ -1,0 +1,54 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor", "WeightedLottery"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor", "WeightedLottery"]}
+{"key": "function_value", "value": "None", "context": ["constructor", "WeightedLottery"]}
+{"key": "gas", "value": 1099181, "context": ["constructor", "WeightedLottery"]}
+{"key": "transaction_data_kb", "value": 9.55859375, "context": ["constructor", "WeightedLottery"]}
+{"key": "function_name", "value": "constructor", "context": []}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": []}
+{"key": "function_value", "value": "None", "context": []}
+{"key": "function_arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "function_arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "function_name", "value": "initialize", "context": ["initialize_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["initialize_0"]}
+{"key": "function_value", "value": "None", "context": ["initialize_0"]}
+{"key": "gas", "value": 91023, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.0461728572845459, "context": ["initialize_0"]}
+{"key": "function_name", "value": "buy", "context": ["buy_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["buy_0"]}
+{"key": "function_value", "value": "1000", "context": ["buy_0"]}
+{"key": "gas", "value": 44924, "context": ["buy_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_0"]}
+{"key": "time_transaction_full", "value": 0.08333706855773926, "context": ["buy_0"]}
+{"key": "function_name", "value": "buy", "context": ["buy_1"]}
+{"key": "function_sender", "value": "0x1efF47bc3a10a45D4B230B5d10E37751FE6AA718", "context": ["buy_1"]}
+{"key": "function_value", "value": "1000", "context": ["buy_1"]}
+{"key": "gas", "value": 44924, "context": ["buy_1"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["buy_1"]}
+{"key": "time_transaction_full", "value": 0.08269000053405762, "context": ["buy_1"]}
+{"key": "function_name", "value": "start", "context": ["start_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["start_0"]}
+{"key": "function_value", "value": "None", "context": ["start_0"]}
+{"key": "function_arg_0", "value": "193775903028374", "context": ["start_0"]}
+{"key": "gas", "value": 111043, "context": ["start_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["start_0"]}
+{"key": "time_transaction_full", "value": 0.17283368110656738, "context": ["start_0"]}
+{"key": "function_name", "value": "bet", "context": ["bet_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["bet_0"]}
+{"key": "function_value", "value": "None", "context": ["bet_0"]}
+{"key": "function_arg_0", "value": "193775903028370", "context": ["bet_0"]}
+{"key": "function_arg_1", "value": "100", "context": ["bet_0"]}
+{"key": "gas", "value": 81930, "context": ["bet_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["bet_0"]}
+{"key": "time_transaction_full", "value": 0.22287392616271973, "context": ["bet_0"]}
+{"key": "function_name", "value": "bet", "context": ["bet_1"]}
+{"key": "function_sender", "value": "0x1efF47bc3a10a45D4B230B5d10E37751FE6AA718", "context": ["bet_1"]}
+{"key": "function_value", "value": "None", "context": ["bet_1"]}
+{"key": "function_arg_0", "value": "20483", "context": ["bet_1"]}
+{"key": "function_arg_1", "value": "20", "context": ["bet_1"]}
+{"key": "gas", "value": 81882, "context": ["bet_1"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["bet_1"]}
+{"key": "time_transaction_full", "value": 0.22292709350585938, "context": ["bet_1"]}
+{"key": "time_all_transactions", "value": 2.4683027267456055, "context": []}

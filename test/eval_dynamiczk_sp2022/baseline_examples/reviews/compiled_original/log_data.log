@@ -1,0 +1,22 @@
+{"key": "gas", "value": 847815, "context": ["constructor", "Reviews"]}
+{"key": "transaction_data_kb", "value": 7.28515625, "context": ["constructor", "Reviews"]}
+{"key": "arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "gas", "value": 111548, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.06277728080749512, "context": ["initialize_0"]}
+{"key": "arg_0", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["registerReviewer_0"]}
+{"key": "gas", "value": 66189, "context": ["registerReviewer_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["registerReviewer_0"]}
+{"key": "time_transaction_full", "value": 0.23519182205200195, "context": ["registerReviewer_0"]}
+{"key": "arg_0", "value": "b'\\x1e\\xffG\\xbc:\\x10\\xa4]K#\\x0b]\\x10\\xe3wQ\\xfej\\xa7\\x18'", "context": ["registerReviewer_1"]}
+{"key": "gas", "value": 51201, "context": ["registerReviewer_1"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["registerReviewer_1"]}
+{"key": "time_transaction_full", "value": 0.2160203456878662, "context": ["registerReviewer_1"]}
+{"key": "arg_0", "value": "1234", "context": ["registerPaper_0"]}
+{"key": "gas", "value": 43410, "context": ["registerPaper_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["registerPaper_0"]}
+{"key": "time_transaction_full", "value": 0.05219435691833496, "context": ["registerPaper_0"]}
+{"key": "time_all_transactions", "value": 3.2706243991851807, "context": []}

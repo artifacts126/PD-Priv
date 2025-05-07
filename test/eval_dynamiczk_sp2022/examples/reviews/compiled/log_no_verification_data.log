@@ -1,0 +1,48 @@
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 994705, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "time_transaction_full", "value": 0.09136486053466797, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "gas", "value": 994717, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "time_transaction_full", "value": 0.0894315242767334, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "gas", "value": 994741, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "time_transaction_full", "value": 0.08952116966247559, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "gas", "value": 994741, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "time_transaction_full", "value": 0.08869314193725586, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "gas", "value": 994501, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "time_transaction_full", "value": 0.08789610862731934, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "gas", "value": 994489, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "time_transaction_full", "value": 0.07904767990112305, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "gas", "value": 2842307, "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "gas", "value": 34676, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 5.419409513473511, "context": ["constructor_0"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 52, "context": []}
+{"key": "time_jsnark_prepare_proof", "value": 0.9566168785095215, "context": ["consistency_paperForAuthor_0"]}
+{"key": "time_libsnark_gen_proof", "value": 5.931691646575928, "context": ["consistency_paperForAuthor_0"]}
+{"key": "time_generate_proof", "value": 6.893418073654175, "context": ["consistency_paperForAuthor_0"]}
+{"key": "gas", "value": 102255, "context": ["consistency_paperForAuthor_0"]}
+{"key": "time_transaction_full", "value": 7.651201486587524, "context": ["consistency_paperForAuthor_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.7404546737670898, "context": ["recordReview_0"]}
+{"key": "time_libsnark_gen_proof", "value": 17.693384647369385, "context": ["recordReview_0"]}
+{"key": "time_generate_proof", "value": 19.44195556640625, "context": ["recordReview_0"]}
+{"key": "gas", "value": 179946, "context": ["recordReview_0"]}
+{"key": "time_transaction_full", "value": 22.329930067062378, "context": ["recordReview_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.625739336013794, "context": ["recordReview_1"]}
+{"key": "time_libsnark_gen_proof", "value": 17.870989561080933, "context": ["recordReview_1"]}
+{"key": "time_generate_proof", "value": 19.50527334213257, "context": ["recordReview_1"]}
+{"key": "gas", "value": 104886, "context": ["recordReview_1"]}
+{"key": "time_transaction_full", "value": 22.419272661209106, "context": ["recordReview_1"]}
+{"key": "time_elgamal_decrypt", "value": 11.460447549819946, "context": ["decideAcceptance_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.8759093284606934, "context": ["decideAcceptance_0"]}
+{"key": "time_libsnark_gen_proof", "value": 23.066470623016357, "context": ["decideAcceptance_0"]}
+{"key": "time_generate_proof", "value": 24.948715448379517, "context": ["decideAcceptance_0"]}
+{"key": "gas", "value": 122154, "context": ["decideAcceptance_0"]}
+{"key": "time_transaction_full", "value": 39.10625743865967, "context": ["decideAcceptance_0"]}
+{"key": "time_all_transactions", "value": 132.5137219429016, "context": []}

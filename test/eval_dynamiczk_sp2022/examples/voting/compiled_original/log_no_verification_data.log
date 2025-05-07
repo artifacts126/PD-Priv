@@ -1,0 +1,9 @@
+{"key": "gas", "value": 723020, "context": ["constructor", "Voting"]}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "gas", "value": 72567, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.04577970504760742, "context": ["initialize_0"]}
+{"key": "gas", "value": 54885, "context": ["vote_0"]}
+{"key": "time_transaction_full", "value": 0.32129740715026855, "context": ["vote_0"]}
+{"key": "gas", "value": 54897, "context": ["vote_1"]}
+{"key": "time_transaction_full", "value": 0.31389689445495605, "context": ["vote_1"]}
+{"key": "time_all_transactions", "value": 2.967437505722046, "context": []}

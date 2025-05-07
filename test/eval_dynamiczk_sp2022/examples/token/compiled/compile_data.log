@@ -1,0 +1,4 @@
+{"key": "originalLoc", "value": 25, "context": ["transformed_optimized.zkay"]}
+{"key": "time_circuit_compilation", "value": 0.08109116554260254, "context": ["transformed_optimized.zkay"]}
+{"key": "time_key_generation", "value": 1.6689300537109375e-06, "context": ["transformed_optimized.zkay"]}
+{"key": "time_compileFull", "value": 3.1027281284332275, "context": ["transformed_optimized.zkay"]}

@@ -1,0 +1,13 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "ZetherConfidential"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "ZetherConfidential"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "ZetherConfidential"]}
+{"key": "gas", "value": 446528, "context": ["constructor_0", "constructor", "ZetherConfidential"]}
+{"key": "transaction_data_kb", "value": 3.294921875, "context": ["constructor_0", "constructor", "ZetherConfidential"]}
+{"key": "time_transaction_full", "value": 0.22403597831726074, "context": ["constructor_0"]}
+{"key": "function_name", "value": "fund", "context": ["fund_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["fund_0"]}
+{"key": "function_value", "value": "1000", "context": ["fund_0"]}
+{"key": "gas", "value": 92968, "context": ["fund_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["fund_0"]}
+{"key": "time_transaction_full", "value": 0.2785649299621582, "context": ["fund_0"]}
+{"key": "time_all_transactions", "value": 0.7256715297698975, "context": []}

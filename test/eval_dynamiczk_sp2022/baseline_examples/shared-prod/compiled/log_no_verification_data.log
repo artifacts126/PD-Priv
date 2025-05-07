@@ -1,0 +1,33 @@
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.9182393550872803, "context": ["constructor_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.961606740951538, "context": ["constructor_0"]}
+{"key": "time_generate_proof", "value": 5.8843724727630615, "context": ["constructor_0"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_foo"]}
+{"key": "time_transaction_full", "value": 0.07392597198486328, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_foo"]}
+{"key": "gas", "value": 994549, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_show_result"]}
+{"key": "time_transaction_full", "value": 0.06905007362365723, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_show_result"]}
+{"key": "gas", "value": 994777, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_consistency_secret"]}
+{"key": "time_transaction_full", "value": 0.07591605186462402, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_consistency_secret"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_constructor"]}
+{"key": "time_transaction_full", "value": 0.07406926155090332, "context": ["constructor_0", "constructor", "zk__Verify_SharedProd_constructor"]}
+{"key": "gas", "value": 1330892, "context": ["constructor_0", "constructor", "SharedProd"]}
+{"key": "gas", "value": 34620, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 10.856857299804688, "context": ["constructor_0"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 21, "context": []}
+{"key": "time_jsnark_prepare_proof", "value": 0.9105527400970459, "context": ["consistency_secret_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.748765230178833, "context": ["consistency_secret_0"]}
+{"key": "time_generate_proof", "value": 5.6634368896484375, "context": ["consistency_secret_0"]}
+{"key": "gas", "value": 120030, "context": ["consistency_secret_0"]}
+{"key": "time_transaction_full", "value": 7.139740705490112, "context": ["consistency_secret_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.503474712371826, "context": ["show_result_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.8996787071228027, "context": ["show_result_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.856480598449707, "context": ["show_result_0"]}
+{"key": "time_generate_proof", "value": 5.760645151138306, "context": ["show_result_0"]}
+{"key": "gas", "value": 60271, "context": ["show_result_0"]}
+{"key": "time_transaction_full", "value": 17.678065299987793, "context": ["show_result_0"]}
+{"key": "time_all_transactions", "value": 44.141995906829834, "context": []}

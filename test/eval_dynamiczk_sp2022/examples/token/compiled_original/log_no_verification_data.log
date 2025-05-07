@@ -1,0 +1,7 @@
+{"key": "gas", "value": 698065, "context": ["constructor", "Token"]}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "gas", "value": 50005, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.06028270721435547, "context": ["initialize_0"]}
+{"key": "gas", "value": 45059, "context": ["buy_0"]}
+{"key": "time_transaction_full", "value": 0.1209266185760498, "context": ["buy_0"]}
+{"key": "time_all_transactions", "value": 1.499675989151001, "context": []}

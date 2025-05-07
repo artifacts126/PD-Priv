@@ -1,0 +1,103 @@
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 1072561, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_start"]}
+{"key": "time_transaction_full", "value": 0.07995843887329102, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_start"]}
+{"key": "gas", "value": 994777, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_buy"]}
+{"key": "time_transaction_full", "value": 0.09169769287109375, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_buy"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_sell"]}
+{"key": "time_transaction_full", "value": 0.11477160453796387, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_sell"]}
+{"key": "gas", "value": 994537, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_bet"]}
+{"key": "time_transaction_full", "value": 0.07072186470031738, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_bet"]}
+{"key": "gas", "value": 994789, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_add_winner"]}
+{"key": "time_transaction_full", "value": 0.07535529136657715, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_add_winner"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_publish"]}
+{"key": "time_transaction_full", "value": 0.0866096019744873, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_publish"]}
+{"key": "gas", "value": 994717, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_win"]}
+{"key": "time_transaction_full", "value": 0.09180188179016113, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_win"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_secret"]}
+{"key": "time_transaction_full", "value": 0.08668684959411621, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_secret"]}
+{"key": "gas", "value": 994525, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_jackpot"]}
+{"key": "time_transaction_full", "value": 0.08810639381408691, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_jackpot"]}
+{"key": "gas", "value": 994105, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_balance"]}
+{"key": "time_transaction_full", "value": 0.08748126029968262, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_balance"]}
+{"key": "gas", "value": 994777, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_bets_upper"]}
+{"key": "time_transaction_full", "value": 0.08282828330993652, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_bets_upper"]}
+{"key": "gas", "value": 994789, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_bets_lower"]}
+{"key": "time_transaction_full", "value": 0.08955526351928711, "context": ["constructor_0", "constructor", "zk__Verify_WeightedLottery_consistency_bets_lower"]}
+{"key": "gas", "value": 4420628, "context": ["constructor_0", "constructor", "WeightedLottery"]}
+{"key": "gas", "value": 34753, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 9.67724871635437, "context": ["constructor_0"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 91, "context": []}
+{"key": "time_jsnark_prepare_proof", "value": 1.122056484222412, "context": ["consistency_secret_0"]}
+{"key": "time_libsnark_gen_proof", "value": 6.622804880142212, "context": ["consistency_secret_0"]}
+{"key": "time_generate_proof", "value": 7.7492454051971436, "context": ["consistency_secret_0"]}
+{"key": "gas", "value": 101553, "context": ["consistency_secret_0"]}
+{"key": "time_transaction_full", "value": 8.500772953033447, "context": ["consistency_secret_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.905897855758667, "context": ["consistency_jackpot_0"]}
+{"key": "time_libsnark_gen_proof", "value": 5.427225589752197, "context": ["consistency_jackpot_0"]}
+{"key": "time_generate_proof", "value": 6.337900638580322, "context": ["consistency_jackpot_0"]}
+{"key": "gas", "value": 120242, "context": ["consistency_jackpot_0"]}
+{"key": "time_transaction_full", "value": 7.814157724380493, "context": ["consistency_jackpot_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.9968669414520264, "context": ["consistency_balance_0"]}
+{"key": "time_libsnark_gen_proof", "value": 5.790576934814453, "context": ["consistency_balance_0"]}
+{"key": "time_generate_proof", "value": 6.792077541351318, "context": ["consistency_balance_0"]}
+{"key": "gas", "value": 120031, "context": ["consistency_balance_0"]}
+{"key": "time_transaction_full", "value": 8.278147220611572, "context": ["consistency_balance_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.9971365928649902, "context": ["consistency_balance_1"]}
+{"key": "time_libsnark_gen_proof", "value": 4.801325798034668, "context": ["consistency_balance_1"]}
+{"key": "time_generate_proof", "value": 5.803220987319946, "context": ["consistency_balance_1"]}
+{"key": "gas", "value": 120079, "context": ["consistency_balance_1"]}
+{"key": "time_transaction_full", "value": 7.249140501022339, "context": ["consistency_balance_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 0.9588048458099365, "context": ["consistency_bets_upper_0"]}
+{"key": "time_libsnark_gen_proof", "value": 7.396708250045776, "context": ["consistency_bets_upper_0"]}
+{"key": "time_generate_proof", "value": 8.360347509384155, "context": ["consistency_bets_upper_0"]}
+{"key": "gas", "value": 102030, "context": ["consistency_bets_upper_0"]}
+{"key": "time_transaction_full", "value": 9.014668703079224, "context": ["consistency_bets_upper_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0515313148498535, "context": ["consistency_bets_lower_0"]}
+{"key": "time_libsnark_gen_proof", "value": 7.296976804733276, "context": ["consistency_bets_lower_0"]}
+{"key": "time_generate_proof", "value": 8.353630065917969, "context": ["consistency_bets_lower_0"]}
+{"key": "gas", "value": 102153, "context": ["consistency_bets_lower_0"]}
+{"key": "time_transaction_full", "value": 9.00392460823059, "context": ["consistency_bets_lower_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.380276918411255, "context": ["bet_1"]}
+{"key": "time_elgamal_decrypt", "value": 11.733500719070435, "context": ["bet_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 3.212580442428589, "context": ["bet_1"]}
+{"key": "time_libsnark_gen_proof", "value": 41.77635359764099, "context": ["bet_1"]}
+{"key": "time_generate_proof", "value": 45.01346683502197, "context": ["bet_1"]}
+{"key": "gas", "value": 249989, "context": ["bet_1"]}
+{"key": "time_transaction_full", "value": 74.34947395324707, "context": ["bet_1"]}
+{"key": "gas", "value": 29061, "context": ["_test_advance_time_0"]}
+{"key": "time_transaction_full", "value": 0.11662650108337402, "context": ["_test_advance_time_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.4726712703704834, "context": ["add_winner_0"]}
+{"key": "time_libsnark_gen_proof", "value": 15.509734630584717, "context": ["add_winner_0"]}
+{"key": "time_generate_proof", "value": 16.990638256072998, "context": ["add_winner_0"]}
+{"key": "gas", "value": 92181, "context": ["add_winner_0"]}
+{"key": "time_transaction_full", "value": 19.831451892852783, "context": ["add_winner_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.302590131759644, "context": ["publish_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.3362648487091064, "context": ["publish_0"]}
+{"key": "time_libsnark_gen_proof", "value": 11.162385702133179, "context": ["publish_0"]}
+{"key": "time_generate_proof", "value": 12.503283262252808, "context": ["publish_0"]}
+{"key": "gas", "value": 60165, "context": ["publish_0"]}
+{"key": "time_transaction_full", "value": 25.103787660598755, "context": ["publish_0"]}
+{"key": "gas", "value": 29061, "context": ["_test_advance_time_1"]}
+{"key": "time_transaction_full", "value": 0.12229633331298828, "context": ["_test_advance_time_1"]}
+{"key": "time_elgamal_decrypt", "value": 11.360206842422485, "context": ["win_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.139082431793213, "context": ["win_0"]}
+{"key": "time_libsnark_gen_proof", "value": 8.455086946487427, "context": ["win_0"]}
+{"key": "time_generate_proof", "value": 9.600393772125244, "context": ["win_0"]}
+{"key": "gas", "value": 59598, "context": ["win_0"]}
+{"key": "time_transaction_full", "value": 23.043964624404907, "context": ["win_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.375032186508179, "context": ["sell_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.467703342437744, "context": ["sell_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.40715765953064, "context": ["sell_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.9342095851898193, "context": ["sell_0"]}
+{"key": "time_libsnark_gen_proof", "value": 17.883521795272827, "context": ["sell_0"]}
+{"key": "time_generate_proof", "value": 19.829322576522827, "context": ["sell_0"]}
+{"key": "gas", "value": 82178, "context": ["sell_0"]}
+{"key": "time_transaction_full", "value": 56.851930379867554, "context": ["sell_0"]}
+{"key": "time_all_transactions", "value": 313.20781898498535, "context": []}

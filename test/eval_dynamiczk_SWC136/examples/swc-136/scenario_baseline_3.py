@@ -1,0 +1,52 @@
+#!/usr/bin/env python3
+import sys
+from zkay.zkay_frontend import transaction_benchmark_ctx
+from dynamiczk.transform_zkay_for_consistency.params_transform import get_all_params_to_upgrade
+import pickle, os
+from dynamiczk.zkay_interface import zkay_tool
+zkay_tool.enable_proxy = True
+# Scenario
+with transaction_benchmark_ctx(sys.argv[1], log_filename=sys.argv[2]) as g:
+	odd_even_addr, p1_addr, p2_addr = g.create_dummy_accounts(3)
+
+	odd_even = g.deploy(user=odd_even_addr)
+	p1 = g.connect(odd_even.address, user=p1_addr)
+	p2 = g.connect(odd_even.address, user=p2_addr)
+
+	odd_even.initialize()
+
+	odd_even.buy(wei_amount=1000)
+	p1.buy(wei_amount=1000)
+	p2.buy(wei_amount=1000)
+
+	odd_even.start(4)
+	p1.play(3)
+	p2.play(7)
+
+	odd_even._test_advance_time()
+	odd_even.select_winner()
+
+	odd_even.start(4)
+	p1.play(3)
+
+	odd_even._test_advance_time()
+
+	with open(os.path.join(os.path.dirname(sys.argv[1]), 'params.pkl'), 'wb') as file:
+		pickle.dump(list(get_all_params_to_upgrade([odd_even, p1, p2])), file)
+
+with transaction_benchmark_ctx(sys.argv[3], log_filename=sys.argv[4]) as g:
+	odd_even = g.deploy(user=odd_even_addr)
+	p1 = g.connect(odd_even.address, user=p1_addr)
+	p2 = g.connect(odd_even.address, user=p2_addr)
+
+	odd_even.consistency_transformation()
+
+	odd_even.start(0)
+	odd_even.transfer(1000, p2_addr)
+	p1.transfer(0, p2_addr)
+	p2.transfer(0, p1_addr)
+	p1.play(4)
+	p2.play(2)
+
+	odd_even._test_advance_time()
+	odd_even.select_winner()

@@ -1,0 +1,65 @@
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_fund"]}
+{"key": "time_transaction_full", "value": 0.08736371994018555, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_fund"]}
+{"key": "gas", "value": 994537, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_transfer"]}
+{"key": "time_transaction_full", "value": 0.06763267517089844, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_transfer"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_burn"]}
+{"key": "time_transaction_full", "value": 0.06809520721435547, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_burn"]}
+{"key": "gas", "value": 994525, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_into_vault"]}
+{"key": "time_transaction_full", "value": 0.0920267105102539, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_into_vault"]}
+{"key": "gas", "value": 994525, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_from_vault"]}
+{"key": "time_transaction_full", "value": 0.06881523132324219, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_from_vault"]}
+{"key": "gas", "value": 994765, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_balance"]}
+{"key": "time_transaction_full", "value": 0.08773398399353027, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_balance"]}
+{"key": "gas", "value": 994753, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_pending"]}
+{"key": "time_transaction_full", "value": 0.08955502510070801, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_pending"]}
+{"key": "gas", "value": 994777, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_vault"]}
+{"key": "time_transaction_full", "value": 0.09041380882263184, "context": ["constructor_0", "constructor", "zk__Verify_ZetherLarge_consistency_vault"]}
+{"key": "gas", "value": 3873592, "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "gas", "value": 34533, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 6.902894020080566, "context": ["constructor_0"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 58, "context": []}
+{"key": "time_jsnark_prepare_proof", "value": 1.0534734725952148, "context": ["consistency_balance_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.795037031173706, "context": ["consistency_balance_0"]}
+{"key": "time_generate_proof", "value": 5.852488279342651, "context": ["consistency_balance_0"]}
+{"key": "gas", "value": 120044, "context": ["consistency_balance_0"]}
+{"key": "time_transaction_full", "value": 7.325994491577148, "context": ["consistency_balance_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0145423412322998, "context": ["consistency_balance_1"]}
+{"key": "time_libsnark_gen_proof", "value": 4.908146381378174, "context": ["consistency_balance_1"]}
+{"key": "time_generate_proof", "value": 5.92725682258606, "context": ["consistency_balance_1"]}
+{"key": "gas", "value": 120032, "context": ["consistency_balance_1"]}
+{"key": "time_transaction_full", "value": 7.361433506011963, "context": ["consistency_balance_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0390901565551758, "context": ["consistency_pending_0"]}
+{"key": "time_libsnark_gen_proof", "value": 4.744657039642334, "context": ["consistency_pending_0"]}
+{"key": "time_generate_proof", "value": 5.7880775928497314, "context": ["consistency_pending_0"]}
+{"key": "gas", "value": 120087, "context": ["consistency_pending_0"]}
+{"key": "time_transaction_full", "value": 7.158562660217285, "context": ["consistency_pending_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.0497431755065918, "context": ["consistency_pending_1"]}
+{"key": "time_libsnark_gen_proof", "value": 4.794087886810303, "context": ["consistency_pending_1"]}
+{"key": "time_generate_proof", "value": 5.848016738891602, "context": ["consistency_pending_1"]}
+{"key": "gas", "value": 120063, "context": ["consistency_pending_1"]}
+{"key": "time_transaction_full", "value": 7.227837085723877, "context": ["consistency_pending_1"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.1097705364227295, "context": ["consistency_vault_0"]}
+{"key": "time_libsnark_gen_proof", "value": 5.969806671142578, "context": ["consistency_vault_0"]}
+{"key": "time_generate_proof", "value": 7.084408283233643, "context": ["consistency_vault_0"]}
+{"key": "gas", "value": 101528, "context": ["consistency_vault_0"]}
+{"key": "time_transaction_full", "value": 7.805415391921997, "context": ["consistency_vault_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.383795261383057, "context": ["burn_0"]}
+{"key": "time_elgamal_decrypt", "value": 11.4017915725708, "context": ["burn_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 2.1908681392669678, "context": ["burn_0"]}
+{"key": "time_libsnark_gen_proof", "value": 24.174408674240112, "context": ["burn_0"]}
+{"key": "time_generate_proof", "value": 26.37387228012085, "context": ["burn_0"]}
+{"key": "gas", "value": 138919, "context": ["burn_0"]}
+{"key": "time_transaction_full", "value": 52.39975595474243, "context": ["burn_0"]}
+{"key": "time_elgamal_decrypt", "value": 0.5335438251495361, "context": ["from_vault_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 2.1316018104553223, "context": ["from_vault_0"]}
+{"key": "time_libsnark_gen_proof", "value": 28.250994443893433, "context": ["from_vault_0"]}
+{"key": "time_generate_proof", "value": 30.394603729248047, "context": ["from_vault_0"]}
+{"key": "gas", "value": 95222, "context": ["from_vault_0"]}
+{"key": "time_transaction_full", "value": 35.107412815093994, "context": ["from_vault_0"]}
+{"key": "time_all_transactions", "value": 159.50514459609985, "context": []}

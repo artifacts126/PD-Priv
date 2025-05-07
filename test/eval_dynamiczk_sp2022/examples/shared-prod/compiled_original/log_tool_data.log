@@ -1,0 +1,26 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor", "SharedProd"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor", "SharedProd"]}
+{"key": "function_value", "value": "None", "context": ["constructor", "SharedProd"]}
+{"key": "gas", "value": 623043, "context": ["constructor", "SharedProd"]}
+{"key": "transaction_data_kb", "value": 5.251953125, "context": ["constructor", "SharedProd"]}
+{"key": "function_name", "value": "constructor", "context": []}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": []}
+{"key": "function_value", "value": "None", "context": []}
+{"key": "function_arg_0", "value": "0x153b84F377C6C7a7D93Bd9a717E48097Ca6Cfd11", "context": []}
+{"key": "function_arg_1", "value": "b''", "context": []}
+{"key": "gas", "value": 343194, "context": []}
+{"key": "transaction_data_kb", "value": 6.365234375, "context": []}
+{"key": "function_name", "value": "initialize", "context": ["initialize_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["initialize_0"]}
+{"key": "function_value", "value": "None", "context": ["initialize_0"]}
+{"key": "gas", "value": 70895, "context": ["initialize_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["initialize_0"]}
+{"key": "time_transaction_full", "value": 0.03473329544067383, "context": ["initialize_0"]}
+{"key": "function_name", "value": "foo", "context": ["foo_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["foo_0"]}
+{"key": "function_value", "value": "None", "context": ["foo_0"]}
+{"key": "function_arg_0", "value": "4", "context": ["foo_0"]}
+{"key": "gas", "value": 30303, "context": ["foo_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["foo_0"]}
+{"key": "time_transaction_full", "value": 0.0803670883178711, "context": ["foo_0"]}
+{"key": "time_all_transactions", "value": 0.9653825759887695, "context": []}

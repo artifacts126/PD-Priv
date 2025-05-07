@@ -1,0 +1,60 @@
+pragma zkay ^0.3.0;
+
+// META-NAME zether-large
+// META-DESC Modification of zether-confidential for balances larger than $2^{32}$.
+// META-ADD
+// META-MIXED
+
+contract ZetherLarge {
+    uint EPOCH_SIZE = 1;
+
+    mapping(address => uint) lastrollover;
+    mapping(address => uint32) balance;
+    mapping(address => uint32) pending;
+    mapping(address => uint128) vault;      // allow up to 2^128-1 wei in the vault
+
+    constructor() public {
+	}
+
+    function fund() public payable {
+        rollover(me);
+        balance[me] = balance[me] + uint32(msg.value);
+    }
+
+    function transfer(address to, uint32 val) public {
+        rollover(me);
+        rollover(to);
+        require(val <= balance[me]);
+        balance[me] = balance[me] - val;
+        pending[to] = pending[to] + val;
+    }
+
+    function burn(uint32 val) public {
+        rollover(me);
+        require(val <= balance[me]);
+        balance[me] = balance[me] - val;
+        msg.sender.transfer(val);
+    }
+
+    function into_vault(uint32 val) public {
+        rollover(me);
+        require(val <= balance[me]);
+        vault[me] = vault[me] + val;
+        balance[me] = balance[me] - val;
+    }
+
+    function from_vault(uint32 val) public {
+        require(val <= vault[me]);
+        vault[me] = vault[me] - val;
+        balance[me] = balance[me] + val;
+    }
+
+    function rollover(address y) internal {
+        uint e = block.number / EPOCH_SIZE;
+        if (lastrollover[y] < e) {
+            balance[y] = balance[y] + pending[y];
+            pending[y] = 0;
+            lastrollover[y] = e;
+        }
+    }
+}

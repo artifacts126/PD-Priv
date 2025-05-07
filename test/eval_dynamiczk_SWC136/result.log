@@ -1,0 +1,158 @@
+{
+    "migration": {
+        "swc-136": {
+            "public_deploy": [
+                667124
+            ],
+            "public_init": [
+                0
+            ],
+            "public_stage_1": [
+                667124
+            ],
+            "public_average_trans": [
+                54120
+            ],
+            "public_stage_2": [
+                324722
+            ],
+            "privacy_deploy_libs": [
+                8895288
+            ],
+            "privacy_deploy_self ": [
+                4236055
+            ],
+            "privacy_stage_3_1": [
+                13131343
+            ],
+            "data_migration": [
+                243045
+            ],
+            "privacy_transformation": [
+                996295
+            ],
+            "privacy_stage_3_2": [
+                1239340
+            ],
+            "privacy_stage_3": [
+                14370683
+            ],
+            "privacy_average_trans": [
+                214658
+            ],
+            "privacy_stage_4": [
+                643975
+            ],
+            "all_stage": [
+                16006504
+            ],
+            "privacy_transformation_time": [
+                27.895857095718384
+            ]
+        }
+    },
+    "proxy": {
+        "swc-136": {
+            "public_deploy": [
+                1392577
+            ],
+            "public_init": [
+                91740
+            ],
+            "public_stage_1": [
+                1484317
+            ],
+            "public_average_trans": [
+                55962
+            ],
+            "public_stage_2": [
+                335773
+            ],
+            "privacy_deploy_libs": [
+                8895288
+            ],
+            "privacy_deploy_self ": [
+                4392510
+            ],
+            "privacy_stage_3_1": [
+                13287798
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                1002020
+            ],
+            "privacy_stage_3_2": [
+                1002020
+            ],
+            "privacy_stage_3": [
+                14289818
+            ],
+            "privacy_average_trans": [
+                216477
+            ],
+            "privacy_stage_4": [
+                649432
+            ],
+            "all_stage": [
+                16759340
+            ],
+            "privacy_transformation_time": [
+                28.27323603630066
+            ]
+        }
+    },
+    "tool": {
+        "swc-136": {
+            "public_deploy": [
+                1392577
+            ],
+            "public_init": [
+                91740
+            ],
+            "public_stage_1": [
+                1484317
+            ],
+            "public_average_trans": [
+                55962
+            ],
+            "public_stage_2": [
+                335773
+            ],
+            "privacy_deploy_libs": [
+                7900367
+            ],
+            "privacy_deploy_self ": [
+                4446739
+            ],
+            "privacy_stage_3_1": [
+                12347106
+            ],
+            "data_migration": [
+                0
+            ],
+            "privacy_transformation": [
+                520593
+            ],
+            "privacy_stage_3_2": [
+                520593
+            ],
+            "privacy_stage_3": [
+                12867699
+            ],
+            "privacy_average_trans": [
+                216529
+            ],
+            "privacy_stage_4": [
+                649589
+            ],
+            "all_stage": [
+                15337378
+            ],
+            "privacy_transformation_time": [
+                22.935370922088623
+            ]
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{"key": "gas", "value": 248258, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "transaction_data_kb", "value": 1.833984375, "context": ["deploy_pki", "ecdh-chaskey"]}
+{"key": "gas", "value": 247838, "context": ["deploy_pki", "elgamal"]}
+{"key": "transaction_data_kb", "value": 1.830078125, "context": ["deploy_pki", "elgamal"]}
+{"key": "arg_0", "value": "(6325526332278667850545639338246805286493399800719345945889375825699175625225,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "arg_0", "value": "(449007656374715091223839500040442942948035534249706623566668640956629123334, 4179427941492315070396959285269811124855967820019787560315777753392402590553)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "gas", "value": 994705, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "time_transaction_full", "value": 0.0939021110534668, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_registerPaper"]}
+{"key": "gas", "value": 994717, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "time_transaction_full", "value": 0.08952522277832031, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_recordReview"]}
+{"key": "gas", "value": 994741, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "time_transaction_full", "value": 0.09123706817626953, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_decideAcceptance"]}
+{"key": "gas", "value": 994741, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "transaction_data_kb", "value": 8.580078125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "time_transaction_full", "value": 0.08565235137939453, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_paperForAuthor"]}
+{"key": "gas", "value": 994501, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "time_transaction_full", "value": 0.09441661834716797, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_accepted"]}
+{"key": "gas", "value": 994489, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "transaction_data_kb", "value": 8.578125, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "time_transaction_full", "value": 0.09151458740234375, "context": ["constructor_0", "constructor", "zk__Verify_Reviews_consistency_sum_of_reviews"]}
+{"key": "gas", "value": 2981599, "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "transaction_data_kb", "value": 26.255859375, "context": ["constructor_0", "constructor", "Reviews"]}
+{"key": "arg_0", "value": "0x550D108F2D3Db72F40C5f37d29040e1912E985A0", "context": ["constructor_0"]}
+{"key": "gas", "value": 34676, "context": ["constructor_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["constructor_0"]}
+{"key": "time_transaction_full", "value": 6.187592029571533, "context": ["constructor_0"]}
+{"key": "arg_0", "value": "(19090310951707302316100886367560642938039444374027034457973349127870599743883,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "arg_0", "value": "(13701998475233943465458696751977660315689779626931201443029885127224748799894, 16016799950875163697800280968893391004399733300328865076169153407683330223977)", "context": ["announcePk"]}
+{"key": "gas", "value": 83993, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "arg_0", "value": "(2972751974254206617812768176292845404109515798657223761525706006806201969960,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "arg_0", "value": "(21341618849704953903634140873406659300031384941905118876590767852443278315308, 1661483943610072194137049616170946585619108689481039095551012329292105345751)", "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "arg_0", "value": "(9645474126960753658153086725450723070754325099583727935521357375863916156084,)", "context": ["announcePk"]}
+{"key": "gas", "value": 63283, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["announcePk"]}
+{"key": "arg_0", "value": "(4799748253745289763392936610399947598827356271607894740328180118415941923484, 9148729484978836119368717987563331430185269241732932063696422217909189131242)", "context": ["announcePk"]}
+{"key": "gas", "value": 84005, "context": ["announcePk"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["announcePk"]}
+{"key": "originalLoc", "value": 52, "context": []}
+{"key": "time_jsnark_prepare_proof", "value": 1.4362573623657227, "context": ["consistency_paperForAuthor_0"]}
+{"key": "time_libsnark_gen_proof", "value": 6.3849036693573, "context": ["consistency_paperForAuthor_0"]}
+{"key": "time_generate_proof", "value": 7.825948476791382, "context": ["consistency_paperForAuthor_0"]}
+{"key": "arg_0", "value": "b'\\xe1\\xab\\x81E\\xf7\\xe5]\\xc93\\xd5\\x1a\\x18\\xc7\\x93\\xf9\\x01\\xa3\\xa0\\xb2v'", "context": ["consistency_paperForAuthor_0"]}
+{"key": "arg_1", "value": "[854419942957274637850266914142522068639348010747625623714, 232190747896102187259519233532136796170223090863573155471]", "context": ["consistency_paperForAuthor_0"]}
+{"key": "arg_2", "value": "[6551468993370995284344221231274194719728817602840711785155007487285185261538, 4529448007441019963280122677448754382174677788183867355298161949071372864552, 6477349568752609680889828184984880052461554503360554496570910049520919882685, 7291640795092837467294064669141500341297909293654683915320483998079546058416, 7544655593240447350930281812230643939885291418790399105956966245339331690427, 19130543972353825176466893847430049823895825758923647816035898692773340920578, 1849130329691827409734404359787651563244275139227995159200651830791911858026, 11026723829134870108376956647517975765836880887399763020812250928762334875450]", "context": ["consistency_paperForAuthor_0"]}
+{"key": "gas", "value": 315656, "context": ["consistency_paperForAuthor_0"]}
+{"key": "transaction_data_kb", "value": 0.822265625, "context": ["consistency_paperForAuthor_0"]}
+{"key": "time_transaction_full", "value": 10.109901189804077, "context": ["consistency_paperForAuthor_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 2.009214401245117, "context": ["recordReview_0"]}
+{"key": "time_libsnark_gen_proof", "value": 18.368882656097412, "context": ["recordReview_0"]}
+{"key": "time_generate_proof", "value": 20.388691902160645, "context": ["recordReview_0"]}
+{"key": "arg_0", "value": "1234", "context": ["recordReview_0"]}
+{"key": "arg_1", "value": "[2117868701684464254725685740163775541942001367016543953393, 701656606348795410054043763321812477174248010005802081230, 19090310951707302316100886367560642938039444374027034457973349127870599743883]", "context": ["recordReview_0"]}
+{"key": "arg_2", "value": "[1, 19538380023439576200011273610528135368706335921535153597794022968087215257634, 16204401541622523550818794978208675592935116673697736274232169835150262979554, 9863316796663840977935423809571272461899969617423154500581456189806926086377, 1295867356806600172077929213272090969399204094490214988816012231989909250323, 19538380023439576200011273610528135368706335921535153597794022968087215257634, 16204401541622523550818794978208675592935116673697736274232169835150262979554, 9863316796663840977935423809571272461899969617423154500581456189806926086377, 1295867356806600172077929213272090969399204094490214988816012231989909250323]", "context": ["recordReview_0"]}
+{"key": "arg_3", "value": "[18993772176675595165339437619289685992930159266690946757266671070263221695801, 17378585718478819760322504652188323759179018956900127925821960358016666217630, 6104022522000216970204695619759102051325221265150440595639775351518043335463, 18052392344634557415907415394071592732408350004959117385318948587221713970428, 13650002273714006088278549181200785064853586585447337999071398576685340555986, 15891521573740174307953740418145481782674367276634101429613042040361271439106, 1227332258791060197452284121299226522165467113934417458729553352567306369314, 15859127954749509329660655844523300859811259074382373435488559357476658134511]", "context": ["recordReview_0"]}
+{"key": "gas", "value": 398278, "context": ["recordReview_0"]}
+{"key": "transaction_data_kb", "value": 1.447265625, "context": ["recordReview_0"]}
+{"key": "time_transaction_full", "value": 24.801105976104736, "context": ["recordReview_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.645366907119751, "context": ["recordReview_1"]}
+{"key": "time_libsnark_gen_proof", "value": 17.43579626083374, "context": ["recordReview_1"]}
+{"key": "time_generate_proof", "value": 19.089983701705933, "context": ["recordReview_1"]}
+{"key": "arg_0", "value": "1234", "context": ["recordReview_1"]}
+{"key": "arg_1", "value": "[2561658180824251013773184892762567213036245776503507367169, 2802366574009090472477024262738272465789563575734639123755, 2972751974254206617812768176292845404109515798657223761525706006806201969960]", "context": ["recordReview_1"]}
+{"key": "arg_2", "value": "[1, 78535377265195000878848975853474330843390050351544613193627731874492807432, 6661755041255554876756271190681138549797863379484615594425944919269451675814, 16137531769513051780636513692036168196752931022139000421916544335590778026526, 15235985459298247652785614539489402172181679023053121089207525034885806727433, 18863587878127211085001400158887295714569476855673881991319074933825601477014, 9305079144955638877289205107847852820657238866209010218724580947653665465437, 3500917223327958288635545128549237130353681484779148757327788081135857815872, 8572387585604277750309984580351209990392670413568258822971738602620401460571]", "context": ["recordReview_1"]}
+{"key": "arg_3", "value": "[333866608240095228072098582453906646227232231325361187139810660782638413967, 3200327260550187819378619064735836861016395108064381943686163206193076873382, 15915596064397950566782888834452677258452495978221819033956821353062547437476, 8796429274791207221422524386944810605423905023701974364705215320152063745254, 809600804123046799164206602872842679416576003743937410522648612879673714296, 8633685908299043762902427590446392162318260483981412942474020655501697421925, 15953841951296855259758658634017770574749818448807082087766591534044831258346, 18180486218147215819094933453498530324046166400591168091258244211633903892910]", "context": ["recordReview_1"]}
+{"key": "gas", "value": 323254, "context": ["recordReview_1"]}
+{"key": "transaction_data_kb", "value": 1.447265625, "context": ["recordReview_1"]}
+{"key": "time_transaction_full", "value": 23.582355499267578, "context": ["recordReview_1"]}
+{"key": "time_elgamal_decrypt", "value": 11.100264072418213, "context": ["decideAcceptance_0"]}
+{"key": "time_jsnark_prepare_proof", "value": 1.9381744861602783, "context": ["decideAcceptance_0"]}
+{"key": "time_libsnark_gen_proof", "value": 26.517127513885498, "context": ["decideAcceptance_0"]}
+{"key": "time_generate_proof", "value": 28.46377944946289, "context": ["decideAcceptance_0"]}
+{"key": "arg_0", "value": "b'\\xe1\\xab\\x81E\\xf7\\xe5]\\xc93\\xd5\\x1a\\x18\\xc7\\x93\\xf9\\x01\\xa3\\xa0\\xb2v'", "context": ["decideAcceptance_0"]}
+{"key": "arg_1", "value": "[1234, 1144385947605935610248644088162696138238618022532406939929, 3432906102627953232712291063741319334082154196508978764494, 3967669264201706855947161328043236587698026293139747979325, 947590106030321959552831278999762137671535946729200892864]", "context": ["decideAcceptance_0"]}
+{"key": "arg_2", "value": "[20763248157698688372219270633521710733486033202354775667184918140141032333587, 11383141892636834053413103029903473008231256835557013068337722637820611855824, 12164396239030018599490018794506402302913146864540346278905071356465528713302, 2956832261056847521558835378352841308061195291492502092170119762831151798782, 3846040771889818795815990255967160160425787932742730291691860954797686654777, 20615894488399055507807721729785899570754418306165401646219821821039003954690, 10872433140529039047953099670724961919723951172359969323048717726771729229279, 1331159194280875464606271564790894674575170937950884966032473444334861368190]", "context": ["decideAcceptance_0"]}
+{"key": "gas", "value": 340442, "context": ["decideAcceptance_0"]}
+{"key": "transaction_data_kb", "value": 1.009765625, "context": ["decideAcceptance_0"]}
+{"key": "time_transaction_full", "value": 43.89818263053894, "context": ["decideAcceptance_0"]}
+{"key": "time_all_transactions", "value": 145.6518042087555, "context": []}

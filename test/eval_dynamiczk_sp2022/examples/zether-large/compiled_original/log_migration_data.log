@@ -1,0 +1,28 @@
+{"key": "function_name", "value": "constructor", "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "function_value", "value": "None", "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "gas", "value": 511153, "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "transaction_data_kb", "value": 4.03515625, "context": ["constructor_0", "constructor", "ZetherLarge"]}
+{"key": "time_transaction_full", "value": 0.23134684562683105, "context": ["constructor_0"]}
+{"key": "function_name", "value": "fund", "context": ["fund_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["fund_0"]}
+{"key": "function_value", "value": "1000", "context": ["fund_0"]}
+{"key": "gas", "value": 70395, "context": ["fund_0"]}
+{"key": "transaction_data_kb", "value": 0.009765625, "context": ["fund_0"]}
+{"key": "time_transaction_full", "value": 0.2016758918762207, "context": ["fund_0"]}
+{"key": "function_name", "value": "transfer", "context": ["transfer_0"]}
+{"key": "function_sender", "value": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF", "context": ["transfer_0"]}
+{"key": "function_value", "value": "None", "context": ["transfer_0"]}
+{"key": "function_arg_0", "value": "b'h\\x13\\xeb\\x93b7.\\xefb\\x00\\xf3\\xb1\\xdb\\xc3\\xf8\\x19g\\x1c\\xbai'", "context": ["transfer_0"]}
+{"key": "function_arg_1", "value": "100", "context": ["transfer_0"]}
+{"key": "gas", "value": 91117, "context": ["transfer_0"]}
+{"key": "transaction_data_kb", "value": 0.134765625, "context": ["transfer_0"]}
+{"key": "time_transaction_full", "value": 0.3270695209503174, "context": ["transfer_0"]}
+{"key": "function_name", "value": "into_vault", "context": ["into_vault_0"]}
+{"key": "function_sender", "value": "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69", "context": ["into_vault_0"]}
+{"key": "function_value", "value": "None", "context": ["into_vault_0"]}
+{"key": "function_arg_0", "value": "45", "context": ["into_vault_0"]}
+{"key": "gas", "value": 67644, "context": ["into_vault_0"]}
+{"key": "transaction_data_kb", "value": 0.072265625, "context": ["into_vault_0"]}
+{"key": "time_transaction_full", "value": 0.24438762664794922, "context": ["into_vault_0"]}
+{"key": "time_all_transactions", "value": 1.2667279243469238, "context": []}

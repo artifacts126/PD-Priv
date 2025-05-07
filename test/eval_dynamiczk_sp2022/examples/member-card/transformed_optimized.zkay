@@ -1,0 +1,34 @@
+pragma zkay ^0.3.0;
+
+contract MemberCard {
+    address issuer;
+    final address owner;
+    uint32 spent_original;
+    uint32 threshold;
+    uint bonus;
+    uint32@owner<+> spent;
+
+    constructor(address _owner) public {
+        owner = _owner;
+        issuer = me;
+        threshold = 100;
+    }
+
+    function updateBalance(uint32@me<+> amount) public payable {
+        require(me == issuer);
+        spent = spent + reveal(amount, owner);
+        bonus = bonus + msg.value;
+    }
+
+    function redeemBonus() public {
+        require(me == owner);
+        require(reveal(unhom(spent) >= reveal(threshold, me), all));
+        spent = reveal(0, owner);
+        msg.sender.transfer(bonus);
+        bonus = 0;
+    }
+
+    function consistency_transformation() public {
+        spent = reveal(spent_original, owner);
+    }
+}

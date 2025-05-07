@@ -1,0 +1,50 @@
+pragma zkay ^0.3.0;
+
+contract Voting {
+    enum Result {
+        A_WINS, B_WINS, TIE
+    }
+
+    final address owner;
+    uint32 votesForA_original;
+    uint32 votesForB_original;
+    mapping(address => bool) hasVoted;
+    bool resultAnnounced;
+    uint32@owner<+> votesForA;
+    uint32@owner<+> votesForB;
+
+    constructor() public {
+        owner = me;
+        votesForA = reveal(0, owner);
+        votesForB = reveal(0, owner);
+        resultAnnounced = false;
+    }
+
+    function vote(uint32@me<+> vote) public {
+        require(!hasVoted[me]);
+        require(!resultAnnounced);
+        uint32@me<+> voteA = addhom((unhom(vote) == reveal(0, me)) ? reveal(1, me) : reveal(0, me));
+        uint32@me<+> voteB = addhom((unhom(vote) == reveal(1, me)) ? reveal(1, me) : reveal(0, me));
+        votesForA = votesForA + reveal(voteA, owner);
+        votesForB = votesForB + reveal(voteB, owner);
+        hasVoted[me] = true;
+    }
+
+    function declareWinner() public returns (Voting.Result) {
+        require(me == owner);
+        resultAnnounced = true;
+        Voting.Result result;
+        if (reveal(unhom(votesForA) > unhom(votesForB), all))     result = Result.A_WINS;
+         else     if (reveal(unhom(votesForB) > unhom(votesForA), all))     result = Result.B_WINS;
+             else     result = Result.TIE;
+        return (result);
+    }
+
+    function consistency_votesForA() public {
+        votesForA = reveal(votesForA_original, owner);
+    }
+
+    function consistency_votesForB() public {
+        votesForB = reveal(votesForB_original, owner);
+    }
+}
